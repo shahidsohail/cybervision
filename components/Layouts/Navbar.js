@@ -30,7 +30,7 @@ const Navbar = () => {
         <div className="main-nav">
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
-              <Link href="/index4">
+              <Link href="/">
                 <a className="navbar-brand" style={{width:"5%"}}>
                   <img
                     src="/images/logo.png"
@@ -63,7 +63,7 @@ const Navbar = () => {
               <div className={classOne} id="navbarSupportedContent">
                 <ul className="navbar-nav m-auto">
                   <li className="nav-item">
-                    <Link href="/index4">
+                    <Link href="/">
                       <a className="nav-link">
                         Home 
                         {/* <i className="fas fa-chevron-down"></i> */}

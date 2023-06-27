@@ -12,14 +12,18 @@ const GetStartedProject = () => {
                 <span>Let’s Get Started</span>
                 <h3>Are you ready for a better, more productive business </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices Lorem Ipsum is simply dummy
-                  text.
+                As technology struggles to stay ahead of hackers, 
+                cybersecurity has emerged as one of the fastest growing markets,
+                 worth more than $150 billion today and expected to more than double 
+                 by 2026. A data breach can cost a big business billions of dollars, 
+                 and if you’re trained in cybersecurity, you already know that your 
+                 skills are in huge demand. If you’re not trained, getting 
+                 cybersecurity education and certification is not too difficult,
+                  and a key investment if you start your own cybersecurity business.
                 </p>
 
                 <div className="productive-btn">
-                  <Link href="/projects">
+                  <Link href="/services">
                     <a className="productive-btn">
                       Get Started Project
                       <span></span>

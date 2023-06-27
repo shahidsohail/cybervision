@@ -14,12 +14,12 @@ const Team = () => {
       <PageBanner
         pageTitle="Team"
         breadcrumbTextOne="Home"
-        breadcrumbTextTwo="Our Team Member"
+        breadcrumbTextTwo="Our Clients"
         breadcrumbUrl="/"
         bgImage="/images/page-title-bg-5.jpg"
       />
 
-      <TeamMemberContent />
+      {/* <TeamMemberContent /> */}
 
       <Testimonial />
 

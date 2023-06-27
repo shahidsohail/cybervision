@@ -32,7 +32,7 @@ const AboutUs = () => {
 
       <Testimonial />
 
-      <TeamMember />
+      {/* <TeamMember /> */}
 
       <Customers />
 

@@ -17,9 +17,7 @@ const SubscribeStyleThree = () => {
                 <div className="subscribe-content">
                   <h2>Don't Miss Our News And Updates</h2>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis ipsum suspendisse ultrices gravida.
+                    please subscribe our website for monthly updates and news
                   </p>
                 </div>
 

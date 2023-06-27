@@ -35,10 +35,13 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                    commodo viverra maecenas accumsan lacus vel facilisis.
+                  "Cyber ​​security services has performed a number of virtual services 
+                  for our institution, vulnerability assessment, penetration 
+                  test, IT audit, and continued with weekly consultant calls. 
+                  Not once have I noticed a disruption in services, 
+                  weekly consultant calls are still made, reports have been 
+                  delivery timely and the Virtual IT Audit went incredibly 
+                  smooth!"
                   </p>
                 </div>
               </div>
@@ -60,10 +63,14 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                    commodo viverra maecenas accumsan lacus vel facilisis.
+                  "Cyber ​​security services auditors are easy to work with, patient, 
+                  and provide information in a timely manner.
+                   They actually act more like a partner because even though 
+                   they have to write up items, they take the time to ensure 
+                   it is understood what needs correcting and why. There were
+                    no surprises in our report because findings had been 
+                    discussed while the auditors were onsite. SBS auditors do a
+                     great job preparing us for regulatory exams."
                   </p>
                 </div>
               </div>
@@ -83,10 +90,10 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                    commodo viverra maecenas accumsan lacus vel facilisis.
+                  "Cyber ​​security services is really good at what they do! Whether your business 
+                  utilizes them for IT testing, auditing, or their incredible TRAC program,
+                   SBS receives an A+ from our bank. They have the tools and work ethic to 
+                   ensure your exams go smoothly. SBS is simply as good as it gets!"
                   </p>
                 </div>
               </div>

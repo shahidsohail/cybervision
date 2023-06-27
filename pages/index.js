@@ -1,19 +1,19 @@
 import React from "react";
 import Navbar from "../components/Layouts/Navbar";
-import MainBanner from "../components/HomeOne/MainBanner";
-import OurServices from "../components/HomeOne/OurServices";
-import AboutUs from "../components/HomeOne/AboutUs";
+import MainBanner from "../components/HomeFour/MainBanner";
+import OurServices from "../components/HomeFour/OurServices";
+import AboutUs from "../components/HomeFour/AboutUs";
 import FunFacts from "../components/Common/FunFacts";
-import WorkingProcess from "../components/HomeOne/WorkingProcess";
-import FeaturedService from "../components/HomeOne/FeaturedService";
+import SolutionsTab from "../components/Common/SolutionsTab";
+import FeaturedService from "../components/HomeFour/FeaturedService";
 import Testimonial from "../components/Common/Testimonial";
 import GetStartedProject from "../components/Common/GetStartedProject";
 import BlogPost from "../components/Common/BlogPost";
-import Customers from "../components/Common/Customers";
-import Subscribe from "../components/Common/Subscribe";
+import ContactForm from "../components/Contact/ContactForm";
+import CustomerStyleTwo from "../components/Common/CustomerStyleTwo";
 import Footer from "../components/Layouts/Footer";
 
-const Index = () => {
+const Index4 = () => {
   return (
     <>
       <Navbar />
@@ -26,25 +26,23 @@ const Index = () => {
 
       <FunFacts />
 
-      <WorkingProcess />
+      <SolutionsTab />
 
-      <div className="pb-100">
-        <FeaturedService />
-      </div>
+      <FeaturedService />
 
       <Testimonial />
 
       <GetStartedProject />
 
-      <BlogPost />
+      {/* <BlogPost /> */}
 
-      <Customers />
+      <ContactForm />
 
-      <Subscribe />
+      {/* <CustomerStyleTwo /> */}
 
       <Footer />
     </>
   );
 };
 
-export default Index;
+export default Index4;

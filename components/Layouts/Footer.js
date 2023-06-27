@@ -15,10 +15,11 @@ const Footer = () => {
                   <h3>About Us</h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                Cyber ​​Vision Company is based on providing comprehensive 
+                cyber security management services, as it employed the best 
+                talents in the field of technology to provide innovative cyber 
+                security services by benefiting from leading expertise in the 
+                field of comprehensive information security management.
                 </p>
 
                 <ul className="footer-social">
@@ -60,20 +61,10 @@ const Footer = () => {
                     <Link href="/about-us">
                       <a>About Us</a>
                     </Link>
-                  </li>
-                  <li>
-                    <Link href="/projects">
-                      <a>Project</a>
-                    </Link>
-                  </li>
+                  </li> 
                   <li>
                     <Link href="/services">
                       <a>Services</a>
-                    </Link>
-                  </li>
-                  <li>
-                    <Link href="/team">
-                      <a>Team</a>
                     </Link>
                   </li>
                   <li>
@@ -97,21 +88,21 @@ const Footer = () => {
                       <a>Home</a>
                     </Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/blog">
                       <a>Blog</a>
                     </Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link href="/services">
                       <a>Services</a>
                     </Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/partner">
                       <a>Client</a>
                     </Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link href="/contact">
                       <a>Contact</a>
@@ -167,14 +158,15 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-6">
               <p>
-                &copy; {currentYear} Raxr. All Rights Reserved by
+                &copy; {currentYear} Copyright
+                {/* All Rights Reserved by
                 <a href="https://envytheme.com/" target="_blank">
                   EnvyTheme
-                </a>
+                </a> */}
               </p>
             </div>
 
-            <div className="col-lg-6 col-md-6">
+            {/* <div className="col-lg-6 col-md-6">
               <ul>
                 <li>
                   <Link href="/terms-condition">
@@ -187,7 +179,7 @@ const Footer = () => {
                   </Link>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
