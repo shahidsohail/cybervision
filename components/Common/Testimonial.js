@@ -69,7 +69,7 @@ const Testimonial = () => {
                    they have to write up items, they take the time to ensure 
                    it is understood what needs correcting and why. There were
                     no surprises in our report because findings had been 
-                    discussed while the auditors were onsite. SBS auditors do a
+                    discussed while the auditors were onsite. Cyber ​​security services auditors do a
                      great job preparing us for regulatory exams."
                   </p>
                 </div>
@@ -92,8 +92,8 @@ const Testimonial = () => {
                   <p>
                   "Cyber ​​security services is really good at what they do! Whether your business 
                   utilizes them for IT testing, auditing, or their incredible TRAC program,
-                   SBS receives an A+ from our bank. They have the tools and work ethic to 
-                   ensure your exams go smoothly. SBS is simply as good as it gets!"
+                  Cyber ​​security services receives an A+ from our bank. They have the tools and work ethic to 
+                   ensure your exams go smoothly. Cyber ​​security services is simply as good as it gets!"
                   </p>
                 </div>
               </div>

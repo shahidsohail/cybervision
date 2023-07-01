@@ -110,7 +110,7 @@ const Navbar = () => {
                         {/* <i className="fas fa-chevron-down"></i> */}
                       </a>
                     </Link>
-{/* 
+                  {/* 
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="/services" activeClassName="active">
