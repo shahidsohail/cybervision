@@ -391,7 +391,7 @@ Navbar Area CSS
 .main-nav .navbar .navbar-nav .nav-item a {
   font-size: 16px;
   font-weight: 500;
-  color: #ffffff;
+  color: #5b5b98;
   text-transform: capitalize;
   padding-left: 0;
   padding-right: 0;
@@ -620,7 +620,7 @@ Navbar Area CSS
 }
 
 .navbar-area {
-  background-color: transparent;
+  background-color: white;
   transition: 0.6s;
   position: absolute;
   z-index: 999;
@@ -645,6 +645,9 @@ Navbar Area CSS
   color: #000000;
 }
 .navbar-area.is-sticky .navbar-nav .nav-item a {
+  color: #5b5b98;
+}
+.navbar-area .navbar-nav .nav-item a {
   color: #5b5b98;
 }
 .navbar-area.is-sticky .navbar-nav .nav-item a:hover, .navbar-area.is-sticky .navbar-nav .nav-item a:focus, .navbar-area.is-sticky .navbar-nav .nav-item a.active {
