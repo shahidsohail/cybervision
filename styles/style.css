@@ -2138,6 +2138,9 @@ Partner Section CSS
   position: relative;
   margin-bottom: 30px;
 }
+.partner-list .partner-item img{
+ width:100px !important;
+}
 .partner-list .partner-item:nth-child(6) {
   margin-left: 10%;
 }
@@ -2825,6 +2828,10 @@ Partner Area CSS
 
 .partner-slider .partner-item {
   text-align: center;
+  display: flex;
+  align-items: center;
+  height: 100px;
+
 }
 .partner-slider .partner-item img {
   display: inline-block !important;

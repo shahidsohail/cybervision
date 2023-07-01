@@ -32,7 +32,7 @@ const GetStartedProject = () => {
 
                   <Link href="/contact">
                     <a className="productive-btn-one">
-                      Contact With Us
+                      Contact Us
                       <span></span>
                     </a>
                   </Link>
