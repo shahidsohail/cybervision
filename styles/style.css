@@ -622,7 +622,7 @@ Navbar Area CSS
 .navbar-area {
   background-color: white;
   transition: 0.6s;
-  position: absolute;
+  /* position: absolute; */
   z-index: 999;
   left: 0;
   top: 0;
@@ -4267,4 +4267,11 @@ Go Top CSS
 .swiper-nav-btns button:hover {
   background-color: hsl(210, 100%, 40%);
   cursor: pointer;
+}
+.partners-details-logo{
+  display: flex;
+  justify-content: center;
+}
+.partners-details-logo img{
+  width: 500px;
 }

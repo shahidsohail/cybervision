@@ -1,6 +1,7 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { SwiperNavButtons } from '../SwiperNavButton';
+import partnarDetails from "../../utils/partners-details";
 
 const CustomerStyleTwo = () => {
   return (
@@ -25,110 +26,18 @@ const CustomerStyleTwo = () => {
             }}
             className="partner-slider"
           >
-            <SwiperSlide>
+            {partnarDetails.map((key,value)=>{
+              return (
+              <SwiperSlide>
               <div className="partner-item">
-                <img src="/images/partner/1.png" alt="image" />
+                <a href={`/${key.link}`}>
+                <img src={`/images/partner/${key.id}.png`} alt="image" />
+                </a>
+                
               </div>
             </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/2.png" alt="image" />
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/3.png" alt="image" />
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/4.png" alt="image" />
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/5.png" alt="image" />
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/6.png" alt="image" />
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/7.png" alt="image" />
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/8.png" alt="image" />
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/9.png" alt="image" />
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/10.jpg" alt="image" />
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/11.png" alt="image" />
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/12.png" alt="image" />
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/13.png" alt="image" />
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/14.png" alt="image" />
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/15.png" alt="image" />
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/16.png" alt="image" />
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/17.png" alt="image" />
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/18.png" alt="image" />
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="partner-item">
-                <img src="/images/partner/19.png" alt="image" />
-              </div>
-            </SwiperSlide>
+              );
+            })}
             <SwiperNavButtons />
           </Swiper>
         </div>
