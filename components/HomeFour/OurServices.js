@@ -15,7 +15,8 @@ const OurServices = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services-box">
                 <div className="icon">
-                  <i className="flaticon-big-data"></i>
+                  <img src="../../images/cybersecurity.png" />
+                  {/* <i className="flaticon-big-data"></i> */}
                 </div>
 
                 <h3>Cyber ​​security services</h3>
@@ -34,7 +35,8 @@ const OurServices = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services-box">
                 <div className="icon">
-                  <i className="flaticon-data-analytics"></i>
+                <img src="../../images/cybersecurity1.png" />
+                  {/* <i className="flaticon-data-analytics"></i> */}
                 </div>
 
                 <h3>Our services</h3>

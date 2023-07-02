@@ -31,7 +31,7 @@ const Navbar = () => {
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/">
-                <a className="navbar-brand" style={{width:"5%"}}>
+                <a className="navbar-brand" style={{width:"70px",color: "#1671cc",display:"flex","align-items": "center"}}>
                   <img
                     src="/images/logo.png"
                     className="white-logo"
@@ -42,6 +42,7 @@ const Navbar = () => {
                     className="black-logo"
                     alt="logo"
                   />
+                Cyber ​​vision
                 </a>
               </Link>
 
@@ -110,7 +111,7 @@ const Navbar = () => {
                         {/* <i className="fas fa-chevron-down"></i> */}
                       </a>
                     </Link>
-{/* 
+                  {/* 
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="/services" activeClassName="active">

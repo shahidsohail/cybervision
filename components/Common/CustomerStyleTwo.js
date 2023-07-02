@@ -26,39 +26,109 @@ const CustomerStyleTwo = () => {
           >
             <SwiperSlide>
               <div className="partner-item">
-                <img src="/images/partner/partner1.png" alt="image" />
+                <img src="/images/partner/1.png" alt="image" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="partner-item">
-                <img src="/images/partner/partner2.png" alt="image" />
+                <img src="/images/partner/2.png" alt="image" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="partner-item">
-                <img src="/images/partner/partner3.png" alt="image" />
+                <img src="/images/partner/3.png" alt="image" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="partner-item">
-                <img src="/images/partner/partner4.png" alt="image" />
+                <img src="/images/partner/4.png" alt="image" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="partner-item">
-                <img src="/images/partner/partner5.png" alt="image" />
+                <img src="/images/partner/5.png" alt="image" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="partner-item">
-                <img src="/images/partner/partner6.png" alt="image" />
+                <img src="/images/partner/6.png" alt="image" />
               </div>
             </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/7.png" alt="image" />
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/8.png" alt="image" />
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/9.png" alt="image" />
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/10.jpg" alt="image" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/11.png" alt="image" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/12.png" alt="image" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/13.png" alt="image" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/14.png" alt="image" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/15.png" alt="image" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/16.png" alt="image" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/17.png" alt="image" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/18.png" alt="image" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="partner-item">
+                <img src="/images/partner/19.png" alt="image" />
+              </div>
+            </SwiperSlide>
+
           </Swiper>
         </div>
       </div>
