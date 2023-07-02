@@ -1,5 +1,6 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
+import { SwiperNavButtons } from '../SwiperNavButton';
 
 const CustomerStyleTwo = () => {
   return (
@@ -128,7 +129,7 @@ const CustomerStyleTwo = () => {
                 <img src="/images/partner/19.png" alt="image" />
               </div>
             </SwiperSlide>
-
+            <SwiperNavButtons />
           </Swiper>
         </div>
       </div>
