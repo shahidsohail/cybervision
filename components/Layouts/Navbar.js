@@ -107,24 +107,91 @@ const Navbar = () => {
                   <li className="nav-item">
                     <Link href="/services">
                       <a className="nav-link">
-                        Services 
-                        {/* <i className="fas fa-chevron-down"></i> */}
+                        Services <i className="fas fa-chevron-down"></i>
                       </a>
                     </Link>
-                  {/* 
+                  
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="/services" activeClassName="active">
-                          <a className="nav-link">Services</a>
+                          <a className="nav-link">
+                            Special Integrated Solutions <i className="fas fa-chevron-right"></i>
+                            </a>
+                        </Link>
+
+                        <ul className="dropdown-menu" style={{"left": "200px"}}>
+                          <li className="nav-item">
+                            <Link href="/services" activeClassName="active">
+                              <a className="nav-link">Converged Networks</a>
+                            </Link>
+                          </li>
+
+                          <li className="nav-item">
+                            <Link href="/service-details" activeClassName="active">
+                              <a className="nav-link">VSAT, Radio & Wireless</a>
+                            </Link>
+                          </li>
+                          <li className="nav-item">
+                            <Link href="/service-details" activeClassName="active">
+                              <a className="nav-link">VSAT, Radio & Wireless</a>
+                            </Link>
+                          </li>
+                          <li className="nav-item">
+                            <Link href="/service-details" activeClassName="active">
+                              <a className="nav-link">Low Current</a>
+                            </Link>
+                          </li>
+                          <li className="nav-item">
+                            <Link href="/service-details" activeClassName="active">
+                              <a className="nav-link">Physical Security</a>
+                            </Link>
+                          </li>
+                          <li className="nav-item">
+                            <Link href="/service-details" activeClassName="active">
+                              <a className="nav-link">Audio Visual</a>
+                            </Link>
+                          </li>
+                          <li className="nav-item">
+                            <Link href="/service-details" activeClassName="active">
+                              <a className="nav-link">Smart Aviation</a>
+                            </Link>
+                          </li>
+                        </ul>
+
+                      </li>
+
+                      <li className="nav-item">
+                        <Link href="/service-details" activeClassName="active">
+                          <a className="nav-link">Data Centers</a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
                         <Link href="/service-details" activeClassName="active">
-                          <a className="nav-link">Service Details</a>
+                          <a className="nav-link">Cloud Services</a>
                         </Link>
                       </li>
-                    </ul> */}
+                      <li className="nav-item">
+                        <Link href="/service-details" activeClassName="active">
+                          <a className="nav-link">Cyber Security</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/service-details" activeClassName="active">
+                          <a className="nav-link">Digital Signature</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/service-details" activeClassName="active">
+                          <a className="nav-link">Customer Experience</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/service-details" activeClassName="active">
+                          <a className="nav-link">Collaboration</a>
+                        </Link>
+                      </li>
+                    </ul>
                   </li>
 {/* 
                   <li className="nav-item">
