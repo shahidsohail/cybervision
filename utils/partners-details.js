@@ -7,7 +7,7 @@ const partnarDetails =
     type:[
         {
         "name":"NETWORKING",
-        "image":"Category/NETWORKING.jpg",
+        "image":"Category/Networking.jpg",
         listitems:[
             "Network Architecture - Cisco DNA",
             "Network Architecture - Cisco ACI",
@@ -21,7 +21,7 @@ const partnarDetails =
         },
         {
             "name":"COLLABORATION",
-            "image":"Category/COLLABORATION.png",
+            "image":"Category/collaboration.png",
             listitems:[
                 "Conferencing",
                 "Contact Center",
@@ -42,7 +42,7 @@ const partnarDetails =
         },
         {
             "name":"SECURITY",
-            "image":"Category/SECURITY.JPG",
+            "image":"Category/SECURITY.jpg",
             listitems:[
                 "Next-Generation Firewalls",
                 "Advanced Malware Protection (AMP)",
