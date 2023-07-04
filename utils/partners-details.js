@@ -7,22 +7,92 @@ const partnarDetails =
     type:[
         {
         "name":"NETWORKING",
-        "image":"1.png",
+        "image":"Category/NETWORKING.jpg",
         listitems:[
             "Network Architecture - Cisco DNA",
             "Network Architecture - Cisco ACI",
-            "SD-Access"
+            "SD-Access",
+            "SD-WAN",
+            "Switches",
+            "Wireless",
+            "Routers",
+            "Enterprise Network Security"
         ]
         },
         {
             "name":"COLLABORATION",
-            "image":"2.png",
+            "image":"Category/COLLABORATION.png",
             listitems:[
                 "Conferencing",
                 "Contact Center",
-                "Phones, Headsets, and Room Devices"
+                "Phones, Headsets, and Room Devices",
+                "Unified Communications and Calling",    
+                "Cognitive Collaboration"
             ]
-            }
+        },
+        {
+            "name":"CONTACT CENTER",
+            "image":"Category/contactcenter.png",
+            listitems:[
+                "Contact Center Express",
+                "Contact Center Enterprise",
+                "Packaged Contact Center Enterprise"
+               
+            ]
+        },
+        {
+            "name":"SECURITY",
+            "image":"Category/SECURITY.JPG",
+            listitems:[
+                "Next-Generation Firewalls",
+                "Advanced Malware Protection (AMP)",
+                "Email Security",
+                "Endpoint Security",
+                "Workload Security (Cisco Tetration)",
+                "Multi-Factor Authentication (Duo)",
+                "Services for Security"
+            ]
+        }
+        ,
+        {
+            "name":"MOBILITY & WIRELESS",
+            "image":"Category/MOBILITY.png",
+            listitems:[
+                "Next-Generation Firewalls",
+                "Advanced Malware Protection (AMP)",
+                "Email Security",
+                "Endpoint Security",
+                "Workload Security (Cisco Tetration)",
+                "Multi-Factor Authentication (Duo)",
+                "Services for Security"
+            ]
+        },
+        {
+            "name":"CLOUD",
+            "image":"Category/CLOUD.jpg",
+            listitems:[
+                "Next-Generation Firewalls",
+                "Advanced Malware Protection (AMP)",
+                "Email Security",
+                "Endpoint Security",
+                "Workload Security (Cisco Tetration)",
+                "Multi-Factor Authentication (Duo)",
+                "Services for Security"
+            ]
+        },
+        {
+            "name":"INTERNET OF THINGS (IoT)",
+            "image":"Category/IoT.png",
+            listitems:[
+                "IoT Networking",
+                "IoT Gateways",
+                "IoT Security",
+                "IoT Connectivity Management",
+                "Extended Enterprise",
+                "IoT Operations Management",
+                "IoT Data Management"
+            ]
+        }
     ]
 },
 {
@@ -33,7 +103,7 @@ const partnarDetails =
     type:[
         {
         "name":"NETWORKING",
-        "image":"4.png",
+        "image":"Category/NETWORKING.jpg",
         listitems:[
             "Routing",
             "Switching",
