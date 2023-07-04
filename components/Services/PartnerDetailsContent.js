@@ -11,13 +11,7 @@ const PerviceDetailsContent = ({partnar}) => {
               {partnar?.type?.map((key,value)=>{
                   return (
                     <div className="col-lg-6 col-md-12">
-                <div className="services-details-desc"
-                style={{"box-shadow": "0px 0px 10px 0px rgba(0,0,0,0.5)",
-                        "padding":"20px",
-                        "margin":"20px"
-
-                      }}  
-                >
+                <div className="parner-details-desc">
                   <h3>{key?.name}</h3>
                   <br/>
                   <div className="row">
