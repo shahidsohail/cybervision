@@ -30,14 +30,14 @@ const Footer = () => {
                   </li>
 
                   <li>
-                    <a href="https://www.twitter.com/" target="_blank">
+                    <a href="https://twitter.com/CyberVision_sa/" target="_blank">
                       <i className="fab fa-twitter"></i>
                     </a>
                   </li>
 
                   <li>
-                    <a href="https://www.pinterest.com/" target="_blank">
-                      <i className="fab fa-pinterest"></i>
+                    <a href="https://www.youtube.com/channel/UCOSqGuU2BZuy3ueyRIaiP3Q/" target="_blank">
+                      <i className="fab fa-youtube"></i>
                     </a>
                   </li>
 
@@ -121,13 +121,13 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
                   <h3>Phone</h3>
-                  <span>+123(456)123</span>
+                  <span>+96655709900</span>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
                   <h3>Email</h3>
-                  <span>hello@raxr.com</span>
+                  <span>info@cybervision.com.sa</span>
                 </div>
 
                 <div className="footer-info-contact">
