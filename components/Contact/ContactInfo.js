@@ -12,7 +12,7 @@ const ContactInfo = () => {
                 <div className="content-title">
                   <h3>Address</h3>
                   <p>
-                    32 st Kilda Road, Melbourne VIC, <br /> 3004 Australia
+                    272 Riyadh, Saudi Arabia
                   </p>
                 </div>
               </div>
