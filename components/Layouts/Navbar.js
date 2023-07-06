@@ -121,38 +121,33 @@ const Navbar = () => {
 
                         <ul className="dropdown-menu" style={{"left": "200px"}}>
                           <li className="nav-item">
-                            <Link href="/services" activeClassName="active">
+                            <Link href="/services/converged-networks" activeClassName="active">
                               <a className="nav-link">Converged Networks</a>
                             </Link>
                           </li>
 
                           <li className="nav-item">
-                            <Link href="/service-details" activeClassName="active">
+                            <Link href="/services/vsat-radio-wireless-new" activeClassName="active">
                               <a className="nav-link">VSAT, Radio & Wireless</a>
                             </Link>
                           </li>
                           <li className="nav-item">
-                            <Link href="/service-details" activeClassName="active">
-                              <a className="nav-link">VSAT, Radio & Wireless</a>
-                            </Link>
-                          </li>
-                          <li className="nav-item">
-                            <Link href="/service-details" activeClassName="active">
+                            <Link href="/services/low-current" activeClassName="active">
                               <a className="nav-link">Low Current</a>
                             </Link>
                           </li>
                           <li className="nav-item">
-                            <Link href="/service-details" activeClassName="active">
+                            <Link href="/services/physical-security" activeClassName="active">
                               <a className="nav-link">Physical Security</a>
                             </Link>
                           </li>
                           <li className="nav-item">
-                            <Link href="/service-details" activeClassName="active">
+                            <Link href="/services/audio-visual" activeClassName="active">
                               <a className="nav-link">Audio Visual</a>
                             </Link>
                           </li>
                           <li className="nav-item">
-                            <Link href="/service-details" activeClassName="active">
+                            <Link href="/services/smart-aviations" activeClassName="active">
                               <a className="nav-link">Smart Aviation</a>
                             </Link>
                           </li>
@@ -161,34 +156,39 @@ const Navbar = () => {
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/service-details" activeClassName="active">
+                        <Link href="/services/data-centers" activeClassName="active">
                           <a className="nav-link">Data Centers</a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/service-details" activeClassName="active">
+                        <Link href="/services/cloud-services" activeClassName="active">
                           <a className="nav-link">Cloud Services</a>
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link href="/service-details" activeClassName="active">
+                        <Link href="/services/cyber-security" activeClassName="active">
                           <a className="nav-link">Cyber Security</a>
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link href="/service-details" activeClassName="active">
+                        <Link href="/services/digital-signature" activeClassName="active">
                           <a className="nav-link">Digital Signature</a>
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link href="/service-details" activeClassName="active">
+                        <Link href="/services/customer-experience-solutions" activeClassName="active">
                           <a className="nav-link">Customer Experience</a>
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link href="/service-details" activeClassName="active">
+                        <Link href="/services/unified-collaborations" activeClassName="active">
                           <a className="nav-link">Collaboration</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/services/managed-services" activeClassName="active">
+                          <a className="nav-link">Managed Services</a>
                         </Link>
                       </li>
                     </ul>
