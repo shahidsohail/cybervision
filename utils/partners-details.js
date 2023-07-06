@@ -353,7 +353,45 @@ const partnarDetails =
         }                     
         
     ]
-}
+},
+{
+    "id":7,
+     "link":"f5",
+     "image":"f5.png",
+     "name":"F5 application services",
+     type:[
+         {
+         "name":"TRAFFIC OPTIMIZATION",
+         "image":"Category/F5_-150x150.png",
+         listitems:[
+            "BIG-IP Cloud Edition",
+            "BIG-IP iSeries",
+            "BIG-IP VE",
+            "VIPRION"
+           ]
+         },
+         {
+            "name":"SECURITY",
+            "image":"Category/lock-in-container-square.png",
+            listitems:[
+                "Access Policy Manager",
+                "Advanced Firewall Manager",
+                "Advanced WAF",
+                "DDoS Hybrid Defender",
+                "Silverline",
+                "SSL Orchestrator"                
+              ]
+         },
+         {
+            "name":"CLOUD SOFTWARE",
+            "image":"Category/cloud-with-two-arrows-wide_1D9CD3-768x361.png",
+            listitems:[
+                "BIG-IP Cloud Edition",
+                "BIG-IP Virtual Editions",
+                ]
+         }
+     ]
+ }
 
 ];
 
