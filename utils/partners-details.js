@@ -112,30 +112,246 @@ const partnarDetails =
         },
         {
             "name":"Wired and Wireless",
-            "image":"4.png",
+            "image":"Category/Juniper_MIST.jpg",
             listitems:[
                 "Wireless Lan",
                 "Wireless cloud",
                 "Wireless Subscription"
             ]
         },
+        {
+            "name":"Security",
+            "image":"Category/System-Security-Firewall-ON-icon.png",
+            listitems:[
+                "Identity Management",
+                    "JATP Products",
+                    "SRX firewalls",
+                    "vSRX virtual firewall",
+                    "Security Director",
+                    "SIEM"
+            ]
+        },
+        {
+            "name":"Data Center",
+            "image":"Category/Juniper_datacenterV2.jpg",
+            listitems:[
+                "Access and Leaf",
+                "Core and Spine",
+                "QFX switches"
+
+            ]
+        },
+        {
+            "name":"SDN",
+            "image":"Category/Juniper_SDNV2.jpg",
+            listitems:[
+                "Contrail Cloud",
+                "Contrail Enterprise Cloud",
+                "Contrail SD-WAN"
+            ]
+        },
+        {
+            "name":"5G",
+            "image":"Category/Juniper_5GV2-300x200.jpg",
+            listitems:[
+                "ACX Metro",
+                "MX 5G platform",
+                "PTX series"
+            ]
+        }
     ]
 },
 {
     "id":3,
     "link":"dellEMC",
     "image":"3.png",
-    "name":"dellEMC",
+    "name":"Dell EMC Solutions",
     type:[
         {
-        "name":"NETWORKING",
-        "image":"1.png",
+        "name":"Cloud",
+        "image":"Category/CLOUD.jpg",
         listitems:[
-            "Network Architecture - Cisco DNA",
-            "Network Architecture - Cisco ACI",
-            "SD-Access"
+            "Dell Technologies Cloud",
+            "Cloud Enabled Infrastructure"
         ]
+        },
+        {
+            "name":"Converged Infrastructureoud",
+            "image":"Category/ConvergedInfrastructure.png",
+            listitems:[
+                "Ready Stack",
+                "VxBlock"
+            ]
+            },
+        {
+            "name":"Data Protection",
+            "image":"Category/dataprotection.png",
+            listitems:[
+                "Data Protection & Backup Appliances",
+                "Data Protection & Backup Software",
+                "Data Protection & Backup Solutions",                
+            ]
+        },
+        {
+            "name":"Data Storage",
+            "image":"Category/DataStorage.png",
+            listitems:[
+                "Data Storage Essentials",
+                "Primary Storage",
+                "Unstructured Data Storage"
+            ]
+        },
+        {
+            "name":"Hyperconverged Infrastructure",
+            "image":"Category/dellemc_hyperconverged.jpeg",
+            listitems:[
+                "Dell EMC Integrated System for Microsoft Azure Stack Hub • vSAN Ready Nodes",
+                "Dell EMC Solutions for Microsoft Azure Stack HCI",
+                "HCI for Kubernetes",
+                "VxFlex",
+                "VxFlex Ready Nodes",
+                "VxRail",
+                "XC Family"
+
+            ]
         }
+    ]
+},
+{
+    "id":5,
+    "link":"VMware",
+    "image":"5.png",
+    "name":"VMware Solutions",
+    type:[
+        {
+        "name":"Data Centre & Cloud Infrastructure",
+        "image":"Category/CLOUD.jpg",
+        listitems:[
+            "VMware Continuent",
+            "VMware Hyper-Converged Infrastructure Kits",
+            "VMware NSX",
+            "VMware NSX Advanced Load Balancer",
+            "VMware Software Manager",
+            "VMware vCenter Support Assistant",
+            "VMware vCloudDirector",
+            "VMware vSAN",
+            "VMware vSphere",
+            "VMware vSphere Data Protection Advanced",
+            "VMware vSphere Essentials Plus with vSphere Storage Appliance",
+            "VMware vSphere Storage Appliance"            
+        ]
+        },
+        {
+            "name":"Infrastructure & Operations Management",
+            "image":"Category/ConvergedInfrastructure.png",
+            listitems:[
+                "VMware Health Analyzer Collector",
+                "VMware Integrated OpenStack",
+                "VMware Site Recovery Manager",
+                "VMware vCenter Server",
+                "VMware vCloud Connector Core",
+                "VMware vRealize Automation",
+                "VMware vRealize Code Stream",
+                "VMware vRealize Configuration Manager",
+                "VMware vRealize Log Insight",
+                "VMware vRealize Network Insight",
+                "VMware vRealize Operations Insight",
+                "VMware vRealize Operations Management Pack for EPIC",
+                "VMware vRealize Operations Management Pack for MEDITECH",
+                "VMware vRealize Suite"                
+            ]
+            },
+        {
+            "name":"Modern Applications",
+            "image":"Category/dataprotection.png",
+            listitems:[
+                "VMware Enterprise PKS",
+                "VMware Tanzu",
+                "VMware Tanzu Kubernetes Grid"                
+            ]
+        },
+        {
+            "name":"Security Products",
+            "image":"Category/SECURITY.jpg",
+            listitems:[
+                "VMware Carbon Black",
+                "VMware vCloud Networking and Security" 
+            ]
+        },
+        {
+            "name":"Cloud Application Platform",
+            "image":"Category/CLOUD.jpg",
+            listitems:[
+                "VMware vFabric Postgres",
+                "VMware vRealize Hyperic"
+            ]
+        },
+         {
+            "name":"IT Service Manager",
+            "image":"Category/ITServiceManager.png",
+            listitems:[
+                "VMware Service Manager"
+            ]
+        },
+        {
+            "name":"VMware IT Business Management",
+            "image":"Category/ITBusiness.jpg",
+            listitems:[
+                "VMware vFabric Postgres",
+                "VMware vRealize Hyperic"
+            ]
+        },
+        {
+            "name":"VMware Telecommunications Solutions",
+            "image":"Category/Telecommunications.png",
+            listitems:[
+                "VMware vFabric Postgres",
+                "VMware vRealize Hyperic"
+            ]
+        },
+        {
+            "name":"VMware Free Software & Tools",
+            "image":"Category/tools.png",
+            listitems:[
+               "VMmark",
+                "VMware View Planner",
+                "VMware vCloud Usage Meter"
+
+            ]
+        } ,
+        {
+            "name":"VMware Data Collection",
+            "image":"Category/data-collection.png",
+            listitems:[
+                "VMware Skyline",
+                "Customer Experience Improvement Program"
+            ]
+        } ,
+        {
+            "name":"VMware Suites",
+            "image":"Category/server.png",
+            listitems:[
+                "VMware Cloud Foundation",
+                "VMware Server SAN Suite",
+                "VMware vCloud NFV",
+                "VMware vCloud Suite",
+                "VMware vRealize Operations",
+                "VMware vSphere with Operations Management"                                
+            ]
+        } ,
+        {
+            "name":"Desktop & End User Computing",
+            "image":"Category/monitor.png",
+            listitems:[
+                "VMware Cloud Foundation",
+                "VMware Server SAN Suite",
+                "VMware vCloud NFV",
+                "VMware vCloud Suite",
+                "VMware vRealize Operations",
+                "VMware vSphere with Operations Management"                                
+            ]
+        }                     
+        
     ]
 }
 
