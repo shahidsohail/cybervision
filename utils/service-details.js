@@ -310,39 +310,240 @@ const serviceDetails = [
         image:"customerExperience/banner.jpeg",
         categoty:[
             {
-                heading:"Private Cloud",
-                image:"customerExperience/1.jpg",
+                heading:"Customer Experience Solutions",
+                image:"customerExperience/1.jpeg",
                 description:`
                 <p>
-                It’s a data center that dynamically provision and deliver services to business. This type of cloud computing is generally used by large companies and allows their corporate network and data center administrators to effectively become in-house ‘service providers’ catering to ‘customers’ within the corporation.
+                BTC is entrusted by major Banks, Insurance Providers, Hospitals, Educational Institutions and Government entities to provide better services to their customers. We design, develop and implement Omni-channel Contact Center solutions.
+                <br />
+                BTC has more than 20 years of experience in Contact Center implementations and delivered over 100 mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc.
                 </p>`,
             }, 
                 {
-                heading:"Hybrid Cloud",
-                image:"customerExperience/2.png",
-                description:`<p>
-                A hybrid cloud infrastructure consists of two or more distinct cloud infrastructures (private, community, or public) that remain separate, but are bound together by standardized or proprietary technology which enables data and application portability. Normally, it is a combination of public and private. A hybrid cloud is almost always a combination of public and private and is the combination considered in this section.
-                <br />
-                We’ve highlighted five areas that offer significant benefits of Hybrid cloud which help your business.
-                </p>`
-            },
+                    heading:"Self Service Solutions",
+                    image:"customerExperience/3.png",
+                    description:`
+                    <ul>
+                        <li>Self-service solutions​</li>
+                        <li>Interactive Voice Response (IVR)</li>
+                        <li>Chatbot</li>
+                    </ul>
+                    `
+                },
+                {
+                    heading:"CRM Integrations",
+                    image:"customerExperience/4.png",
+                    description:`
+                    <ul>
+                        <li>Siebel​ Integration​</li>
+                        <li>Microsoft Integration​</li>
+                        <li>Salesforce Integration​</li> 
+                    </ul>
+                    `
+                },
+                {
+                    heading:"Outbound Campaign",
+                    image:"customerExperience/5.png",
+                    description:`
+                    <ul>
+                        <li>Telemarketing​</li>
+                        <li>Collection</li> 
+                    </ul>
+                    `
+                },
+                {
+                    heading:"Speech Solutions",
+                    image:"customerExperience/6.png",
+                    description:`
+                    <ul>
+                        <li>Speech Analytics​</li>
+                        <li>Text to speech (TTS)</li>
+                        <li>Automatic Speech Recognition (ASR)</li>
+                        <li>Automated Quality Management Solution</li>
+                    </ul>
+                    `
+                },
+                {
+                    heading:"Intelligent Automation",
+                    image:"customerExperience/7.png",
+                    description:`
+                    <ul>
+                        <li>Automated Speech Recognition</li>
+                        <li>Natural Language Understanding</li>
+                        <li>Conversational IVR​</li>
+                        <li>Voice Biometrics</li> 
+                    </ul>
+                    `
+                },
+                {
+                    heading:"360 Customer Journey",
+                    image:"customerExperience/8.png",
+                    description:`
+                    <ul>
+                        <li>24 x 7 Time Critical Support Services​</li>
+                        <li>Customized Wallboards​</li>
+                        <li>Customized Dashboards​</li> 
+                    </ul>
+                    `
+                },
+                {
+                    heading:"Workforce Management",
+                    image:"customerExperience/9.png",
+                    description:`
+                    <ul>
+                        <li>Forecasting</li>
+                        <li>Scheduling</li> 
+                    </ul>
+                    `
+                },
+
+        ]
+        
+    },
+    {
+        id:6,
+        link:"unified-collaborations",
+        image:"collaborations/banner.jpeg",
+        categoty:[
             {
-                heading:"Multi Cloud",
-                image:"customerExperience/3.png",
+                heading:"UNIFIED COLLABORATION",
+                image:"collaborations/1.jpeg",
                 description:`
                 <p>
-                Multi cloud is the use of two or more clouds from different cloud providers. This can be any mix of Infrastructure, Platform, or Software as a Service (IaaS, PaaS, or SaaS). For example, you may consume email as service from one vendor, customer relationship management (CRM) from another, and Infrastructure as a Service (IaaS) from yet another. Multi-cloud platforms enable the end users with below benefits.
-                </p> 
+                Teamwork has always been an essential part of running an effective business. However, in today’s digital environment, the way that people collaborate is changing. Employees situated all over the world still need to be able to connect and work together on important projects.
+                <br />
+                For companies to thrive in the age of the digital workforce, they need more than just a cohesive communication strategy. Collaborative tools are part of the fundamental requirements that all organizations need to maintain exceptional outcomes and employee performance
+                <br />
+                We will analyze your UC requirements and set up the necessary connected devices, endpoints, and software solutions in order to <b>create a powerful collaboration ecosystem on your premises.</b>
+                </p>`,
+            }, 
+                {
+                    heading:"CALL CONTROL",
+                    image:"collaborations/2.png",
+                    description:`
+                    <p>
+                    Scalable and Resilient Call control is centralized at a single location that serves multiple remote sites. Management and administration are centralized from web base interface Virtualization Supported Common telephony features are available across voice and video endpoints
+                    </p>
+                    `
+                },
+                {
+                    heading:"COLLABORATION ENDPOINTS",
+                    image:"collaborations/3.jpg",
+                    description:`
+                    <p>
+                    Video, IP phones, and desktop clients bring people together and enhance the user experience.
+                    </p>
+                    `
+                },
+                {
+                    heading:"CONFERENCING",
+                    image:"collaborations/4.png",
+                    description:`
+                    <p>   
+                    Scalable and Resilient Call control is centralized at a single location that serves multiple remote sites. Management and administration are centralized from web base interface Virtualization Supported Common telephony features are available across voice and video endpoints
+                    </p>
+                    `
+                },
+                {
+                    heading:"MOBILITY",
+                    image:"collaborations/5.png",
+                    description:`
+                    <p>
+                    Allows you to stay connected regardless of your location. Through your office extension, you can make and receive calls, chat, and more with softphone applications.
+                    </p>
+                    `
+                },
+                {
+                    heading:"PRESENCE & INSTANT MESSAGING",
+                    image:"collaborations/6.png",
+                    description:`
+                    <p>
+                        exchange text-based instant messages with users ,receive image, audio, video, and generic attachments .
+                        <br />
+                        Allowing users to see the availability status of their colleagues before they connect.
+                        <br />
+                    </p>
+                    `
+                },
+                {
+                    heading:"UNIFIED MESSAGING",
+                    image:"collaborations/7.png",
+                    description:`
+                    <p>
+                    UM combines voice messaging and email messaging into one mailbox that can be accessed from many different devices with optional enhancements like Fax support
+                    </p>
+                    `
+                },
+
+        ]
+        
+    },
+    {
+        id:7,
+        link:"managed-services",
+        image:"managedServices/banner.png",
+        categoty:[
+            {
+                heading:"Why Managed Services?",
+                image:"managedServices/1.jpg",
+                description:`
+                <p>
+                Almost all businesses nowadays need technology to operate efficiently and compete effectively. But as reliance on IT grows, the resources needed to support a complex IT environment gets even tremendous.
+
+                <br />
+                If an organization is keeping up with things such as backups, patches and security, then the odds of an IT disruption or another problem down the road will greatly decrease. Moreover, instead of following the traditional method of waiting for a major issue to rise and then fix, a business operating with a managed service focuses on the prevention of these issues before they disrupt employees, management and/or clients.
+                <br />
+                TeccManage provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. Our cutting edge NOC team along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur. We also ensure that the alerts received are summarized and reported on a daily, weekly or monthly basis to keep our customer up-to-date with their IT infrastructure status.
+                </p>
+                <br />
+                <b>Monitoring</b>
+                <p>
+                Round the clock monitoring of your complete IT Infrastructure and Applications with most comprehensive support for resolving issues remotely and on-the-field by our experienced technical experts.
+                </p>
+<br />
                 <ul>
-                <li>Easily manage and deploy workloads on multiple clouds,</li>
-                <li>avoid vendor lock-in</li>
-                <li>reduce cost</li>
-                <li>increase overall productivity</li>
+                <li>24×7 Remote Monitoring of the your Infrastructure</li>
+                <li>Monitor System Health like CPU, Memory Utilization</li>
+                <li>Monitor Interface status and Traffic Utilization</li>
+                <li>Monitor Services and Application</li>
+                <li>Field support in case of hardware failure</li>
                 </ul>
-                `
-            },
-          
-            
+                `,
+            }, 
+                {
+                    heading:"Management",
+                    image:"managedServices/2.jpg",
+                    description:`
+                    <p>
+                    Handling of day-to-day operational tasks for your IT infrastructure and applications, including configuration ownership and change management so that your team can focus high value tasks
+
+                    </p>
+
+                    <br />
+                <ul>
+                <li>Change management and taking ownership of the configuration</li>
+                <li>Configuration of Network, Security, Computing, Storage and Applications</li>
+                <li>Configuration of NextGen Security features including Application Firewall, TLS/SSL inspection, IPS and Identity Management</li>
+                </ul>
+                    `
+                },
+                {
+                    heading:"Optimize",
+                    image:"managedServices/3.jpg",
+                    description:`
+                    <p>
+                    Complete management of your IT assets with regular design and configuration reviews by our Subject Matter Experts and close coordination with product vendors to proactively resolve any issues
+                    </p>
+
+                    <ul>
+                    <li>Quarterly review of configuration, policies and utilization of all systems</li>
+                    <li>Daily monitoring of security advisories from vendor to proactively discover any software, hardware or security issues</li>
+                    <li>Firmware upgrades and patching based on performance, feature requirements and security advisories</li>
+                    <li>Long term analysis of performance parameters and traffic utilization with quarterly reporting</li>
+                    </ul>
+                    `
+                },
+
         ]
         
     },
