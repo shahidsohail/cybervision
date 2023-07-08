@@ -2786,6 +2786,7 @@ Contact Section CSS
   box-shadow: 0 0 11px 3px rgba(0, 0, 0, 0.05);
   padding: 30px;
   margin-bottom: 30px;
+  border-radius: 20px;
 }
 .contact-box .single-contact-box i {
   line-height: 50px;

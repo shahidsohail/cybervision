@@ -33,7 +33,7 @@ const ContactInfo = () => {
                 <i className="fa fa-phone"></i>
                 <div className="content-title">
                   <h3>Phone</h3>
-                  <p>+96655709900</p>
+                  <p><img src="/images/whatsapp.png"/> +96655709900</p>
                 </div>
               </div>
             </div>
