@@ -547,5 +547,364 @@ const serviceDetails = [
         ]
         
     },
+    {
+        id:8,
+        link:"converged-networks",
+        image:"convergedNetworks/banner.png",
+        categoty:[
+            {
+                heading:"Long Haul Fiber Optic Repeater-less Solution",
+                image:"convergedNetworks/1.jpg",
+                description:`
+                <p>
+                With an extensive experience of deploying transmission networks for our customers for many years, BTC has also implemented
+many repeater-less projects thereby giving the client the flexibility to have the solution for long-haul connectivity for Metro Network Backhaul, Submarine and Underseas Networks, SCADA and Telemetry Transport, Electric Utility, Transportation, Pipeline and Private Networks. Critical infrastructure, such as oil and gas pipelines and electricity transmission
+
+                <br />
+                Critical infrastructure, such as oil and gas pipelines and electricity transmission, requires extremely reliable, real-time monitoring and control technology. Increasingly, the monitoring and control of critical networks is accomplished over fiber optic lines. Many of the more recent electrical transmission links extend over very long distances.
+                <br />
+                TeccManage provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. Our cutting edge NOC team along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur. We also ensure that the alerts received are summarized and reported on a daily, weekly or monthly basis to keep our customer up-to-date with their IT infrastructure status.
+                <br />
+                The generation of energy from renewable sources such as hydro, wind and solar often means that the generation of energy is separated over long distances from the areas of consumption. Repeaterless solution eliminates the need for optical regeneration of telemetry communication signals and saves costly capital and operational expenditures for the owners and operators of these critical infrastructures.
+
+                </p>
+                `,
+            }, 
+                {
+                    heading:"MPLS-TP Solution",
+                    image:"convergedNetworks/2.png",
+                    description:`
+                    <p>
+                    With an extensive experience of deploying traditionally TDM/SDH and latest MPLS-TP networks for our customers for many years, BTC has also implemented many MPLS-TP projects thereby giving the client the solution to have its critical applications on premises in a private network to have the ability to establish the connectivity over their own private fiber optic infrastructure.
+                    </p>
+                    <br />
+                    <p>
+                    Transport networks have traditionally been built using Time Division Multiplexed (TDM) SONET/SDH devices. These are becoming ineffective and costly in today's packet-oriented world, which is driving service providers and utilities companies to deploy more packet-based equipment in their transport networks.
+                    </p> 
+                    `
+                },
+                {
+                    heading:"RFTS Solution",
+                    image:"convergedNetworks/3.png",
+                    description:`
+                    <p>
+                    With an extensive experience, BTC has implemented many RFTS projects thereby the clients have the fiber optic infrastructure monitored 24/7and reduce the mean time to repair the fiber optic cables.
+                    <br />
+                    A remote fiber monitoring system enables the oversight of an entire fiber optic network, including dark fiber, from a central location. Using this comprehensive method, the performance of the network can be continuously evaluated, and Mean Time to Repair (MTTR) can be minimized. 
+                    </p>
+                    
+                    `
+                },
+                {
+                    heading:"Optimize",
+                    image:"convergedNetworks/4.jpg",
+                    description:`
+                    <p>
+                    Complete management of your IT assets with regular design and configuration reviews by our Subject Matter Experts and close coordination with product vendors to proactively resolve any issues
+                    </p>
+
+                    <ul>
+                    <li>Quarterly review of configuration, policies and utilization of all systems</li>
+                    <li>Daily monitoring of security advisories from vendor to proactively discover any software, hardware or security issues</li>
+                    <li>Firmware upgrades and patching based on performance, feature requirements and security advisories</li>
+                    <li>Long term analysis of performance parameters and traffic utilization with quarterly reporting</li>
+                    </ul>
+                    `
+                },
+        ]
+    },
+
+    {
+        id:9,
+        link:"vsat-radio-wireless-new",
+        image:"vsatRadioWireless/banner.png",
+        categoty:[
+            {
+                heading:"VSAT",
+                image:"vsatRadioWireless/1.png",
+                description:`
+                <p>
+                VSAT (Very Small Aperture Terminal) is a satellite communications system that serves home or business users. Each end user is interconnected with the hub station via the satellite in a star topology.
+
+                <br />
+                For one end user to communicate with another, each transmission has to first go to the hub station which re transmits it via the satellite to the other end user’s VSAT. VSAT handles data, SCADA, voice, and video signals.
+                </p>
+                `,
+            }, 
+                {
+                    heading:"P25",
+                    image:"vsatRadioWireless/2.jpg",
+                    description:`
+                    <p>
+                    We are dedicated to designing and delivering superior P25 solutions that are robust, interoperable, and secure. With a range of both P25 Phase 1 and Phase 2 open standard-based elements, BTC can provide public safety agencies
+                    with complete end-to-end solutions to meet your unique organizational requirements.
+                    </p> 
+                    `
+                },
+                {
+                    heading:"DMR",
+                    image:"vsatRadioWireless/3.jpg",
+                    description:`
+                    <p>
+                    DMR is a digital communications platform that delivers commercial and worker safety benefits for mission critical users. With the capability to carry both voice and data, DMR gives you a powerful combination of flexibility, control and resiliency. DMR products adhere to the DMR Association’s open standards, ensuring interoperability with other compliant equipment.
+                    </p>
+                    
+                    `
+                },
+                {
+                    heading:"TETRA",
+                    image:"vsatRadioWireless/4.png",
+                    description:`
+                    <p>
+                    TETRA (Terrestrial Trunked Radio) is a global standard for digital trunked radio. Secure voice and data transmission and a wide range of features guarantee the adaptability needed to meet the unique requirements of professional
+                    <br />
+                    mobile radio users. With this technology we can guarantee the same level of services provided from the regular GSM service provider over your own standalone mission critical communications
+                    network.
+                    </p>
+                    `
+                },
+                {
+                    heading:"Backhaul Microwave",
+                    image:"vsatRadioWireless/5.jpg",
+                    description:`
+                    <p>
+                    For a long or short distance point-to-point link, a smart point-to-multipoint wireless SCADA network, or a utility- grade LTE modem, or both together, we provide a solution with unbeatable reliability and performance, the smart radios support all analogue and digital interfaces for a wide variety of applications.
+                    </p>
+                    `
+                },
+                {
+                    heading:"Command & Control",
+                    image:"vsatRadioWireless/6.jpg",
+                    description:`
+                    <p>
+                    Its  meet the complex demands of critical communication centers throughout the world. With its combination of advanced telephony capabilities and radio integration.
+                    <br />
+                    Delivers a robust, command and control system, whether centralized or distributed, with unparalleled operational efficiency, an extensive feature set, enterprise class server architecture, and end-to-end resiliency, It’s offers the most complete mission critical communications solution.
+                    </p>
+                    `
+                },
+        ]
+    },
+
+    {
+        id:10,
+        link:"low-current",
+        image:"lowCurrent/banner.png",
+        categoty:[
+            {
+                heading:"Fire Alarm",
+                image:"lowCurrent/1.png",
+                description:`
+                <p>
+                    BTC provide all fire alarm solutions according to NFPA and has amassing references for Both UL (American) and EN54(European)
+                 </p>
+                `,
+            }, 
+                {
+                    heading:"Public Address / Voice EVAC",
+                    image:"lowCurrent/2.png",
+                    description:`
+                    <p>
+                    one of the leading Integrators for Public Address solutions providing the latest technologies solutions in the field
+
+                    </p> 
+                    `
+                },
+                {
+                    heading:"MATV / IP TV",
+                    image:"lowCurrent/3.png",
+                    description:`
+                    <p>
+                    #MATV RF , IF distribution 
+
+                    #IPTV solution with deploying all modules known in the market (VOD, Hospitality services,
+                    </p>
+                    
+                    `
+                },
+                {
+                    heading:"Nurse Call",
+                    image:"lowCurrent/4.png",
+                    description:`
+                    <p>
+                    Edge technologies in the market for Nurse call systems: wired, wireless solution designed mainly for requesting nurses for assisting patient
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"Master Clock",
+                    image:"lowCurrent/5.png",
+                    description:`
+                    <p>
+                    In hospital, airports, universities and government buildings people need for synchronized and exact updated time, we offers all types of Clocks and timers with all types of Sync.
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"Flight Information Display System",
+                    image:"lowCurrent/6.png",
+                    description:`
+                    <p>
+                    Airport FIDS . It is designed to display timetables, gate or baggage belt information or other travel/tourist information at any location.
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"BMS",
+                    image:"lowCurrent/7.png",
+                    description:`
+                    <p>
+                    BMS systems are “Intelligent” microprocessor-based controller networks installed to monitor and control a buildings technical systems
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"Queue Management System",
+                    image:"lowCurrent/8.png",
+                    description:`
+                    <p>
+                    A need to manage the flow , this solution is ideal for Banks branches , service providers , hospital ..etc.
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"SCADA & Automation",
+                    image:"lowCurrent/9.png",
+                    description:`
+                    <p>
+                    A need to manage the flow , this solution is ideal for Banks branches , service providers , hospital ..etc.
+                    
+                    </p>
+                    `
+                },
+
+                {
+                    heading:"Parking Management System",
+                    image:"lowCurrent/10.png",
+                    description:`
+                    <p>
+
+                    Entry Ticket Dispenser and exit Dispenser , payment machine
+Parking Guidance: for traffic flow , empty-busy places
+                    </p>
+                    `
+                },
+        ]
+    },
+    {
+        id:11,
+        link:"physical-security",
+        image:"physicalSecurity/banner.png",
+        categoty:[
+            {
+                heading:"Fire Alarm",
+                image:"lowCurrent/1.png",
+                description:`
+                <p>
+                    BTC provide all fire alarm solutions according to NFPA and has amassing references for Both UL (American) and EN54(European)
+                 </p>
+                `,
+            }, 
+                {
+                    heading:"Public Address / Voice EVAC",
+                    image:"lowCurrent/2.png",
+                    description:`
+                    <p>
+                    one of the leading Integrators for Public Address solutions providing the latest technologies solutions in the field
+
+                    </p> 
+                    `
+                },
+                {
+                    heading:"MATV / IP TV",
+                    image:"lowCurrent/3.png",
+                    description:`
+                    <p>
+                    #MATV RF , IF distribution 
+
+                    #IPTV solution with deploying all modules known in the market (VOD, Hospitality services,
+                    </p>
+                    
+                    `
+                },
+                {
+                    heading:"Nurse Call",
+                    image:"lowCurrent/4.png",
+                    description:`
+                    <p>
+                    Edge technologies in the market for Nurse call systems: wired, wireless solution designed mainly for requesting nurses for assisting patient
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"Master Clock",
+                    image:"lowCurrent/5.png",
+                    description:`
+                    <p>
+                    In hospital, airports, universities and government buildings people need for synchronized and exact updated time, we offers all types of Clocks and timers with all types of Sync.
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"Flight Information Display System",
+                    image:"lowCurrent/6.png",
+                    description:`
+                    <p>
+                    Airport FIDS . It is designed to display timetables, gate or baggage belt information or other travel/tourist information at any location.
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"BMS",
+                    image:"lowCurrent/7.png",
+                    description:`
+                    <p>
+                    BMS systems are “Intelligent” microprocessor-based controller networks installed to monitor and control a buildings technical systems
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"Queue Management System",
+                    image:"lowCurrent/8.png",
+                    description:`
+                    <p>
+                    A need to manage the flow , this solution is ideal for Banks branches , service providers , hospital ..etc.
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"SCADA & Automation",
+                    image:"lowCurrent/9.png",
+                    description:`
+                    <p>
+                    A need to manage the flow , this solution is ideal for Banks branches , service providers , hospital ..etc.
+                    
+                    </p>
+                    `
+                },
+
+                {
+                    heading:"Parking Management System",
+                    image:"lowCurrent/10.png",
+                    description:`
+                    <p>
+
+                    Entry Ticket Dispenser and exit Dispenser , payment machine
+Parking Guidance: for traffic flow , empty-busy places
+                    </p>
+                    `
+                },
+        ]
+    },
 ];
 export default serviceDetails;
