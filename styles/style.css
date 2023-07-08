@@ -69,7 +69,8 @@ button:focus {
   height: 100%;
 }
 .d-table-cell {
-  vertical-align: middle;
+  margin-top: 10px;;
+  vertical-align: text-top;
 }
 
 .ptb-100 {
@@ -771,6 +772,7 @@ Main Banner Area CSS
 .main-banner-content p {
   color: #ffffff;
   margin: 0 0 0 0;
+  text-align:justify;
 }
 .main-banner-content .banner-btn {
   margin-top: 35px;
