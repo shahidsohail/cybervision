@@ -8,7 +8,7 @@ const MainBanner = () => {
     <>
       <FsLightbox
         toggler={toggler}
-        sources={["https://www.youtube.com/watch?v=bk7McNUjWgw"]}
+        sources={["https://www.youtube.com/watch?v=gVMnccPk7g0"]}
       />
 
       <div className="main-banner-four">
@@ -20,7 +20,7 @@ const MainBanner = () => {
                   <div className="main-banner-content">
                     <h1>Cyber ​​vision concept</h1>
                     <p>
-                    The Cyber ​​Vision Concept Company was built to meet the needs of small,
+                    The Cyber ​​Vision Company was built to meet the needs of small,
                     medium and large companies for cyber security work in the Kingdom of
                     Saudi Arabia in a comprehensive manner, and is specially designed to serve 
                     the interests of companies as consulting and services in the field of cyber
