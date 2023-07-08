@@ -802,108 +802,211 @@ Parking Guidance: for traffic flow , empty-busy places
         image:"physicalSecurity/banner.png",
         categoty:[
             {
-                heading:"Fire Alarm",
-                image:"lowCurrent/1.png",
+                heading:"Integrated Security Platform",
+                image:"physicalSecurity/1.jpg",
                 description:`
                 <p>
-                    cyber vision provide all fire alarm solutions according to NFPA and has amassing references for Both UL (American) and EN54(European)
-                 </p>
+                BTC has a deep experience to implement unified platform to integrate:
+                Physical security solutions + fire and safety solutions + Building asset management solutions
+                In command and control centers with seamless integration and seamless scalabilities
+                </p>
                 `,
             }, 
                 {
-                    heading:"Public Address / Voice EVAC",
-                    image:"lowCurrent/2.png",
+                    heading:"Security Control Center",
+                    image:"physicalSecurity/2.jpg",
                     description:`
                     <p>
-                    one of the leading Integrators for Public Address solutions providing the latest technologies solutions in the field
-
+                    BTC provides the highest technologies and the best of architecture design all in one-package solutions for the security control centers includes:
+                    Integrated Security Platform ( PISM ) , VMS and analytics
+                    Servers and storage, Video walls, Technical consoles, Network switches, Racks, UPS and more .
                     </p> 
                     `
                 },
                 {
-                    heading:"MATV / IP TV",
-                    image:"lowCurrent/3.png",
+                    heading:"Access Control",
+                    image:"physicalSecurity/3.jpg",
                     description:`
                     <p>
-                    #MATV RF , IF distribution 
-
-                    #IPTV solution with deploying all modules known in the market (VOD, Hospitality services,
+                    BTC technical team has strong experience in enterprise level for access control solutions with amazing references, providing integrated different access modules with wide range of authentication levels for huge database of access users to remote sites all together in a unified platform according to customer needs
                     </p>
                     
                     `
                 },
                 {
-                    heading:"Nurse Call",
-                    image:"lowCurrent/4.png",
+                    heading:"Physical Security",
+                    image:"physicalSecurity/4.jpg",
                     description:`
                     <p>
-                    Edge technologies in the market for Nurse call systems: wired, wireless solution designed mainly for requesting nurses for assisting patient
-
+                    BTC portfolio includes approx. all physical security solutions known in the market all as enterprise high-end tech. leading this market with amassing reference in government different sectors and also in Industrial utilities. Walk through gate scanner Luggage X-ray Scanners. Handheld Metal Detector UVSS integrated with LPR Sliding gates Road blockers Bollards Barriers
                     </p>
                     `
                 },
                 {
-                    heading:"Master Clock",
-                    image:"lowCurrent/5.png",
+                    heading:"Intrusion Detection",
+                    image:"physicalSecurity/5.jpg",
                     description:`
                     <p>
-                    In hospital, airports, universities and government buildings people need for synchronized and exact updated time, we offers all types of Clocks and timers with all types of Sync.
-
-                    </p>
+                    As a part of integrated security solution BTC provide very strong portfolio for intrusion detection with high end security references in government different sectors and in industrial and utilities sector.
+                    <br />
+                    Fencing Intrusion systems: IR detection, PIR scanning, Fiber sensing, Laser scanning. In Building intrusion Systems: PIR detection, Glass Break</p>
                     `
                 },
                 {
-                    heading:"Flight Information Display System",
-                    image:"lowCurrent/6.png",
+                    heading:"Integrated CCTV Solutions",
+                    image:"physicalSecurity/6.jpg",
                     description:`
                     <p>
-                    Airport FIDS . It is designed to display timetables, gate or baggage belt information or other travel/tourist information at any location.
-
+                    BTC is very experienced in security solutions providing the latest technologies solutions in the CCTV solutions field
+                    <br />
+                    BTC is HCIS certified, with high experience for industrial security solution for Mega projects in the field of industrial security
                     </p>
                     `
                 },
+        ]
+    },
+    {
+        id:12,
+        link:"audio-visual",
+        image:"audioVisual/banner.png",
+        categoty:[
+            {
+                heading:"Audio System",
+                image:"audioVisual/1.png",
+                description:`
+                <p>
+                Using Pro Audio System, Process Acoustic Study are done to deliver clear and intelligibility Sound Based on Application needs.  
+                </p>
+                `,
+            }, 
                 {
-                    heading:"BMS",
-                    image:"lowCurrent/7.png",
+                    heading:"Lighting & Dimming",
+                    image:"audioVisual/2.jpg",
                     description:`
                     <p>
-                    BMS systems are “Intelligent” microprocessor-based controller networks installed to monitor and control a buildings technical systems
-
-                    </p>
+                    Repair Ambient Light effect and create interesting view by using Stage lighting.
+                    </p> 
                     `
                 },
                 {
-                    heading:"Queue Management System",
-                    image:"lowCurrent/8.png",
+                    heading:"Display System",
+                    image:"audioVisual/3.jpg",
                     description:`
-                    <p>
-                    A need to manage the flow , this solution is ideal for Banks branches , service providers , hospital ..etc.
-
-                    </p>
-                    `
-                },
-                {
-                    heading:"SCADA & Automation",
-                    image:"lowCurrent/9.png",
-                    description:`
-                    <p>
-                    A need to manage the flow , this solution is ideal for Banks branches , service providers , hospital ..etc.
+                    <p>Define size of Display with technology suitable based on room dimension and application needs. </p>
                     
+                    `
+                },
+                {
+                    heading:"Projection System",
+                    image:"audioVisual/4.jpg",
+                    description:`
+                    <p>
+                    Provide Projector Solution for Meeting Rooms, Auditoriums, Cinema, Interactive projection solution for Smart class room or training Center and projection Mapping Solution.
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"Audio Conferencing",
+                    image:"audioVisual/5.jpg",
+                    description:`
+                    <p>
+                    Adding more confidently to your meeting through Discussion, voting and Recording System.
+
+                    </p>
+                    `
+                },
+                {
+                    heading:"Control System",
+                    image:"audioVisual/6.jpg",
+                    description:`
+                    <p>
+                    Create Scenario to simplify using the complex AV system to be easy use from end user.
+                    </p>
+                    `
+                },
+                {
+                    heading:"Interpreter System",
+                    image:"audioVisual/7.jpg",
+                    description:`
+                    <p>
+                    Translate system to deliver your presentation message by many language at the same time event.
+                    </p>
+                    `
+                },
+                {
+                    heading:"Digital Signage Solution",
+                    image:"audioVisual/8.jpg",
+                    description:`
+                    <p>
+                    Deliver Digital information like announcement and instructions messages based on Ethernet network.
                     </p>
                     `
                 },
 
                 {
-                    heading:"Parking Management System",
-                    image:"lowCurrent/10.png",
+                    heading:"Interactive System",
+                    image:"audioVisual/9.jpg",
                     description:`
                     <p>
-
-                    Entry Ticket Dispenser and exit Dispenser , payment machine
-Parking Guidance: for traffic flow , empty-busy places
+                    support your building with Wayfinding Solution or Make Smart Meeting Rooms and Smart Class to give you more collaboration and interaction for your meetings
                     </p>
                     `
                 },
+
+                {
+                    heading:"E-Learning Platform System",
+                    image:"audioVisual/10.jpg",
+                    description:`
+                    <p>
+                    Providing Library VOD Server for all Recording material with control software for teacher and student communication and sharing content
+                    </p>
+                    `
+                },
+
+                {
+                    heading:"Video Conference System",
+                    image:"audioVisual/11.jpg",
+                    description:`
+                    <p>
+                    Get A/V Calls with grantee high quality for your meeting as if far side is seating with you in the same room.
+                    </p>
+                    `
+                },
+
+                {
+                    heading:"Room Manager System",
+                    image:"audioVisual/12.jpg",
+                    description:`
+                    <p>
+                    Handling and mentoring Meeting Rooms with easy to reserve and schedule meeting through your Calendar.
+                    </p>
+                    `
+                },
+        ]
+    },
+    {
+        id:12,
+        link:"smart-aviations",
+        image:"audioVisual/banner.png",
+        categoty:[
+            {
+                heading:"Smart Aviation",
+                image:"smartAviation/1.jpeg",
+                description:`
+                <ul>
+                <li>Air Navigation Networks</li>
+                <li>Wireless ILS NAVIDS sys</li>
+                <li>Aeronautical communication networks “ACN” solutions</li>
+                <li>Voice Communication Switching systems “VCSS “ solutions</li>
+                <li>ATC Simulators</li>
+                <li>GTA communications</li>
+                <li>VSAT RCAGS PTP,PMP communications</li>
+                <li>Digital Remote Towers</li>
+                </ul>
+                `,
+            }, 
+               
         ]
     },
 ];
