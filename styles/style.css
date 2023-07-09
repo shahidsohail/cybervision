@@ -1574,6 +1574,7 @@ Testimonial Section CSS
   background-color: #ffffff;
   position: relative;
   margin-top: 20px;
+  border-radius: 20px;
 }
 .testimonial-slider .testimonial-single-item::before {
   position: absolute;
@@ -4288,6 +4289,7 @@ Go Top CSS
   padding: 20px;
   margin: 20px;
   /* min-height: 450px; */
+  border-radius: 20px;
 }
 .ServiceDetails-banner img{
   width: 100%;
