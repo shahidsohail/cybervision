@@ -806,7 +806,7 @@ Parking Guidance: for traffic flow , empty-busy places
                 image:"physicalSecurity/1.jpg",
                 description:`
                 <p>
-                BTC has a deep experience to implement unified platform to integrate:
+                cyber vision has a deep experience to implement unified platform to integrate:
                 Physical security solutions + fire and safety solutions + Building asset management solutions
                 In command and control centers with seamless integration and seamless scalabilities
                 </p>
@@ -817,7 +817,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/2.jpg",
                     description:`
                     <p>
-                    BTC provides the highest technologies and the best of architecture design all in one-package solutions for the security control centers includes:
+                    cyber vision provides the highest technologies and the best of architecture design all in one-package solutions for the security control centers includes:
                     Integrated Security Platform ( PISM ) , VMS and analytics
                     Servers and storage, Video walls, Technical consoles, Network switches, Racks, UPS and more .
                     </p> 
@@ -828,7 +828,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/3.jpg",
                     description:`
                     <p>
-                    BTC technical team has strong experience in enterprise level for access control solutions with amazing references, providing integrated different access modules with wide range of authentication levels for huge database of access users to remote sites all together in a unified platform according to customer needs
+                    cyber vision technical team has strong experience in enterprise level for access control solutions with amazing references, providing integrated different access modules with wide range of authentication levels for huge database of access users to remote sites all together in a unified platform according to customer needs
                     </p>
                     
                     `
@@ -838,7 +838,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/4.jpg",
                     description:`
                     <p>
-                    BTC portfolio includes approx. all physical security solutions known in the market all as enterprise high-end tech. leading this market with amassing reference in government different sectors and also in Industrial utilities. Walk through gate scanner Luggage X-ray Scanners. Handheld Metal Detector UVSS integrated with LPR Sliding gates Road blockers Bollards Barriers
+                    cyber vision portfolio includes approx. all physical security solutions known in the market all as enterprise high-end tech. leading this market with amassing reference in government different sectors and also in Industrial utilities. Walk through gate scanner Luggage X-ray Scanners. Handheld Metal Detector UVSS integrated with LPR Sliding gates Road blockers Bollards Barriers
                     </p>
                     `
                 },
@@ -847,7 +847,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/5.jpg",
                     description:`
                     <p>
-                    As a part of integrated security solution BTC provide very strong portfolio for intrusion detection with high end security references in government different sectors and in industrial and utilities sector.
+                    As a part of integrated security solution cyber vision provide very strong portfolio for intrusion detection with high end security references in government different sectors and in industrial and utilities sector.
                     <br />
                     Fencing Intrusion systems: IR detection, PIR scanning, Fiber sensing, Laser scanning. In Building intrusion Systems: PIR detection, Glass Break</p>
                     `
@@ -857,9 +857,9 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/6.jpg",
                     description:`
                     <p>
-                    BTC is very experienced in security solutions providing the latest technologies solutions in the CCTV solutions field
+                    cyber vision is very experienced in security solutions providing the latest technologies solutions in the CCTV solutions field
                     <br />
-                    BTC is HCIS certified, with high experience for industrial security solution for Mega projects in the field of industrial security
+                    cyber vision is HCIS certified, with high experience for industrial security solution for Mega projects in the field of industrial security
                     </p>
                     `
                 },
