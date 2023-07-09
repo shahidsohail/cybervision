@@ -988,7 +988,7 @@ Parking Guidance: for traffic flow , empty-busy places
     {
         id:12,
         link:"smart-aviations",
-        image:"audioVisual/banner.png",
+        image:"smartAviation/banner.png",
         categoty:[
             {
                 heading:"Smart Aviation",
