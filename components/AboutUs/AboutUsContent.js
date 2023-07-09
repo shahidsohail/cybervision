@@ -1,5 +1,5 @@
 import React from "react";
-
+import Link from "next/link";
 const AboutUsContent = () => {
   return (
     <>
@@ -42,6 +42,14 @@ const AboutUsContent = () => {
                     Advanced Advisory Team
                   </li>
                 </ul>
+                    <a className="default-btn" href="/files/CYBERVISIONprofileAR.pdf" download> 
+                        Arabic
+                      <span></span>
+                    </a>
+                        <a className="default-btn-one" href="/files/CYBERVISIONprofileEN.pdf" download style={{border:"1px solid #00b0ee", marginLeft: "1px" , paddingTop:"10px"}}>
+                        ENGLISH
+                          <span></span>
+                        </a>
               </div>
             </div>
           </div>
