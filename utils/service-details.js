@@ -403,7 +403,7 @@ const serviceDetails = [
     {
         id:6,
         link:"unified-collaborations",
-        image:"collaborations/banner.jpeg",
+        image:"collaborations/banner.png",
         categoty:[
             {
                 heading:"UNIFIED COLLABORATION",

@@ -105,7 +105,7 @@ const Navbar = () => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="/services">
+                    <Link href="#">
                       <a className="nav-link">
                         Services <i className="fas fa-chevron-down"></i>
                       </a>
