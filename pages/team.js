@@ -23,9 +23,9 @@ const Team = () => {
 
       <Testimonial />
 
-      <div className="ptb-100">
+      {/* <div className="ptb-100">
         <SubscribeStyleThree />
-      </div>
+      </div> */}
 
       <Footer />
     </>

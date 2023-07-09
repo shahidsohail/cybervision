@@ -4055,6 +4055,7 @@ Footer Section CSS
   font-size: 14px;
   color: #d1cfcf;
   font-weight: 400;
+  text-align: justify;
 }
 .single-footer-widget .footer-heading {
   margin-bottom: 25px;
