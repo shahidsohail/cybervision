@@ -343,6 +343,12 @@ const Navbar = () => {
                 </ul>
 
                 <div className="others-options">
+                <Link href="/#">
+                    <a className="default-btn-one" target="_blank">
+                    Employee Login
+                      <span></span>
+                    </a>
+                  </Link>
                   <Link href="/contact">
                     <a className="default-btn">
                     Contact Us
