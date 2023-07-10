@@ -42,14 +42,14 @@ const AboutUsContent = () => {
                     Advanced Advisory Team
                   </li>
                 </ul>
+                
+                  <p className="comment-notes">
+                    For more details please download the broucher in your preferred language<br/>
                     <a className="default-btn" href="/files/CYBERVISIONprofileAR.pdf" download> 
                         Arabic
-                      <span></span>
                     </a>
-                        <a className="default-btn-one" href="/files/CYBERVISIONprofileEN.pdf" download style={{border:"1px solid #00b0ee", marginLeft: "1px" , paddingTop:"10px"}}>
-                        ENGLISH
-                          <span></span>
-                        </a>
+                        <a className="default-btn" href="/files/CYBERVISIONprofileEN.pdf" download >English</a>
+                    </p>
               </div>
             </div>
           </div>

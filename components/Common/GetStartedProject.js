@@ -24,14 +24,14 @@ const GetStartedProject = () => {
 
                 <div className="productive-btn">
                   <Link href="/services">
-                    <a className="productive-btn">
+                    <a className="default-btn">
                       Get Started Project
                       <span></span>
                     </a>
                   </Link>
 
                   <Link href="/contact">
-                    <a className="productive-btn-one">
+                    <a className="default-btn">
                       Contact Us
                       <span></span>
                     </a>

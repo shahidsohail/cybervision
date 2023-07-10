@@ -181,7 +181,7 @@ const Customers = () => {
               data-aos-delay="450"
               data-aos-duration="1200"
             >
-              <img src="/images/partner/19.png" alt="image" />
+              <img src="/images/partner/19.jpg" alt="image" />
             </div>
           </div>
         </div>

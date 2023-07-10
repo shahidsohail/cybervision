@@ -344,7 +344,7 @@ const Navbar = () => {
 
                 <div className="others-options">
                 <Link href="/#">
-                    <a className="default-btn-one" target="_blank">
+                    <a className="default-btn" target="_blank">
                     Employee Login
                       <span></span>
                     </a>

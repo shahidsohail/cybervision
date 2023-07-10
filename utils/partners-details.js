@@ -391,7 +391,45 @@ const partnarDetails =
                 ]
          }
      ]
- }
+},
+{
+    "id":16,
+     "link":"TrendMicro",
+     "image":"16.png",
+     "name":"Trend Micro services",
+     type:[
+         {
+         "name":"",
+         "image":"Category/F5_-150x150.png",
+         listitems:[
+            // "BIG-IP Cloud Edition",
+            // "BIG-IP iSeries",
+            // "BIG-IP VE",
+            // "VIPRION"
+        
+            ]
+         }
+        ]
+},
+{
+    "id":20,
+     "link":"CyberDacians",
+     "image":"20.png",
+     "name":"Cyber Dacians services",
+     type:[
+         {
+         "name":"",
+         "image":"Category/F5_-150x150.png",
+         listitems:[
+            // "BIG-IP Cloud Edition",
+            // "BIG-IP iSeries",
+            // "BIG-IP VE",
+            // "VIPRION"
+        
+            ]
+         }
+        ]
+}
 
 ];
 
