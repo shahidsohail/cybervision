@@ -763,6 +763,7 @@ Main Banner Area CSS
 .main-banner-content {
   max-width: 550px;
   margin-left: auto;
+  padding-top: 20%;
 }
 .main-banner-content h1 {
   font-size: 75px;
@@ -4340,4 +4341,7 @@ Go Top CSS
   padding-top: 7px;
   padding-bottom: 7px;
   margin: 3px;
+}
+.hidedesktop{
+  display: none;
 }

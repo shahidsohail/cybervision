@@ -1,4 +1,13 @@
 @media only screen and (max-width: 767px) {
+  .main-nav .navbar .navbar-brand {
+    font-size: 17px;
+}
+  .isMobile{
+    display: none;
+  }
+  .hidedesktop{
+    display: block;
+  }
   .section-title {
     margin-bottom: 30px;
   }
@@ -49,7 +58,7 @@
     color: #000000;
   }
   .navbar-area .main-nav .navbar .navbar-brand img {
-    max-width: 100px;
+    max-width: 65px;
   }
   .navbar-area .main-nav .navbar .navbar-collapse {
     margin-left: 0;

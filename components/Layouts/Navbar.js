@@ -103,8 +103,8 @@ const Navbar = () => {
                       <a className="nav-link">About us</a>
                     </Link>
                   </li>
-
-                  <li className="nav-item">
+            {/* for desktop start */}
+                  <li className="nav-item isMobile">
                     <Link href="#">
                       <a className="nav-link">
                         Services <i className="fas fa-chevron-down"></i>
@@ -193,6 +193,100 @@ const Navbar = () => {
                       </li>
                     </ul>
                   </li>
+             {/* for desktop END  */}
+             {/* hidedesktop
+             &nbsp; -  */}
+
+             {/* for mobile  start */}
+             <li className="nav-item hidedesktop">
+                    <Link href="#">
+                      <a className="nav-link">
+                        Services <i className="fas fa-chevron-down"></i>
+                      </a>
+                    </Link>
+                  
+                    <ul className="dropdown-menu">
+                      <li className="nav-item">
+                        <Link href="/services" activeClassName="active">
+                          <a className="nav-link">
+                            Special Integrated Solutions
+                            </a>
+                        </Link>
+                        <ul style={{"list-style-type": "square", marginLeft:"30px"}}>
+                          <li className="nav-item">
+                            <Link href="/services/converged-networks" activeClassName="active">
+                              <a className="nav-link">Converged Networks</a>
+                            </Link>
+                          </li>
+
+                          <li className="nav-item">
+                            <Link href="/services/vsat-radio-wireless-new" activeClassName="active">
+                              <a className="nav-link">VSAT, Radio & Wireless</a>
+                            </Link>
+                          </li>
+                          <li className="nav-item">
+                            <Link href="/services/low-current" activeClassName="active">
+                              <a className="nav-link">Low Current</a>
+                            </Link>
+                          </li>
+                          <li className="nav-item">
+                            <Link href="/services/physical-security" activeClassName="active">
+                              <a className="nav-link">Physical Security</a>
+                            </Link>
+                          </li>
+                          <li className="nav-item">
+                            <Link href="/services/audio-visual" activeClassName="active">
+                              <a className="nav-link">Audio Visual</a>
+                            </Link>
+                          </li>
+                          <li className="nav-item">
+                            <Link href="/services/smart-aviations" activeClassName="active">
+                              <a className="nav-link">Smart Aviation</a>
+                            </Link>
+                          </li>
+                        </ul>
+
+                      </li>
+
+                      <li className="nav-item">
+                        <Link href="/services/data-centers" activeClassName="active">
+                          <a className="nav-link">Data Centers</a>
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link href="/services/cloud-services" activeClassName="active">
+                          <a className="nav-link">Cloud Services</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/services/cyber-security" activeClassName="active">
+                          <a className="nav-link">Cyber Security</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/services/digital-signature" activeClassName="active">
+                          <a className="nav-link">Digital Signature</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/services/customer-experience-solutions" activeClassName="active">
+                          <a className="nav-link">Customer Experience</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/services/unified-collaborations" activeClassName="active">
+                          <a className="nav-link">Collaboration</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/services/managed-services" activeClassName="active">
+                          <a className="nav-link">Managed Services</a>
+                        </Link>
+                      </li>
+                    </ul>
+                  </li>
+              {/* for mobile  */}
 {/* 
                   <li className="nav-item">
                     <Link href="#">
@@ -334,16 +428,27 @@ const Navbar = () => {
                       </li>
                     </ul>
                   </li> */}
-                {/* 
-                  <li className="nav-item">
-                    <Link href="/contact" activeClassName="active">
-                      <a className="nav-link">Contact Us</a>
-                    </Link>
-                  </li> */}
+                
+                  <li className="nav-item hidedesktop">
+                  <Link href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638245892587893727.NjM2Y2FhOGYtNTcxMi00ZmIyLWJmNmUtNzA5ODY5ZTAzYzhjMTJmODAyMTgtMmRhMy00NThiLTg2Y2YtNGE3NWUxNDI4ODMw&ui_locales=en-US&mkt=en-US&client-request-id=3f7c0214-7b1f-44cb-8e12-ce042dfa6e31&state=Xet1Wf2Ozc2rfrOjKP0nvk_OhHyVU8UFAtkvczG9zFSQ-u3rSkGPAgu_PNie_9i4bYfTrCVFrypqwdHKQMtF9o8oi-F2cPWScmAW5MgpiA4CwjkoHVwQlNMxN76HmjeTgMY1WFrEZW73QBcVkFMjO0PP-Wg13CnoxP8eDdnHcVcJFSU-NXBcBEQcjzD4S3zHPiLHr7G53NdeWihGWI8XvWR1iCWwhKouHE2iLBk9hrIc7XVQFH">
+                    <a className="nav-link" target="_blank">
+                    Employee Login
+                      <span></span>
+                    </a>
+                  </Link>
+                  </li>
+                  <li className="nav-item hidedesktop">
+                  <Link href="/contact">
+                    <a className="nav-link">
+                    Contact Us
+                      <span></span>
+                    </a>
+                  </Link>
+                  </li>
                 </ul>
 
-                <div className="others-options">
-                <Link href="/#">
+                <div className="others-options isMobile">
+                <Link href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638245892587893727.NjM2Y2FhOGYtNTcxMi00ZmIyLWJmNmUtNzA5ODY5ZTAzYzhjMTJmODAyMTgtMmRhMy00NThiLTg2Y2YtNGE3NWUxNDI4ODMw&ui_locales=en-US&mkt=en-US&client-request-id=3f7c0214-7b1f-44cb-8e12-ce042dfa6e31&state=Xet1Wf2Ozc2rfrOjKP0nvk_OhHyVU8UFAtkvczG9zFSQ-u3rSkGPAgu_PNie_9i4bYfTrCVFrypqwdHKQMtF9o8oi-F2cPWScmAW5MgpiA4CwjkoHVwQlNMxN76HmjeTgMY1WFrEZW73QBcVkFMjO0PP-Wg13CnoxP8eDdnHcVcJFSU-NXBcBEQcjzD4S3zHPiLHr7G53NdeWihGWI8XvWR1iCWwhKouHE2iLBk9hrIc7XVQFH">
                     <a className="default-btn" target="_blank">
                     Employee Login
                       <span></span>
