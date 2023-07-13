@@ -23,7 +23,7 @@ const OurServices = () => {
                 <p>The Infrastructure Design and Review provides an analysis of...
                 </p>
 
-                <Link href="/service-details">
+                <Link href="/services/cyber-security">
                   <a className="service-btn">
                     Read More
                     <i className="flaticon-right"></i>
@@ -39,11 +39,11 @@ const OurServices = () => {
                   {/* <i className="flaticon-data-analytics"></i> */}
                 </div>
 
-                <h3>Our services</h3>
-                <p>Our services include consulting and cyber security services...
+                <h3>Cloud Services</h3>
+                <p>It’s a data center that dynamically provision and deliver services to business....
                 </p>
 
-                <Link href="/service-details">
+                <Link href="/services/cloud-services">
                   <a className="service-btn">
                     Read More
                     <i className="flaticon-right"></i>
@@ -51,27 +51,25 @@ const OurServices = () => {
                 </Link>
               </div>
             </div>
-{/* 
+
             <div className="col-lg-4 col-md-6">
               <div className="single-services-box">
                 <div className="icon">
                   <i className="flaticon-document"></i>
                 </div>
-                <h3>Managed Analytics</h3>
+                <h3>Converged Networks</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  ut enim ad minim.
+                With an extensive experience of deploying transmission networks for ..
                 </p>
 
-                <Link href="/service-details">
+                <Link href="/services/converged-networks">
                   <a className="service-btn">
                     Read More
-                    <i className="flaticon-right"></i>
+                    <i className="flaticon-right"></i>...
                   </a>
                 </Link>
               </div>
-            </div> */}
+            </div>
 {/* 
             <div className="col-lg-4 col-md-6">
               <div className="single-services-box">
