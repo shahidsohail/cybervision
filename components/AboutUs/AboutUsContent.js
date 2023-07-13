@@ -43,7 +43,7 @@ const AboutUsContent = () => {
                   </li>
                 </ul>
                 
-                  <p className="comment-notes">
+                  <p className="comment-notes red">
                     For more details please download the broucher in your preferred language<br/>
                     <a className="default-btn" href="/files/CYBERVISIONprofileAR.pdf" download> 
                         Arabic

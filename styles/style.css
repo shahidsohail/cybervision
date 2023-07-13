@@ -3901,6 +3901,10 @@ blockquote::after, .blockquote::after {
   margin-bottom: 0;
   margin-top: 10px;
 }
+.red
+{
+  color: red;
+}
 .comments-area .comment-respond .comment-form-comment {
   margin-top: 15px;
   float: left;

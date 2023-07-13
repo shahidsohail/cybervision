@@ -24,11 +24,44 @@ const Customers = () => {
             <div 
               className="partner-item"
               data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/14.png" alt="image" /> {/* juniper */}
+            </div>
+            
+
+            
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/16.png" alt="TrendMicro" /> {/* TrendMicro */}
+            </div>
+
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="250"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/20.png" alt="Eagle" />
+            </div>
+
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
               data-aos-delay="100"
               data-aos-duration="1200"
             >
-              <img src="/images/partner/2.png" alt="image" />
+              <img src="/images/partner/2.png" alt="juniper" /> {/* juniper */}
             </div>
+
 
             <div 
               className="partner-item"
@@ -47,6 +80,8 @@ const Customers = () => {
             >
               <img src="/images/partner/4.png" alt="image" />
             </div>
+
+            
 
             <div 
               className="partner-item"
@@ -130,14 +165,7 @@ const Customers = () => {
               <img src="/images/partner/13.png" alt="image" />
             </div>
 
-            <div 
-              className="partner-item"
-              data-aos="zoom-in"
-              data-aos-delay="450"
-              data-aos-duration="1200"
-            >
-              <img src="/images/partner/14.png" alt="image" />
-            </div>
+           
 
             <div 
               className="partner-item"
@@ -148,14 +176,7 @@ const Customers = () => {
               <img src="/images/partner/15.png" alt="image" />
             </div>
 
-            <div 
-              className="partner-item"
-              data-aos="zoom-in"
-              data-aos-delay="450"
-              data-aos-duration="1200"
-            >
-              <img src="/images/partner/16.png" alt="image" />
-            </div>
+            
 
             <div 
               className="partner-item"
@@ -181,7 +202,7 @@ const Customers = () => {
               data-aos-delay="450"
               data-aos-duration="1200"
             >
-              <img src="/images/partner/19.jpg" alt="image" />
+              <img src="/images/partner/19.png" alt="image" />
             </div>
           </div>
         </div>
