@@ -132,8 +132,8 @@ p:last-child {
   font-size: 15px;
   padding-left: 40px;
   padding-right: 40px;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .default-btn span {
   position: absolute;
@@ -170,8 +170,8 @@ p:last-child {
   font-size: 15px;
   padding-left: 40px;
   padding-right: 40px;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin-top: 5px;
   margin-right: 25px;
 }
@@ -763,6 +763,7 @@ Main Banner Area CSS
 .main-banner-content {
   max-width: 550px;
   margin-left: auto;
+  padding-top: 20%;
 }
 .main-banner-content h1 {
   font-size: 75px;
@@ -4275,8 +4276,6 @@ Go Top CSS
   display: flex;
   justify-content: center;
 }
-
-
 .swiper-nav-btns button:hover {
   background-color: hsl(210, 100%, 40%);
   cursor: pointer;
@@ -4300,7 +4299,6 @@ Go Top CSS
   height: 400px;
 }
 .services-details-image {
-  
 }
 .services-details-image img{
  width: 300px;
@@ -4318,8 +4316,7 @@ Go Top CSS
   width: 100%;
   height: 400px;
 }
-.services-details-image {
-  
+.services-details-image { 
 }
 .services-details-image img{
  width: 300px;
@@ -4333,12 +4330,8 @@ Go Top CSS
   margin: 20px 0px;
   border-radius: 5px;
 }
-
-
 .fa-youtube{
-
   color:red !important;
-
 }
 
 .default-btn {
@@ -4348,4 +4341,7 @@ Go Top CSS
   padding-top: 7px;
   padding-bottom: 7px;
   margin: 3px;
+}
+.hidedesktop{
+  display: none;
 }
