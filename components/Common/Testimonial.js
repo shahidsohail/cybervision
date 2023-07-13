@@ -22,12 +22,12 @@ const Testimonial = () => {
             <SwiperSlide>
               <div className="testimonial-single-item">
                 <div className="testimonial-image">
-                  <img src="/images/clients/client1.jpg" alt="image" />
+                  <img src="/images/clients/king.jpeg" alt="image" />
                 </div>
 
                 <div className="testimonial-info">
-                  <h3>Richard Denial</h3>
-                  <span>IT Executive</span>
+                  <h3>King Abdullah</h3>
+                  <span>Foundation for Humanitarian Activities</span>
                 </div>
 
                 <div className="testimonial-content">
@@ -50,12 +50,12 @@ const Testimonial = () => {
             <SwiperSlide>
               <div className="testimonial-single-item">
                 <div className="testimonial-image">
-                  <img src="/images/clients/client2.jpg" alt="image" />
+                  <img src="/images/clients/2.jpeg" alt="image" />
                 </div>
 
                 <div className="testimonial-info">
-                  <h3>Sarah Taylor</h3>
-                  <span>Lead Architecure</span>
+                  <h3>Mohammed bin Salman Al Saud</h3>
+                  <span>Crown Prince of Saudi Arabia</span>
                 </div>
 
                 <div className="testimonial-content">
@@ -79,11 +79,11 @@ const Testimonial = () => {
             <SwiperSlide>
               <div className="testimonial-single-item">
                 <div className="testimonial-image">
-                  <img src="/images/clients/client3.jpg" alt="image" />
+                  <img src="/images/clients/3.jpeg" alt="image" />
                 </div>
                 <div className="testimonial-info">
-                  <h3>Alastair Cook</h3>
-                  <span>Marketing Manager</span>
+                  <h3>Muhammad bin Nayef</h3>
+                  <span>Former Crown Prince of Saudi Arabia</span>
                 </div>
                 <div className="testimonial-content">
                   <div className="icon">
