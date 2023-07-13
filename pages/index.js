@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../components/Layouts/Navbar";
 import MainBanner from "../components/HomeFour/MainBanner";
 import OurServices from "../components/HomeFour/OurServices";
-import AboutUs from "../components/HomeFour/AboutUs";
+import AboutUs from "../components/AboutUs/AboutUsContent";
 import FunFacts from "../components/Common/FunFacts";
 import SolutionsTab from "../components/Common/SolutionsTab";
 import FeaturedService from "../components/HomeFour/FeaturedService";
