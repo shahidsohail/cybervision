@@ -360,8 +360,8 @@ Navbar Area CSS
 =================================================*/
 .main-nav {
   background-color: transparent;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   padding-right: 0;
   padding-left: 0;
 }
