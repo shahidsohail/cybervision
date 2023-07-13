@@ -24,9 +24,9 @@ const Partner = () => {
 
       <Customers />
 
-      <div className="ptb-100">
+      {/* <div className="ptb-100">
         <SubscribeStyleThree />
-      </div>
+      </div> */}
 
       <Testimonial />
 
