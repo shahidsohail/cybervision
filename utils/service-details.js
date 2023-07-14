@@ -1009,5 +1009,49 @@ Parking Guidance: for traffic flow , empty-busy places
                
         ]
     },
+    {
+        id:13,
+        link:"ourServices",
+        image:"ourservices/banner.png",
+        categoty:[
+            {
+                heading:"Governance, risk management and compliance",
+                image:"ourservices/1.png",
+                description:`
+                <p>
+                Building a cyber security program<br />
+                Cybersecurity Program Evaluation <br />
+                Cyber ​​security management service<br />
+                </p>
+                `,
+            },
+            {
+                heading:"Cyber ​​security consulting",
+                image:"ourservices/2.png",
+                description:`
+                <p>
+                Business continuity management<br />
+                Business continuity and IT disaster recovery plan <br />
+                Cyber ​​Security Operations Center <br />
+                </p>
+                `,
+            }, 
+            {
+                heading:"Penetration testing",
+                image:"ourservices/3.png",
+                description:`
+                <p>
+                Infrastructure penetration testing
+                Network testing
+                Website testing
+                Mobile app penetration testing
+                Programming languages ​​review
+                </p>
+
+                `,
+            },  
+               
+        ]
+    },
 ];
 export default serviceDetails;

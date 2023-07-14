@@ -39,11 +39,11 @@ const OurServices = () => {
                   {/* <i className="flaticon-data-analytics"></i> */}
                 </div>
 
-                <h3>Cloud Services</h3>
-                <p>It’s a data center that dynamically provision and deliver services to business....
+                <h3>Our services</h3>
+                <p>Our services include consulting and cybersecurity services, but not limited to....
                 </p>
 
-                <Link href="/services/cloud-services">
+                <Link href="/services/ourServices">
                   <a className="service-btn">
                     Read More
                     <i className="flaticon-right"></i>
