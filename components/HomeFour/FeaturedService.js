@@ -27,10 +27,10 @@ const FeaturedService = () => {
                     <span>Software Development</span>
                   </li> */}
                   <li>
-                    <span>Automatic Optimization</span>
+                    <span>Special Integrated Solutions</span>
                   </li>
                   <li>
-                    <span>Applicatication Services</span>
+                    <span>Data Centers</span>
                   </li>
                   {/* <li>
                     <span>IT Security Services</span>
@@ -39,13 +39,19 @@ const FeaturedService = () => {
                     <span>Data Analytics</span>
                   </li> */}
                   <li>
-                    <span>System Integration Service</span>
+                    <span>Cloud Services</span>
                   </li>
                   <li>
-                    <span>Help Desk Services</span>
+                    <span>Cyber Security</span>
                   </li>
                   <li>
-                    <span>API Integration Service</span>
+                    <span>Digital Signature</span>
+                  </li>
+                  <li>
+                    <span>Collaboration</span>
+                  </li>
+                  <li>
+                    <span>Managed Services</span>
                   </li>
                 </ul>
               </div>
