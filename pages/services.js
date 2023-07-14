@@ -27,9 +27,9 @@ const Services = () => {
       <FeaturedService />
       {/* <ServicesContent /> */}
 
-      <div className="pb-100">
+      {/* <div className="pb-100">
         <SubscribeStyleThree />
-      </div>
+      </div> */}
 
       <Footer />
     </>
