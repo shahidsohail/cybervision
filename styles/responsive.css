@@ -1,4 +1,7 @@
 @media only screen and (max-width: 767px) {
+  .ServiceDetails-banner img {
+    height: auto !important;
+}
   .main-nav .navbar .navbar-brand {
     font-size: 17px;
 }

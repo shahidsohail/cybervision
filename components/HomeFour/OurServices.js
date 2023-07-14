@@ -57,12 +57,12 @@ const OurServices = () => {
                 <div className="icon">
                   <i className="flaticon-document"></i>
                 </div>
-                <h3>Converged Networks</h3>
+                <h3>Success Stories</h3>
                 <p>
-                With an extensive experience of deploying transmission networks for ..
+                SANG_MDA_MoJ SANG Infrastructure To support the DWDM Network stability ..
                 </p>
 
-                <Link href="/services/converged-networks">
+                <Link href="/services/ourSuccess">
                   <a className="service-btn">
                     Read More
                     <i className="flaticon-right"></i>...
