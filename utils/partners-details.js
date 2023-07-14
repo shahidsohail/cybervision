@@ -96,6 +96,52 @@ const partnarDetails =
     ]
 },
 {
+    "id":14,
+    "link":"Fortinet",
+    "image":"14.png",
+    "name":"Fortinet Solutions",
+    type:[
+        {
+        "name":"NETWORKING",
+        "image":"Category/NETWORKING.jpg",
+        listitems:[
+            "FortiGate Next-Generation Firewall",
+            "Secure SD-WAN",
+            "FortiSASE",
+            "FortiExtender"       ]
+        },
+        {
+            "name":"Work-From-Anywhere",
+            "image":"Category/icon-zero-trust-network-access-107.png",
+            listitems:[
+                "ZERO TRUST NETWORK ACCESS",
+                "ENDPOINT DETECTION AND RESPONSE",
+                "SECURE ACCESS SERVICE EDGE (SASE)"
+            ]
+        }
+
+    ]
+},
+{
+    "id":16,
+     "link":"TrendMicro",
+     "image":"16.png",
+     "name":"Trend Micro services",
+     type:[
+         {
+         "name":"",
+         "image":"Category/F5_-150x150.png",
+         listitems:[
+            // "BIG-IP Cloud Edition",
+            // "BIG-IP iSeries",
+            // "BIG-IP VE",
+            // "VIPRION"
+        
+            ]
+         }
+        ]
+},
+{
     "id":2,
     "link":"Juniper",
     "image":"2.png",

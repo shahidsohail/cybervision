@@ -46,6 +46,11 @@ const Footer = () => {
                       <i className="fab fa-linkedin"></i>
                     </a>
                   </li>
+                  <li>
+                    <a href="https://www.instagram.com/" target="_blank">
+                      <i className="fab fa-instagram"></i>
+                    </a>
+                  </li>
                 </ul>
               </div>
             </div>
