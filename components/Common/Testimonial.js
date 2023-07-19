@@ -9,7 +9,7 @@ const Testimonial = () => {
         <div className="container">
           <div className="section-title">
             <span>Testimonials</span>
-            <h2>What Our Client Say</h2>
+            <h2>Our Clients</h2>
           </div>
 
           <Swiper
@@ -35,22 +35,16 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                  "Cyber ​​security services has performed a number of virtual services 
-                  for our institution, vulnerability assessment, penetration 
-                  test, IT audit, and continued with weekly consultant calls. 
-                  Not once have I noticed a disruption in services, 
-                  weekly consultant calls are still made, reports have been 
-                  delivery timely and the Virtual IT Audit went incredibly 
-                  smooth!"
+                    <a href="https://kahf.org.sa" target="_blank">King Abdullah Foundation for Humanitarian Activities</a>
                   </p>
                 </div>
               </div>
             </SwiperSlide>
 
-            <SwiperSlide>
+            {/* <SwiperSlide>
               <div className="testimonial-single-item">
                 <div className="testimonial-image">
-                  <img src="/images/clients/2.jpeg" alt="image" />
+                  <img src="/images/clients/client1.jpg" alt="image" />
                 </div>
 
                 <div className="testimonial-info">
@@ -63,41 +57,13 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                  "Cyber ​​security services auditors are easy to work with, patient, 
-                  and provide information in a timely manner.
-                   They actually act more like a partner because even though 
-                   they have to write up items, they take the time to ensure 
-                   it is understood what needs correcting and why. There were
-                    no surprises in our report because findings had been 
-                    discussed while the auditors were onsite. Cyber ​​security services auditors do a
-                     great job preparing us for regulatory exams."
+                  Second Client web address <a href="https://kahf.org.sa">aaa</a>
                   </p>
                 </div>
               </div>
-            </SwiperSlide>
+            </SwiperSlide> */}
 
-            <SwiperSlide>
-              <div className="testimonial-single-item">
-                <div className="testimonial-image">
-                  <img src="/images/clients/3.jpeg" alt="image" />
-                </div>
-                <div className="testimonial-info">
-                  <h3>Muhammad bin Nayef</h3>
-                  <span>Former Crown Prince of Saudi Arabia</span>
-                </div>
-                <div className="testimonial-content">
-                  <div className="icon">
-                    <i className="flaticon-quote"></i>
-                  </div>
-                  <p>
-                  "Cyber ​​security services is really good at what they do! Whether your business 
-                  utilizes them for IT testing, auditing, or their incredible TRAC program,
-                  Cyber ​​security services receives an A+ from our bank. They have the tools and work ethic to 
-                   ensure your exams go smoothly. Cyber ​​security services is simply as good as it gets!"
-                  </p>
-                </div>
-              </div>
-            </SwiperSlide>
+            
           </Swiper>
         </div>
 

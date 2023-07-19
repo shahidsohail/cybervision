@@ -163,7 +163,7 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-6">
               <p>
-                &copy; {currentYear} Copyright
+                &copy; {currentYear} All rights reserved to Cyber Vision
                 {/* All Rights Reserved by
                 <a href="https://envytheme.com/" target="_blank">
                   EnvyTheme

@@ -439,10 +439,10 @@ const partnarDetails =
      ]
 },
 {
-    "id":16,
-     "link":"TrendMicro",
-     "image":"16.png",
-     "name":"Trend Micro services",
+    "id":6,
+     "link":"Paloalto",
+     "image":"6.png",
+     "name":"Paloalto services",
      type:[
          {
          "name":"",

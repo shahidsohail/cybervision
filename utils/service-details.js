@@ -481,7 +481,7 @@ const serviceDetails = [
     {
         id:7,
         link:"managed-services",
-        image:"managedServices/banner.png",
+        image:"managedServices/managedServices.jpg",
         categoty:[
             {
                 heading:"Why Managed Services?",
@@ -686,7 +686,7 @@ many repeater-less projects thereby giving the client the flexibility to have th
         ]
     },
 
-    {
+    /* {
         id:10,
         link:"low-current",
         image:"lowCurrent/banner.png",
@@ -795,10 +795,10 @@ Parking Guidance: for traffic flow , empty-busy places
                     `
                 },
         ]
-    },
+    }, */
     {
         id:11,
-        link:"physical-security",
+        link:"Identity-Authentication-Security",
         image:"physicalSecurity/banner.png",
         categoty:[
             {
@@ -1075,7 +1075,7 @@ Parking Guidance: for traffic flow , empty-busy places
                 image:"ourSuccess/2.jpg",
                 description:`
                 <p>
-                A Saudi Arabian governmental organization focused on developing the city of Madinah, the second holiest city in the Muslim world, to meet the expectations of its permanent residents and visitors. BTC was entrusted to build Data Center Structured Cabling System, Campus Network LAN solution, Hyperconverged Infrastructure, and Data Center SDN Solution.
+                A Saudi Arabian governmental organization focused on developing the city of Madinah, the second holiest city in the Muslim world, to meet the expectations of its permanent residents and visitors. Cyber Vision was entrusted to build Data Center Structured Cabling System, Campus Network LAN solution, Hyperconverged Infrastructure, and Data Center SDN Solution.
                 </p>
                 `,
             }, 
@@ -1092,5 +1092,25 @@ Parking Guidance: for traffic flow , empty-busy places
                
         ]
     },
+    {
+        id:14,
+        link:"grc-services",
+        image:"ourservices/security-shield.jpg",
+        categoty:[
+            {
+                heading:"Governance, Risk management & Compliance",
+                image:"ourservices/grc.jpg",
+                description:`
+                <p>
+                    Building a cyber security program</br>
+                    Cybersecurity Program Evaluation</br>
+                    Cyber ​​security management service
+
+                </p>
+                `,
+            }
+               
+        ]
+    }
 ];
 export default serviceDetails;

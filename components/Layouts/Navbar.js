@@ -112,6 +112,18 @@ const Navbar = () => {
                     </Link>
                   
                     <ul className="dropdown-menu">
+                    <li className="nav-item">
+                        <Link href="/services/managed-services" activeClassName="active">
+                          <a className="nav-link">Managed Services</a>
+                        </Link>
+                      </li>
+                      
+                      <li className="nav-item">
+                        <Link href="/services/grc-services" activeClassName="active">
+                          <a className="nav-link">GRC Services</a>
+                        </Link>
+                      </li>
+                      
                       <li className="nav-item">
                         <Link href="/services" activeClassName="active">
                           <a className="nav-link">
@@ -131,26 +143,31 @@ const Navbar = () => {
                               <a className="nav-link">VSAT, Radio & Wireless</a>
                             </Link>
                           </li>
-                          <li className="nav-item">
+                          {/* <li className="nav-item">
                             <Link href="/services/low-current" activeClassName="active">
                               <a className="nav-link">Low Current</a>
                             </Link>
-                          </li>
+                          </li> */}
                           <li className="nav-item">
+                            <Link href="/services/Identity-Authentication-Security" activeClassName="active">
+                              <a className="nav-link">Identity Authentication Security</a>
+                            </Link>
+                          </li>
+                          {/* <li className="nav-item">
                             <Link href="/services/physical-security" activeClassName="active">
                               <a className="nav-link">Physical Security</a>
                             </Link>
-                          </li>
+                          </li> */}
                           <li className="nav-item">
                             <Link href="/services/audio-visual" activeClassName="active">
                               <a className="nav-link">Audio Visual</a>
                             </Link>
                           </li>
-                          <li className="nav-item">
+                          {/* <li className="nav-item">
                             <Link href="/services/smart-aviations" activeClassName="active">
                               <a className="nav-link">Smart Aviation</a>
                             </Link>
-                          </li>
+                          </li> */}
                         </ul>
 
                       </li>
@@ -186,11 +203,7 @@ const Navbar = () => {
                           <a className="nav-link">Collaboration</a>
                         </Link>
                       </li>
-                      <li className="nav-item">
-                        <Link href="/services/managed-services" activeClassName="active">
-                          <a className="nav-link">Managed Services</a>
-                        </Link>
-                      </li>
+                      
                     </ul>
                   </li>
              {/* for desktop END  */}
@@ -206,6 +219,16 @@ const Navbar = () => {
                     </Link>
                   
                     <ul className="dropdown-menu">
+                      <li className="nav-item">
+                        <Link href="/services/managed-services" activeClassName="active">
+                          <a className="nav-link">Managed Services</a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="/services/grc-services" activeClassName="active">
+                          <a className="nav-link">GRC Services</a>
+                        </Link>
+                      </li>
                       <li className="nav-item">
                         <Link href="/services" activeClassName="active">
                           <a className="nav-link">
@@ -224,11 +247,11 @@ const Navbar = () => {
                               <a className="nav-link">VSAT, Radio & Wireless</a>
                             </Link>
                           </li>
-                          <li className="nav-item">
+                          {/* <li className="nav-item">
                             <Link href="/services/low-current" activeClassName="active">
                               <a className="nav-link">Low Current</a>
                             </Link>
-                          </li>
+                          </li> */}
                           <li className="nav-item">
                             <Link href="/services/physical-security" activeClassName="active">
                               <a className="nav-link">Physical Security</a>
@@ -239,11 +262,11 @@ const Navbar = () => {
                               <a className="nav-link">Audio Visual</a>
                             </Link>
                           </li>
-                          <li className="nav-item">
+                          {/* <li className="nav-item">
                             <Link href="/services/smart-aviations" activeClassName="active">
                               <a className="nav-link">Smart Aviation</a>
                             </Link>
-                          </li>
+                          </li> */}
                         </ul>
 
                       </li>
@@ -279,11 +302,7 @@ const Navbar = () => {
                           <a className="nav-link">Collaboration</a>
                         </Link>
                       </li>
-                      <li className="nav-item">
-                        <Link href="/services/managed-services" activeClassName="active">
-                          <a className="nav-link">Managed Services</a>
-                        </Link>
-                      </li>
+                      
                     </ul>
                   </li>
               {/* for mobile  */}
