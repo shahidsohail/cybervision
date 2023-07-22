@@ -23,7 +23,7 @@ const ContactInfo = () => {
                 <i className="fa fa-envelope"></i>
                 <div className="content-title">
                   <h3>Email</h3>
-                  <p>info@cybervision.com.sa</p>
+                  <p><a href="mailto:info@cybervision.com.sa">info@cybervision.com.sa</a></p>
                 </div>
               </div>
             </div>
@@ -33,7 +33,8 @@ const ContactInfo = () => {
                 <i className="fa fa-phone"></i>
                 <div className="content-title">
                   <h3>Phone</h3>
-                  <p><img src="/images/whatsapp.png"/> +96655709900</p>
+                  <p><img src="/images/whatsapp.png"/><a href="https://api.whatsapp.com/send?phone=96655709900" target="_blank">+96655709900</a>
+                  </p>
                 </div>
               </div>
             </div>
