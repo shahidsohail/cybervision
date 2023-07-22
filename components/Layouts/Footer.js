@@ -126,14 +126,15 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
                   <h3>Phone</h3>
-                  <p><img src="/images/whatsapp.png"/><a href="https://api.whatsapp.com/send?phone=96655709900" target="_blank">+96655709900</a>
+                  <p><img src="/images/whatsapp.png"/><a href="https://api.whatsapp.com/send?phone=96655709900" target="_blank"><span>+96655709900</span></a>
                   </p>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
                   <h3>Email</h3>
-                  <a href="mailto:info@cybervision.com.sa">info@cybervision.com.sa</a>
+                  <a href="mailto:info@cybervision.com.sa">
+                    <span>info@cybervision.com.sa</span></a>
                 </div>
 
                 <div className="footer-info-contact">
