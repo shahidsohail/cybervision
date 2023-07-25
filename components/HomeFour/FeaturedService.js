@@ -27,6 +27,12 @@ const FeaturedService = () => {
                     <span>Software Development</span>
                   </li> */}
                   <li>
+                    <span>Managed Services</span>
+                  </li>
+                  <li>
+                    <span>GRC Services</span>
+                  </li>
+                  <li>
                     <span>Special Integrated Solutions</span>
                   </li>
                   <li>
@@ -50,9 +56,7 @@ const FeaturedService = () => {
                   <li>
                     <span>Collaboration</span>
                   </li>
-                  <li>
-                    <span>Managed Services</span>
-                  </li>
+                  
                 </ul>
               </div>
             </div>
