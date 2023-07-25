@@ -18,7 +18,7 @@ const MainBanner = () => {
               <div className="row align-items-center">
                 <div className="col-lg-6 col-md-12">
                   <div className="main-banner-content">
-                    <h1>Cyber ​​vision concept</h1>
+                    <h1>Cyber ​​Vision</h1>
                     <p>
                     The Cyber ​​Vision Company was built to meet the needs of small,
                     medium and large companies for cyber security work in the Kingdom of
