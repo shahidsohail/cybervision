@@ -8,11 +8,11 @@ const serviceDetails = [
             {
                 heading:"Simplify and modernize your Digital Transformation with Software-Defined Data Center Solutions.",
                 image:"dataCenter/DataCenter_Header.png",
-                description:"<p>Software Defined Data Center (SDDC) is critical to a successful digital transformation process. As a foundation of the digital business, your infrastructure must address today’s challenges and be ready for tomorrow’s workloads.<br/>With cyber vision as your partner, you have access to leading technologies and expertise to implement an end-to-end practical, secure and scalable Software Defined Data Center solutions.<br/> cyber vision offers the best-in-class Software Defined Networking (SDN) solutions from leading vendors, engineered for mission-critical workloads and cloud capabilities.</p>" },
+                description:"<p>Software Defined Data Center (SDDC) is critical to a successful digital transformation process. As a foundation of the digital business, your infrastructure must address today’s challenges and be ready for tomorrow’s workloads.<br/>With Cyber Vision as your partner, you have access to leading technologies and expertise to implement an end-to-end practical, secure and scalable Software Defined Data Center solutions.<br/> Cyber Vision offers the best-in-class Software Defined Networking (SDN) solutions from leading vendors, engineered for mission-critical workloads and cloud capabilities.</p>" },
             {
                 heading:"Software Defined Networking",
                 image:"dataCenter/DataCenter_SDN.png",
-                description:`Software-defined networking (SDN) is an architecture designed to make a network more flexible and easier to manage. SDN centralizes management by abstracting the control plane from the data forwarding function in the discrete networking devices.<br/> cyber vision offers the best-in-class Software Defined Networking (SDN) solutions from leading vendors, engineered for mission-critical workloads and cloud capabilities.
+                description:`Software-defined networking (SDN) is an architecture designed to make a network more flexible and easier to manage. SDN centralizes management by abstracting the control plane from the data forwarding function in the discrete networking devices.<br/> Cyber Vision offers the best-in-class Software Defined Networking (SDN) solutions from leading vendors, engineered for mission-critical workloads and cloud capabilities.
                 <br />
                 <b>Advantages of having Software Defined Networking:</b>
                 <ul>
@@ -139,7 +139,7 @@ const serviceDetails = [
                 description:`<p>
                 
                 With the ever increasing Threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals , it is imperative to strategize the cybersecurity solution.<br />
-                In Order to provide the cybersecurity solution in the Kingdom, cyber vision Networks leverages on the new innovations on Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in Cyber Security domain.
+                In Order to provide the cybersecurity solution in the Kingdom, Cyber Vision Networks leverages on the new innovations on Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in Cyber Security domain.
                 <br />
                 <ul>
                 <li>NGFW( Next generation Firewall ), WAF (Web Application Firewalls)</li>
@@ -237,7 +237,7 @@ const serviceDetails = [
                 image:"cyberSecurity/10.jpg",
                 description:`
                 <p>
-                cyber vision provide email security solution for antispam & antivirus , file reputation , Data loss protection, encryption and content control
+                Cyber Vision provide email security solution for antispam & antivirus , file reputation , Data loss protection, encryption and content control
                 </p>
                 `
             },
@@ -264,7 +264,7 @@ const serviceDetails = [
                 image:"digitalSignature/1.jpg",
                 description:`
                 <p>
-                emdha Trust Service Provider is owned and managed by Baud Telecom Company (cyber vision) under the Saudi National Root CA offering trust services ranging from Online Digital Signature, Validation and Digital Certificates enabling business to seamlessly integrate and avail trust services in real-time. Delivering superior user experience by incorporating a secure, international compliant digital signature methodology fully integrated with any third party trusted registered KYC (Know Your Customer) approved by local governmental regulators.
+                emdha Trust Service Provider is owned and managed by Baud Telecom Company (Cyber Vision) under the Saudi National Root CA offering trust services ranging from Online Digital Signature, Validation and Digital Certificates enabling business to seamlessly integrate and avail trust services in real-time. Delivering superior user experience by incorporating a secure, international compliant digital signature methodology fully integrated with any third party trusted registered KYC (Know Your Customer) approved by local governmental regulators.
                 <br/>
                 The Government of Saudi Arabia has embarked on an ambitious e-transaction program under 2030 vision, recognizing that there is a tremendous opportunity to better utilize information technology to improve the quality of care/service, lower the cost of operations, and increase customer satisfaction.
                 <br />
@@ -272,7 +272,7 @@ const serviceDetails = [
                 <br/>
                 <b>emdha Trusted Digital Signature Service</b>
                 <br/>
-                <b>emdha</b> Certification Authority (CA) is owned and managed by Baud Telecom Company (cyber vision) under KSA Root CA and is poised to offer Online Digital Signature Service enabling applications to seamlessly integrate and avail digital signatures in real time. It incorporates a secure and compliant digital signature methodology with online “Know Your Customer (KYC)” process of the signatory, validated against information from reliable KYC agencies.
+                <b>emdha</b> Certification Authority (CA) is owned and managed by Baud Telecom Company (Cyber Vision) under KSA Root CA and is poised to offer Online Digital Signature Service enabling applications to seamlessly integrate and avail digital signatures in real time. It incorporates a secure and compliant digital signature methodology with online “Know Your Customer (KYC)” process of the signatory, validated against information from reliable KYC agencies.
                 <br/>
                 <b>emdha’s online</b> signature service provides a paperless signature experience by using e-KYC from the bank or any other KYC Provider. This is intended to reduce the cost of KYC, paper storage and paper-based document movement. It also minimizes the risk of forged documents.
                 <br/>
@@ -280,7 +280,7 @@ const serviceDetails = [
                 <br />
                 <b>emdha eSign</b> CA provides trust services to secure the exchange of information between key stakeholders, that primarily include, Government, Citizens and Businesses.
                 <br />
-                emdha is setup according to global standards and procedures; cyber vision operates the Certifying Authority using skilled subject matter experts in a secure infrastructure.
+                emdha is setup according to global standards and procedures; Cyber Vision operates the Certifying Authority using skilled subject matter experts in a secure infrastructure.
 
 
                 </p>
@@ -314,9 +314,9 @@ const serviceDetails = [
                 image:"customerExperience/1.jpeg",
                 description:`
                 <p>
-                cyber vision is entrusted by major Banks, Insurance Providers, Hospitals, Educational Institutions and Government entities to provide better services to their customers. We design, develop and implement Omni-channel Contact Center solutions.
+                Cyber Vision is entrusted by major Banks, Insurance Providers, Hospitals, Educational Institutions and Government entities to provide better services to their customers. We design, develop and implement Omni-channel Contact Center solutions.
                 <br />
-                cyber vision has more than 20 years of experience in Contact Center implementations and delivered over 100 mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc.
+                Cyber Vision has more than 20 years of experience in Contact Center implementations and delivered over 100 mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc.
                 </p>`,
             }, 
                 {
@@ -557,7 +557,7 @@ const serviceDetails = [
                 image:"convergedNetworks/1.jpg",
                 description:`
                 <p>
-                With an extensive experience of deploying transmission networks for our customers for many years, cyber vision has also implemented
+                With an extensive experience of deploying transmission networks for our customers for many years, Cyber Vision has also implemented
 many repeater-less projects thereby giving the client the flexibility to have the solution for long-haul connectivity for Metro Network Backhaul, Submarine and Underseas Networks, SCADA and Telemetry Transport, Electric Utility, Transportation, Pipeline and Private Networks. Critical infrastructure, such as oil and gas pipelines and electricity transmission
 
                 <br />
@@ -575,7 +575,7 @@ many repeater-less projects thereby giving the client the flexibility to have th
                     image:"convergedNetworks/2.png",
                     description:`
                     <p>
-                    With an extensive experience of deploying traditionally TDM/SDH and latest MPLS-TP networks for our customers for many years, cyber vision has also implemented many MPLS-TP projects thereby giving the client the solution to have its critical applications on premises in a private network to have the ability to establish the connectivity over their own private fiber optic infrastructure.
+                    With an extensive experience of deploying traditionally TDM/SDH and latest MPLS-TP networks for our customers for many years, Cyber Vision has also implemented many MPLS-TP projects thereby giving the client the solution to have its critical applications on premises in a private network to have the ability to establish the connectivity over their own private fiber optic infrastructure.
                     </p>
                     <br />
                     <p>
@@ -588,7 +588,7 @@ many repeater-less projects thereby giving the client the flexibility to have th
                     image:"convergedNetworks/3.png",
                     description:`
                     <p>
-                    With an extensive experience, cyber vision has implemented many RFTS projects thereby the clients have the fiber optic infrastructure monitored 24/7and reduce the mean time to repair the fiber optic cables.
+                    With an extensive experience, Cyber Vision has implemented many RFTS projects thereby the clients have the fiber optic infrastructure monitored 24/7and reduce the mean time to repair the fiber optic cables.
                     <br />
                     A remote fiber monitoring system enables the oversight of an entire fiber optic network, including dark fiber, from a central location. Using this comprehensive method, the performance of the network can be continuously evaluated, and Mean Time to Repair (MTTR) can be minimized. 
                     </p>
@@ -636,7 +636,7 @@ many repeater-less projects thereby giving the client the flexibility to have th
                     image:"vsatRadioWireless/2.jpg",
                     description:`
                     <p>
-                    We are dedicated to designing and delivering superior P25 solutions that are robust, interoperable, and secure. With a range of both P25 Phase 1 and Phase 2 open standard-based elements, cyber vision can provide public safety agencies
+                    We are dedicated to designing and delivering superior P25 solutions that are robust, interoperable, and secure. With a range of both P25 Phase 1 and Phase 2 open standard-based elements, Cyber Vision can provide public safety agencies
                     with complete end-to-end solutions to meet your unique organizational requirements.
                     </p> 
                     `
@@ -696,7 +696,7 @@ many repeater-less projects thereby giving the client the flexibility to have th
                 image:"lowCurrent/1.png",
                 description:`
                 <p>
-                    cyber vision provide all fire alarm solutions according to NFPA and has amassing references for Both UL (American) and EN54(European)
+                    Cyber Vision provide all fire alarm solutions according to NFPA and has amassing references for Both UL (American) and EN54(European)
                  </p>
                 `,
             }, 
@@ -806,7 +806,7 @@ Parking Guidance: for traffic flow , empty-busy places
                 image:"physicalSecurity/1.jpg",
                 description:`
                 <p>
-                cyber vision has a deep experience to implement unified platform to integrate:
+                Cyber Vision has a deep experience to implement unified platform to integrate:
                 Physical security solutions + fire and safety solutions + Building asset management solutions
                 In command and control centers with seamless integration and seamless scalabilities
                 </p>
@@ -817,7 +817,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/2.jpg",
                     description:`
                     <p>
-                    cyber vision provides the highest technologies and the best of architecture design all in one-package solutions for the security control centers includes:
+                    Cyber Vision provides the highest technologies and the best of architecture design all in one-package solutions for the security control centers includes:
                     Integrated Security Platform ( PISM ) , VMS and analytics
                     Servers and storage, Video walls, Technical consoles, Network switches, Racks, UPS and more .
                     </p> 
@@ -828,7 +828,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/3.jpg",
                     description:`
                     <p>
-                    cyber vision technical team has strong experience in enterprise level for access control solutions with amazing references, providing integrated different access modules with wide range of authentication levels for huge database of access users to remote sites all together in a unified platform according to customer needs
+                    Cyber Vision technical team has strong experience in enterprise level for access control solutions with amazing references, providing integrated different access modules with wide range of authentication levels for huge database of access users to remote sites all together in a unified platform according to customer needs
                     </p>
                     
                     `
@@ -838,7 +838,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/4.jpg",
                     description:`
                     <p>
-                    cyber vision portfolio includes approx. all physical security solutions known in the market all as enterprise high-end tech. leading this market with amassing reference in government different sectors and also in Industrial utilities. Walk through gate scanner Luggage X-ray Scanners. Handheld Metal Detector UVSS integrated with LPR Sliding gates Road blockers Bollards Barriers
+                    Cyber Vision portfolio includes approx. all physical security solutions known in the market all as enterprise high-end tech. leading this market with amassing reference in government different sectors and also in Industrial utilities. Walk through gate scanner Luggage X-ray Scanners. Handheld Metal Detector UVSS integrated with LPR Sliding gates Road blockers Bollards Barriers
                     </p>
                     `
                 },
@@ -847,7 +847,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/5.jpg",
                     description:`
                     <p>
-                    As a part of integrated security solution cyber vision provide very strong portfolio for intrusion detection with high end security references in government different sectors and in industrial and utilities sector.
+                    As a part of integrated security solution Cyber Vision provide very strong portfolio for intrusion detection with high end security references in government different sectors and in industrial and utilities sector.
                     <br />
                     Fencing Intrusion systems: IR detection, PIR scanning, Fiber sensing, Laser scanning. In Building intrusion Systems: PIR detection, Glass Break</p>
                     `
@@ -857,9 +857,9 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/6.jpg",
                     description:`
                     <p>
-                    cyber vision is very experienced in security solutions providing the latest technologies solutions in the CCTV solutions field
+                    Cyber Vision is very experienced in security solutions providing the latest technologies solutions in the CCTV solutions field
                     <br />
-                    cyber vision is HCIS certified, with high experience for industrial security solution for Mega projects in the field of industrial security
+                    Cyber Vision is HCIS certified, with high experience for industrial security solution for Mega projects in the field of industrial security
                     </p>
                     `
                 },
