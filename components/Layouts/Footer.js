@@ -77,6 +77,16 @@ const Footer = () => {
                       <a>Contact</a>
                     </Link>
                   </li>
+                  <li>
+                    <Link href="https://livethreatmap.radware.com/" >
+                      <a target="_blank">Live Cyber Attack Threat</a>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="https://cybermap.kaspersky.com/" >
+                      <a target="_blank">Kaspersky Cyber Threat Map</a>
+                    </Link>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -126,15 +136,15 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
                   <h3>Phone</h3>
-                  <p><img src="/images/whatsapp.png"/><a href="https://api.whatsapp.com/send?phone=96655709900" target="_blank"><span>+96655709900</span></a>
+                  <p><img src="/images/whatsapp.png"/><span><a href="https://api.whatsapp.com/send?phone=96655709900" target="_blank">+96655709900</a></span>
                   </p>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
                   <h3>Email</h3>
-                  <a href="mailto:info@cybervision.com.sa">
-                    <span>info@cybervision.com.sa</span></a>
+                  <span><a href="mailto:info@cybervision.com.sa">
+                    info@cybervision.com.sa</a></span>
                 </div>
 
                 <div className="footer-info-contact">

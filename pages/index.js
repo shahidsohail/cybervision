@@ -12,6 +12,7 @@ import BlogPost from "../components/Common/BlogPost";
 import ContactForm from "../components/Contact/ContactForm";
 import CustomerStyleTwo from "../components/Common/CustomerStyleTwo";
 import Footer from "../components/Layouts/Footer";
+import ThreatMap from "../components/Common/ThreatMap";
 
 const Index4 = () => {
   return (
@@ -30,7 +31,7 @@ const Index4 = () => {
 
       <FeaturedService />
 
-      <Testimonial />
+      <ThreatMap />
 
       <GetStartedProject />
 
