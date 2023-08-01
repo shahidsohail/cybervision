@@ -41,15 +41,15 @@ const Testimonial = () => {
               </div>
             </SwiperSlide>
 
-            {/* <SwiperSlide>
+            <SwiperSlide>
               <div className="testimonial-single-item">
                 <div className="testimonial-image">
-                  <img src="/images/clients/client1.jpg" alt="image" />
+                  <img src="/images/clients/Muthalathat.png" alt="Muthalathat" />
                 </div>
 
                 <div className="testimonial-info">
-                  <h3>Mohammed bin Salman Al Saud</h3>
-                  <span>Crown Prince of Saudi Arabia</span>
+                  <h3>Muthalathat</h3>
+                  <span>Muthalathat</span>
                 </div>
 
                 <div className="testimonial-content">
@@ -57,11 +57,34 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                  Second Client web address <a href="https://kahf.org.sa">aaa</a>
+                    <a href="https://muthalathat.com.sa/">Muthalathat</a>
                   </p>
                 </div>
               </div>
-            </SwiperSlide> */}
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="testimonial-single-item">
+                <div className="testimonial-image">
+                  <img src="/images/clients/MCclient.png" alt="Muthalathat" />
+                </div>
+
+                <div className="testimonial-info">
+                  <h3>M&C</h3>
+                  <span>MAZRUA & COMPANY</span>
+                </div>
+
+                <div className="testimonial-content">
+                  <div className="icon">
+                    <i className="flaticon-quote"></i>
+                  </div>
+                  <p>
+                    <a href="#">MAZRUA & COMPANY</a>
+                  </p>
+                </div>
+              </div>
+            </SwiperSlide>
+
 
             
           </Swiper>

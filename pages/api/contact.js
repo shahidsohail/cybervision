@@ -1,14 +1,26 @@
 import nodemailer from "nodemailer";
-import sgTransport from "nodemailer-sendgrid-transport";
+// import sgTransport from "nodemailer-sendgrid-transport";
+import SMTPTransport from "nodemailer/lib/smtp-transport";
 
 const transporter = {
-  auth: {
-    // Update your SendGrid API key here
-    api_key: "...",
-  },
+  // pool: true,
+  host: "outlook.office365.com",
+  port: 587,
+  secure: false, // use TLS
+    auth: {
+     user: "Website@cybervision.com.sa",
+     pass: "QWqcc041"
+   }
+
+  // service: 'Gmail',
+  // auth: {
+  //   user: 'shahid.sohail@gmail.com',
+  //   pass: 'kkkksha2',
+  // },
+
 };
 
-const mailer = nodemailer.createTransport(sgTransport(transporter));
+const mailer = nodemailer.createTransport( new SMTPTransport(transporter));
 
 export default async (req, res) => {
   console.log(req.body);
@@ -16,7 +28,7 @@ export default async (req, res) => {
 
   const data = {
     // Update your email
-    to: "exampleyour@gmail.com",
+    to: "khurram@cybervision.com.sa",
     from: email,
     subject: "Hi there",
     text: text,
