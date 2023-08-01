@@ -485,38 +485,44 @@ const serviceDetails = [
         categoty:[
             {
                 heading:"Why Managed Services?",
-                image:"managedServices/1.jpg",
+                image:"managedServices/managedServices.jpg",
                 description:`
                 <p>
-                Almost all businesses nowadays need technology to operate efficiently and compete effectively. But as reliance on IT grows, the resources needed to support a complex IT environment gets even tremendous.
-
+                Managed services in cybersecurity involve outsourcing the management and monitoring of an organization's security to a specialized provider. It includes continuous monitoring, threat detection, incident response, patch management, and more. Benefits include access to expertise, 24/7 monitoring, cost-effectiveness, scalability, and focus on core activities.
                 <br />
-                If an organization is keeping up with things such as backups, patches and security, then the odds of an IT disruption or another problem down the road will greatly decrease. Moreover, instead of following the traditional method of waiting for a major issue to rise and then fix, a business operating with a managed service focuses on the prevention of these issues before they disrupt employees, management and/or clients.
                 <br />
-                TeccManage provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. Our cutting edge NOC team along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur. We also ensure that the alerts received are summarized and reported on a daily, weekly or monthly basis to keep our customer up-to-date with their IT infrastructure status.
+                CyberTechSheild (CTS) provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. 
+                Our expert team along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur.
                 </p>
-                <br />
-                <b>Monitoring</b>
-                <p>
-                Round the clock monitoring of your complete IT Infrastructure and Applications with most comprehensive support for resolving issues remotely and on-the-field by our experienced technical experts.
-                </p>
-<br />
-                <ul>
-                <li>24×7 Remote Monitoring of the your Infrastructure</li>
-                <li>Monitor System Health like CPU, Memory Utilization</li>
-                <li>Monitor Interface status and Traffic Utilization</li>
-                <li>Monitor Services and Application</li>
-                <li>Field support in case of hardware failure</li>
-                </ul>
+               
+                
                 `,
-            }, 
+            },
+            
+            {
+                heading:"Monitoring",
+                image:"managedServices/Monitoring.jpg",
+                description:`
+                <p>
+                Round-the-clock monitoring of your entire IT infrastructure and applications, coupled with comprehensive support to resolve issues remotely and on-site, provided by our experienced technical experts.
+                </p>
+                <br />
+                <ul>
+                    <li>24×7 Remote Monitoring of your Infrastructure</li>
+                    <li>Monitor System Health like CPU, Memory Utilization</li>
+                    <li>Monitor Interface status and Traffic Utilization</li>
+                    <li>Monitor Services and Application</li>
+                    <li>Field support in case of hardware failure</li>
+                </ul>
+                    `
+            },
+
                 {
                     heading:"Management",
-                    image:"managedServices/2.jpg",
+                    image:"managedServices/Management.jpg",
                     description:`
                     <p>
-                    Handling of day-to-day operational tasks for your IT infrastructure and applications, including configuration ownership and change management so that your team can focus high value tasks
-
+                    Outsourcing day-to-day IT tasks, such as configuration ownership and change management, lets your team prioritize high-value activities.
                     </p>
 
                     <br />
@@ -529,17 +535,18 @@ const serviceDetails = [
                 },
                 {
                     heading:"Optimize",
-                    image:"managedServices/3.jpg",
+                    image:"managedServices/Optimize.jpg",
                     description:`
                     <p>
-                    Complete management of your IT assets with regular design and configuration reviews by our Subject Matter Experts and close coordination with product vendors to proactively resolve any issues
+                    Full IT asset management with regular expert reviews and proactive issue resolution in close coordination with product vendors.
                     </p>
 
                     <ul>
-                    <li>Quarterly review of configuration, policies and utilization of all systems</li>
-                    <li>Daily monitoring of security advisories from vendor to proactively discover any software, hardware or security issues</li>
-                    <li>Firmware upgrades and patching based on performance, feature requirements and security advisories</li>
-                    <li>Long term analysis of performance parameters and traffic utilization with quarterly reporting</li>
+                        <li>Quarterly system reviews: Configuration, policies, and utilization of all systems are reviewed regularly.</li>
+                        <li>Daily security advisory monitoring: Proactive detection of software, hardware, or security issues from vendors.</li>
+                        <li>Firmware upgrades and patching: Based on performance, feature requirements, and security advisories.</li>
+                        <li>Long-term performance analysis: Consistent monitoring of performance parameters and traffic utilization with quarterly reporting./li>
+
                     </ul>
                     `
                 },
