@@ -481,11 +481,11 @@ const serviceDetails = [
     {
         id:7,
         link:"managed-services",
-        image:"managedServices/managedServices.jpg",
+        image:"managedServices/managedServices-new.jpg",
         categoty:[
             {
                 heading:"Why Managed Services?",
-                image:"managedServices/managedServices.jpg",
+                image:"managedServices/ManagedService1.png",
                 description:`
                 <p>
                 Managed services in cybersecurity involve outsourcing the management and monitoring of an organization's security to a specialized provider. It includes continuous monitoring, threat detection, incident response, patch management, and more. Benefits include access to expertise, 24/7 monitoring, cost-effectiveness, scalability, and focus on core activities.
@@ -603,19 +603,15 @@ many repeater-less projects thereby giving the client the flexibility to have th
                     `
                 },
                 {
-                    heading:"Optimize",
+                    heading:"SDH Solution",
                     image:"convergedNetworks/4.jpg",
                     description:`
                     <p>
-                    Complete management of your IT assets with regular design and configuration reviews by our Subject Matter Experts and close coordination with product vendors to proactively resolve any issues
-                    </p>
+                        With an extensive experience of deploying traditionally SDH networks for our customers for many years, BTC has also implemented many SDH projects thereby giving the client the solution to have its critical applications on premises in a private network to have the ability to establish the connectivity over their own private fiber optic infrastructure.
+                        <br/><br/>
+                        SDH Multiplexer delivers powerful optical networking solutions for critical communications applications. With a wide range of tributary interface units, the SDH has the ability to provide both transport and access capabilities for voice, data, IP/Ethernet WAN, video and utility tele-protection traffic in a single package. Harsh environment ready, and delivering flexible, secure, and reliable communications.
 
-                    <ul>
-                    <li>Quarterly review of configuration, policies and utilization of all systems</li>
-                    <li>Daily monitoring of security advisories from vendor to proactively discover any software, hardware or security issues</li>
-                    <li>Firmware upgrades and patching based on performance, feature requirements and security advisories</li>
-                    <li>Long term analysis of performance parameters and traffic utilization with quarterly reporting</li>
-                    </ul>
+                    </p>
                     `
                 },
         ]
@@ -1048,11 +1044,11 @@ Parking Guidance: for traffic flow , empty-busy places
                 image:"ourservices/3.png",
                 description:`
                 <p>
-                Infrastructure penetration testing
-                Network testing
-                Website testing
-                Mobile app penetration testing
-                Programming languages ​​review
+                    Infrastructure penetration testing
+                    Network testing
+                    Website testing
+                    Mobile app penetration testing
+                    Programming languages ​​review
                 </p>
 
                 `,
@@ -1109,11 +1105,17 @@ Parking Guidance: for traffic flow , empty-busy places
                 image:"ourservices/grc.jpg",
                 description:`
                 <p>
-                    Building a cyber security program</br>
-                    Cybersecurity Program Evaluation</br>
-                    Cyber ​​security management service
-
+                    Governance risk compliance (GRC) is a method for managing and strategizing an organization's regulations regarding governance, financial or physical risk, and regulatory compliance. It aligns the IT aspects with business objectives and works to improve the efficiency of a company. There are GRC consultants and GRC analysts who provide an assessment of a business’s GRC, identify risks, analyze the data, develop policies to benefit the workplace, and consult on the best choice of action. Your duties may involve optimizing GRC systems, implementing tactics to lower risk, providing internal audits, assisting with cybersecurity, creating routine reports, and ensuring regulatory compliance. 
                 </p>
+
+
+
+
+                
+
+
+
+
                 `,
             }
                
