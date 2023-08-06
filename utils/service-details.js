@@ -6,9 +6,9 @@ const serviceDetails = [
         image:"dataCenter/datacenter.png",
         categoty:[
             {
-                heading:"Simplify and modernize your Digital Transformation with Software-Defined Data Center Solutions.",
+                heading:"Revolutionize Your Digital Transformation: Software-Defined Data Center Solutions",
                 image:"dataCenter/DataCenter_Header.png",
-                description:"<p>Software Defined Data Center (SDDC) is critical to a successful digital transformation process. As a foundation of the digital business, your infrastructure must address today’s challenges and be ready for tomorrow’s workloads.<br/>With Cyber Vision as your partner, you have access to leading technologies and expertise to implement an end-to-end practical, secure and scalable Software Defined Data Center solutions.<br/> Cyber Vision offers the best-in-class Software Defined Networking (SDN) solutions from leading vendors, engineered for mission-critical workloads and cloud capabilities.</p>" },
+                description:"<p>With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here..</p>" },
             {
                 heading:"Software Defined Networking",
                 image:"dataCenter/DataCenter_SDN.png",
@@ -16,7 +16,6 @@ const serviceDetails = [
                 <br />
                 <b>Advantages of having Software Defined Networking:</b>
                 <ul>
-                <li>Holistic enterprise management.</li>
                 <li>Centralized network provisioning.</li>
                 <li>More granular security.</li>
                 <li>Lower operating costs.</li>
@@ -32,14 +31,13 @@ const serviceDetails = [
                 image:"dataCenter/DataCenter_Hyperconverged.jpg",
                 description:`
                 <p>
-                Hyper-Converged Infrastructure (HCI) combines common datacenter hardware using locally attached storage resources with intelligent software to create flexible building blocks that replace legacy infrastructure consisting of separate servers, storage networks, and storage arrays.
+                A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency.
                 </p>
                 <b>Key features and capabilities:</b>
                 <ul>
                 <li>Rapid deployment</li>
                 <li>Scalable virtual environments</li>
                 <li>Enterprise class storage features</li>
-                <li>Nondisruptive scale-up or scale</li>
                 <li>Intrinsic Security</li>
                 </ul>
                 `
@@ -557,23 +555,16 @@ const serviceDetails = [
     {
         id:8,
         link:"converged-networks",
-        image:"convergedNetworks/banner.png",
+        image:"convergedNetworks/Network-Convergence.jpg",
         categoty:[
             {
                 heading:"Long Haul Fiber Optic Repeater-less Solution",
-                image:"convergedNetworks/1.jpg",
+                image:"convergedNetworks/Fiber-Optics.jpg",
                 description:`
                 <p>
-                With an extensive experience of deploying transmission networks for our customers for many years, Cyber Vision has also implemented
-many repeater-less projects thereby giving the client the flexibility to have the solution for long-haul connectivity for Metro Network Backhaul, Submarine and Underseas Networks, SCADA and Telemetry Transport, Electric Utility, Transportation, Pipeline and Private Networks. Critical infrastructure, such as oil and gas pipelines and electricity transmission
-
-                <br />
-                Critical infrastructure, such as oil and gas pipelines and electricity transmission, requires extremely reliable, real-time monitoring and control technology. Increasingly, the monitoring and control of critical networks is accomplished over fiber optic lines. Many of the more recent electrical transmission links extend over very long distances.
-                <br />
-                TeccManage provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. Our cutting edge NOC team along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur. We also ensure that the alerts received are summarized and reported on a daily, weekly or monthly basis to keep our customer up-to-date with their IT infrastructure status.
-                <br />
-                The generation of energy from renewable sources such as hydro, wind and solar often means that the generation of energy is separated over long distances from the areas of consumption. Repeaterless solution eliminates the need for optical regeneration of telemetry communication signals and saves costly capital and operational expenditures for the owners and operators of these critical infrastructures.
-
+                Traditional fiber optic communication systems use repeaters at regular intervals to compensate for signal attenuation and maintain signal strength over long distances. However, deploying and maintaining these repeater stations can be costly and time-consuming.
+<br />
+                A repeater-less solution is designed to overcome these challenges and achieve longer transmission distances without the need for intermediate amplification
                 </p>
                 `,
             }, 
@@ -582,7 +573,7 @@ many repeater-less projects thereby giving the client the flexibility to have th
                     image:"convergedNetworks/2.png",
                     description:`
                     <p>
-                    With an extensive experience of deploying traditionally TDM/SDH and latest MPLS-TP networks for our customers for many years, Cyber Vision has also implemented many MPLS-TP projects thereby giving the client the solution to have its critical applications on premises in a private network to have the ability to establish the connectivity over their own private fiber optic infrastructure.
+                    Are you ready to elevate your network to new heights of performance, reliability, and scalability? Look no further! At Cyber Vision, we are the leading provider of cutting-edge MPLS-TP solutions, designed to address the unique demands of carrier-grade networks.
                     </p>
                     <br />
                     <p>
@@ -592,22 +583,22 @@ many repeater-less projects thereby giving the client the flexibility to have th
                 },
                 {
                     heading:"RFTS Solution",
-                    image:"convergedNetworks/3.png",
+                    image:"convergedNetworks/RFTS.png",
                     description:`
                     <p>
-                    With an extensive experience, Cyber Vision has implemented many RFTS projects thereby the clients have the fiber optic infrastructure monitored 24/7and reduce the mean time to repair the fiber optic cables.
+                    Cyber Vision has successfully implemented numerous RFTS projects, providing clients with 24/7 monitoring of their fiber optic infrastructure, reducing MTTR for fiber optic cables.
                     <br />
-                    A remote fiber monitoring system enables the oversight of an entire fiber optic network, including dark fiber, from a central location. Using this comprehensive method, the performance of the network can be continuously evaluated, and Mean Time to Repair (MTTR) can be minimized. 
+                    Remote Fiber Monitoring: Our advanced system enables centralized oversight of the entire fiber optic network, including dark fiber. Continuous evaluation of network performance ensures efficient MTTR. 
                     </p>
                     
                     `
                 },
                 {
                     heading:"SDH Solution",
-                    image:"convergedNetworks/4.jpg",
+                    image:"convergedNetworks/SDH.jpg",
                     description:`
                     <p>
-                        With an extensive experience of deploying traditionally SDH networks for our customers for many years, BTC has also implemented many SDH projects thereby giving the client the solution to have its critical applications on premises in a private network to have the ability to establish the connectivity over their own private fiber optic infrastructure.
+                    With years of experience deploying traditional SDH networks, Cyber Vision offers proven solutions to host critical applications on premises via a private network, utilizing the client's private fiber optic infrastructure.
                         <br/><br/>
                         SDH Multiplexer delivers powerful optical networking solutions for critical communications applications. With a wide range of tributary interface units, the SDH has the ability to provide both transport and access capabilities for voice, data, IP/Ethernet WAN, video and utility tele-protection traffic in a single package. Harsh environment ready, and delivering flexible, secure, and reliable communications.
 
