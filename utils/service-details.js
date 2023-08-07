@@ -3,16 +3,18 @@ const serviceDetails = [
     {
         id:1,
         link:"data-centers",
-        image:"dataCenter/datacenter.png",
+        image:"dataCenter/datacenter.png", 
+        // <a href="https://www.freepik.com/free-photo/server-racks-computer-network-security-server-room-data-center-d-render-dark-blue-generative-ai_38095230.htm#query=data%20center&position=9&from_view=keyword&track=ais">Image by benzoix</a> on Freepik
         categoty:[
             {
                 heading:"Revolutionize Your Digital Transformation: Software-Defined Data Center Solutions",
-                image:"dataCenter/DataCenter_Header.png",
-                description:"<p>With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here..</p>" },
+                image:"dataCenter/SDDC2.jpeg",
+                description:"<p>With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here..</p>" 
+            },
             {
                 heading:"Software Defined Networking",
-                image:"dataCenter/DataCenter_SDN.png",
-                description:`Software-defined networking (SDN) is an architecture designed to make a network more flexible and easier to manage. SDN centralizes management by abstracting the control plane from the data forwarding function in the discrete networking devices.<br/> Cyber Vision offers the best-in-class Software Defined Networking (SDN) solutions from leading vendors, engineered for mission-critical workloads and cloud capabilities.
+                image:"dataCenter/DataCenter_SDN.jpg",
+                description:`Experience network flexibility and streamlined management with Software-defined Networking (SDN). SDN centralizes control and data forwarding, simplifying network administration. Cyber Vision provides top-notch SDN solutions from leading vendors, tailored for mission-critical tasks and cloud capabilities.
                 <br />
                 <b>Advantages of having Software Defined Networking:</b>
                 <ul>
@@ -28,7 +30,7 @@ const serviceDetails = [
             },
             {
                 heading:"Hyperconverged Infrastructure",
-                image:"dataCenter/DataCenter_Hyperconverged.jpg",
+                image:"dataCenter/HCI.jpg",
                 description:`
                 <p>
                 A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency.
@@ -47,7 +49,7 @@ const serviceDetails = [
                 image:"dataCenter/DataCenter_PrivateCloud.jpg",
                 description:`
                 <p>                
-                The private cloud is defined as computing services offered either over the Internet or a private internal network and only to select users instead of the general public.
+                A private cloud delivers computing services over a secure internal network, exclusively catering to specific users rather than the public at large.
                 <br/>
                 Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud as:
                 </p>
@@ -55,7 +57,6 @@ const serviceDetails = [
                 <li>Self-Service Catalog</li>
                 <li>Security & privacy</li>
                 <li>Automation</li>
-                <li>Multi-Tenancy</li>
                 <li>Availability</li>
                 <li>Efficiency & control</li>
                 </ul>
@@ -66,7 +67,7 @@ const serviceDetails = [
                 image:"dataCenter/datacenter_infrs.png",
                 description:`
                 <p>
-                Virtual desktop infrastructure (VDI) is defined as the hosting of desktop environments on a central server. It is a form of Desktop as a service (DaaS), as the specific desktop images run within virtual machines (VMs) and are delivered to end clients over a network. Those endpoints may be PCs or other devices, like tablets or thin client terminals.                
+                VDI, a type of DaaS, hosts desktop environments on a central server. Desktop images run within VMs and are delivered over a network to PCs or other devices.                
                 </p>
                 `
             },
@@ -75,7 +76,7 @@ const serviceDetails = [
                 image:"dataCenter/DataCenter_WorkSpaceV2.jpg",
                 description:`
                 <p>
-                A digital workspace is an integrated technology framework designed to deliver and manage app, data, and desktop delivery.<br />
+                Experience the power of a unified digital workspace: streamlining app, data, and desktop delivery.<br />
                 It allows employees to access their apps and data real-time – on any device, from any location regardless of whether the information is stored through cloud services or in the data center.
                 </p>
                 `
@@ -94,14 +95,14 @@ const serviceDetails = [
                 image:"cloudServices/1.jpg",
                 description:`
                 <p>
-                It’s a data center that dynamically provision and deliver services to business. This type of cloud computing is generally used by large companies and allows their corporate network and data center administrators to effectively become in-house ‘service providers’ catering to ‘customers’ within the corporation.
+                Discover a cutting-edge data center model that dynamically serves businesses with on-demand services. Tailored for large enterprises, it empowers corporate network and data center administrators to act as internal service providers, catering to the needs of customers within the organization.
                 </p>`,
             }, 
                 {
                 heading:"Hybrid Cloud",
                 image:"cloudServices/2.png",
                 description:`<p>
-                A hybrid cloud infrastructure consists of two or more distinct cloud infrastructures (private, community, or public) that remain separate, but are bound together by standardized or proprietary technology which enables data and application portability. Normally, it is a combination of public and private. A hybrid cloud is almost always a combination of public and private and is the combination considered in this section.
+                A hybrid cloud combines two or more separate cloud infrastructures (private, community, or public) using standardized or proprietary technology for data and application portability. It typically includes a mix of public and private clouds.
                 <br />
                 We’ve highlighted five areas that offer significant benefits of Hybrid cloud which help your business.
                 </p>`
@@ -111,13 +112,13 @@ const serviceDetails = [
                 image:"cloudServices/3.png",
                 description:`
                 <p>
-                Multi cloud is the use of two or more clouds from different cloud providers. This can be any mix of Infrastructure, Platform, or Software as a Service (IaaS, PaaS, or SaaS). For example, you may consume email as service from one vendor, customer relationship management (CRM) from another, and Infrastructure as a Service (IaaS) from yet another. Multi-cloud platforms enable the end users with below benefits.
+                Multi-cloud: Harnessing the Power of Diverse Cloud Providers. Utilize two or more clouds from different providers, blending Infrastructure, Platform, or Software as a Service (IaaS, PaaS, or SaaS). For instance, email from one vendor, CRM from another, and IaaS from yet another. Unlock the following advantages with multi-cloud platforms
                 </p> 
                 <ul>
                 <li>Easily manage and deploy workloads on multiple clouds,</li>
-                <li>avoid vendor lock-in</li>
-                <li>reduce cost</li>
-                <li>increase overall productivity</li>
+                <li>Avoid vendor lock-in</li>
+                <li>Reduce cost</li>
+                <li>Increase overall productivity</li>
                 </ul>
                 `
             },
