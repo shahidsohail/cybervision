@@ -13,9 +13,9 @@ const Partner = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Partner"
+        pageTitle="Partners"
         breadcrumbTextOne="Home"
-        breadcrumbTextTwo="Partner"
+        breadcrumbTextTwo="Partners"
         breadcrumbUrl="/"
         bgImage="/images/page-title-bg-3.jpg"
       />

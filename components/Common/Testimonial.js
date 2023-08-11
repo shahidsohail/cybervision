@@ -70,7 +70,7 @@ const Testimonial = () => {
                 </div>
 
                 <div className="testimonial-info">
-                  <h3>M&C</h3>
+                  <h3>MC</h3>
                   <span>MAZRUA & COMPANY</span>
                 </div>
 

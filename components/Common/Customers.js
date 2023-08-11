@@ -7,7 +7,7 @@ const Customers = () => {
       <div className="partner-section pt-100 pb-70">
         <div className="container">
           <div className="partner-title">
-            <span>Partner</span>
+            <span>Partners</span>
             <h2>Discover partner Successful Stories</h2>
           </div>
 

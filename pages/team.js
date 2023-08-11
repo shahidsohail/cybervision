@@ -12,7 +12,7 @@ const Team = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Team"
+        pageTitle="Clients"
         breadcrumbTextOne="Home"
         breadcrumbTextTwo="Our Clients"
         breadcrumbUrl="/"

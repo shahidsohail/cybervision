@@ -31,18 +31,17 @@ const Navbar = () => {
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/">
-                <a className="navbar-brand" style={{width:"70px",color: "#1671cc",display:"flex","align-items": "center"}}>
+                <a className="navbar-brand" style={{width:"150px",color: "#1671cc",display:"flex","align-items": "center"}}>
                   <img
-                    src="/images/logo.png"
+                    src="/images/logo.jpg"
                     className="white-logo"
                     alt="logo"
                   />
                   <img
-                    src="/images/logo.png"
+                    src="/images/logo.jpg"
                     className="black-logo"
                     alt="logo"
                   />
-                Cyber ​​vision
                 </a>
               </Link>
 
@@ -330,7 +329,7 @@ const Navbar = () => {
                   </li> */}
                   <li className="nav-item">
                     <Link href="/partner" activeClassName="active">
-                      <a className="nav-link">Partner</a>
+                      <a className="nav-link">Partners</a>
                     </Link>
                   </li>
                   <li className="nav-item">

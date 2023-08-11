@@ -12,7 +12,7 @@ const ContactInfo = () => {
                 <div className="content-title">
                   <h3>Address</h3>
                   <p>
-                    272 Riyadh, Saudi Arabia
+                  3151 Malqa, Anas Bin Malik street, Riyadh, Saudi Arabia
                   </p>
                  
                    {/* Your iframe code goes here */}
