@@ -150,7 +150,7 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-maps-and-flags"></i>
                   <h3>Address</h3>
-                  <span>272 Riyadh, Saudi Arabia</span>
+                  <span>3151 Malqa, Anas Bin Malik street, Riyadh, Saudi Arabia</span>
                 </div>
               </div>
             </div>

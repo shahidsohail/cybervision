@@ -4,19 +4,20 @@ import SMTPTransport from "nodemailer/lib/smtp-transport";
 
 const transporter = {
   // pool: true,
-  host: "outlook.office365.com",
+  /* host: "outlook.office365.com",
   port: 587,
   secure: false, // use TLS
     auth: {
      user: "Website@cybervision.com.sa",
      pass: "QWqcc041"
-   }
+   } */
 
-  // service: 'Gmail',
-  // auth: {
-  //   user: 'shahid.sohail@gmail.com',
-  //   pass: 'kkkksha2',
-  // },
+  service: 'Gmail',
+  // host: 'smtp.google.com', 
+  auth: {
+    user: 'shahid.sohail@gmail.com',
+    pass: 'subhanall1!'
+  },
 
 };
 
@@ -28,7 +29,7 @@ export default async (req, res) => {
 
   const data = {
     // Update your email
-    to: "khurram@cybervision.com.sa",
+    to: "shahid.sohail@gmail.com",
     from: email,
     subject: "Hi there",
     text: text,

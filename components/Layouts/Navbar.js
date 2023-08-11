@@ -31,7 +31,7 @@ const Navbar = () => {
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/">
-                <a className="navbar-brand" style={{width:"150px",color: "#1671cc",display:"flex","align-items": "center"}}>
+                <a className="navbar-brand" style={{width:"180px",color: "#1671cc",display:"flex","align-items": "center"}}>
                   <img
                     src="/images/logo.jpg"
                     className="white-logo"
@@ -157,11 +157,11 @@ const Navbar = () => {
                               <a className="nav-link">Physical Security</a>
                             </Link>
                           </li> */}
-                          <li className="nav-item">
+                          {/* <li className="nav-item">
                             <Link href="/services/audio-visual" activeClassName="active">
                               <a className="nav-link">Audio Visual</a>
                             </Link>
-                          </li>
+                          </li> */}
                           {/* <li className="nav-item">
                             <Link href="/services/smart-aviations" activeClassName="active">
                               <a className="nav-link">Smart Aviation</a>
@@ -256,11 +256,11 @@ const Navbar = () => {
                               <a className="nav-link">Physical Security</a>
                             </Link>
                           </li>
-                          <li className="nav-item">
+                         {/*  <li className="nav-item">
                             <Link href="/services/audio-visual" activeClassName="active">
                               <a className="nav-link">Audio Visual</a>
                             </Link>
-                          </li>
+                          </li> */}
                           {/* <li className="nav-item">
                             <Link href="/services/smart-aviations" activeClassName="active">
                               <a className="nav-link">Smart Aviation</a>
