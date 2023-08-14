@@ -100,7 +100,7 @@ const serviceDetails = [
             }, 
                 {
                 heading:"Hybrid Cloud",
-                image:"cloudServices/2.png",
+                image:"cloudServices/Hybrid.jpg",
                 description:`<p>
                 A hybrid cloud combines two or more separate cloud infrastructures (private, community, or public) using standardized or proprietary technology for data and application portability. It typically includes a mix of public and private clouds.
                 <br />
@@ -109,7 +109,7 @@ const serviceDetails = [
             },
             {
                 heading:"Multi Cloud",
-                image:"cloudServices/3.png",
+                image:"cloudServices/Multi.jpg",
                 description:`
                 <p>
                 Multi-cloud: Harnessing the Power of Diverse Cloud Providers. Utilize two or more clouds from different providers, blending Infrastructure, Platform, or Software as a Service (IaaS, PaaS, or SaaS). For instance, email from one vendor, CRM from another, and IaaS from yet another. Unlock the following advantages with multi-cloud platforms
@@ -253,56 +253,56 @@ const serviceDetails = [
         ]
         
     },
-    {
-        id:4,
-        link:"digital-signature",
-        image:"digitalSignature/banner.png",
-        categoty:[
-            {
-                heading:"Digital Signature",
-                image:"digitalSignature/1.jpg",
-                description:`
-                <p>
-                emdha Trust Service Provider is owned and managed by Baud Telecom Company (Cyber Vision) under the Saudi National Root CA offering trust services ranging from Online Digital Signature, Validation and Digital Certificates enabling business to seamlessly integrate and avail trust services in real-time. Delivering superior user experience by incorporating a secure, international compliant digital signature methodology fully integrated with any third party trusted registered KYC (Know Your Customer) approved by local governmental regulators.
-                <br/>
-                The Government of Saudi Arabia has embarked on an ambitious e-transaction program under 2030 vision, recognizing that there is a tremendous opportunity to better utilize information technology to improve the quality of care/service, lower the cost of operations, and increase customer satisfaction.
-                <br />
-                To ensure the secure, efficient transmission and exchange of information electronically, the Kingdom of Saudi Arabia has created a National Public Key Infrastructure (PKI), managed by National Centre for Digital Certification (NCDC). NCDC is created by an act of law and its mandate as stipulated in the Saudi e-Transactions Act and its bylaws. Digitally signed-documents under the article 14-1 of e-Transactions Law of the Kingdom of Saudi Arabia grants legal recognition to digital /electronic signatures.
-                <br/>
-                <b>emdha Trusted Digital Signature Service</b>
-                <br/>
-                <b>emdha</b> Certification Authority (CA) is owned and managed by Baud Telecom Company (Cyber Vision) under KSA Root CA and is poised to offer Online Digital Signature Service enabling applications to seamlessly integrate and avail digital signatures in real time. It incorporates a secure and compliant digital signature methodology with online “Know Your Customer (KYC)” process of the signatory, validated against information from reliable KYC agencies.
-                <br/>
-                <b>emdha’s online</b> signature service provides a paperless signature experience by using e-KYC from the bank or any other KYC Provider. This is intended to reduce the cost of KYC, paper storage and paper-based document movement. It also minimizes the risk of forged documents.
-                <br/>
-                <b>emdha’s certificate</b> policy provides a provision for short term certificates, which is used in order to create a one-time online signature. This facilitates digitally signing a document by the signatory using emdha’s Online Trusted Digital Signature Service. The authentication of the signatory is based on e-KYC data provided by a reliable KYC agency. Upon successful validation by emdha CA, the signature on the document is carried out on secure backend server. This is an integrated service that facilitates issuing a Digital Signature Certificate and performing Signing of requested document on the basis of authenticated e-KYC information. The certificate issued through this service will have a limited validity period and is only for the one-time signing of requested document.
-                <br />
-                <b>emdha eSign</b> CA provides trust services to secure the exchange of information between key stakeholders, that primarily include, Government, Citizens and Businesses.
-                <br />
-                emdha is setup according to global standards and procedures; Cyber Vision operates the Certifying Authority using skilled subject matter experts in a secure infrastructure.
+    // {
+    //     id:4,
+    //     link:"digital-signature",
+    //     image:"digitalSignature/banner.png",
+    //     categoty:[
+    //         {
+    //             heading:"Digital Signature",
+    //             image:"digitalSignature/1.jpg",
+    //             description:`
+    //             <p>
+    //             emdha Trust Service Provider is owned and managed by Cyber Vision under the Saudi National Root CA offering trust services ranging from Online Digital Signature, Validation and Digital Certificates enabling business to seamlessly integrate and avail trust services in real-time. Delivering superior user experience by incorporating a secure, international compliant digital signature methodology fully integrated with any third party trusted registered KYC (Know Your Customer) approved by local governmental regulators.
+    //             <br/>
+    //             The Government of Saudi Arabia has embarked on an ambitious e-transaction program under 2030 vision, recognizing that there is a tremendous opportunity to better utilize information technology to improve the quality of care/service, lower the cost of operations, and increase customer satisfaction.
+    //             <br />
+    //             To ensure the secure, efficient transmission and exchange of information electronically, the Kingdom of Saudi Arabia has created a National Public Key Infrastructure (PKI), managed by National Centre for Digital Certification (NCDC). NCDC is created by an act of law and its mandate as stipulated in the Saudi e-Transactions Act and its bylaws. Digitally signed-documents under the article 14-1 of e-Transactions Law of the Kingdom of Saudi Arabia grants legal recognition to digital /electronic signatures.
+    //             <br/>
+    //             <b>emdha Trusted Digital Signature Service</b>
+    //             <br/>
+    //             <b>emdha</b> Certification Authority (CA) is owned and managed by Baud Telecom Company (Cyber Vision) under KSA Root CA and is poised to offer Online Digital Signature Service enabling applications to seamlessly integrate and avail digital signatures in real time. It incorporates a secure and compliant digital signature methodology with online “Know Your Customer (KYC)” process of the signatory, validated against information from reliable KYC agencies.
+    //             <br/>
+    //             <b>emdha’s online</b> signature service provides a paperless signature experience by using e-KYC from the bank or any other KYC Provider. This is intended to reduce the cost of KYC, paper storage and paper-based document movement. It also minimizes the risk of forged documents.
+    //             <br/>
+    //             <b>emdha’s certificate</b> policy provides a provision for short term certificates, which is used in order to create a one-time online signature. This facilitates digitally signing a document by the signatory using emdha’s Online Trusted Digital Signature Service. The authentication of the signatory is based on e-KYC data provided by a reliable KYC agency. Upon successful validation by emdha CA, the signature on the document is carried out on secure backend server. This is an integrated service that facilitates issuing a Digital Signature Certificate and performing Signing of requested document on the basis of authenticated e-KYC information. The certificate issued through this service will have a limited validity period and is only for the one-time signing of requested document.
+    //             <br />
+    //             <b>emdha eSign</b> CA provides trust services to secure the exchange of information between key stakeholders, that primarily include, Government, Citizens and Businesses.
+    //             <br />
+    //             emdha is setup according to global standards and procedures; Cyber Vision operates the Certifying Authority using skilled subject matter experts in a secure infrastructure.
 
 
-                </p>
-                <br />
-                <h3>Use Cases</h3>
+    //             </p>
+    //             <br />
+    //             <h3>Use Cases</h3>
 
-                <ul>
-                <li>Front office and customer facing applications.</li>
-                <li>Financial services organizations using e-signatures for credit card applications, account opening, etc...</li>
+    //             <ul>
+    //             <li>Front office and customer facing applications.</li>
+    //             <li>Financial services organizations using e-signatures for credit card applications, account opening, etc...</li>
 
-                <li>Real Estate industry working to make the</li>
-                <li>
-                Company’s back office, or internal, functions—including human resources, legal, supply chain management and finance (approve purchase orders, accelerate invoice processing, etc...).</li>
+    //             <li>Real Estate industry working to make the</li>
+    //             <li>
+    //             Company’s back office, or internal, functions—including human resources, legal, supply chain management and finance (approve purchase orders, accelerate invoice processing, etc...).</li>
 
-                </ul>
-                `,
-            }
+    //             </ul>
+    //             `,
+    //         }
             
           
             
-        ]
+    //     ]
         
-    },
+    // },
     {
         id:5,
         link:"customer-experience-solutions",
@@ -315,7 +315,7 @@ const serviceDetails = [
                 <p>
                 Cyber Vision is entrusted by major Banks, Insurance Providers, Hospitals, Educational Institutions and Government entities to provide better services to their customers. We design, develop and implement Omni-channel Contact Center solutions.
                 <br />
-                Cyber Vision has more than 20 years of experience in Contact Center implementations and delivered over 100 mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc.
+                Cyber Vision has vast experience in Contact Center implementations and delivered ample of mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc.
                 </p>`,
             }, 
                 {
@@ -331,37 +331,38 @@ const serviceDetails = [
                 },
                 {
                     heading:"CRM Integrations",
-                    image:"customerExperience/4.png",
+                    image:"customerExperience/crm.png",
                     description:`
                     <ul>
-                        <li>Siebel​ Integration​</li>
-                        <li>Microsoft Integration​</li>
+                        <li>Microsoft Dynamics 365 Integration​</li>
+                        <li>Microsoft SharePoint Integration​</li>
+                        <li>Microsoft Cloud Services Integration​</li>
                         <li>Salesforce Integration​</li> 
                     </ul>
                     `
                 },
-                {
-                    heading:"Outbound Campaign",
-                    image:"customerExperience/5.png",
-                    description:`
-                    <ul>
-                        <li>Telemarketing​</li>
-                        <li>Collection</li> 
-                    </ul>
-                    `
-                },
-                {
-                    heading:"Speech Solutions",
-                    image:"customerExperience/6.png",
-                    description:`
-                    <ul>
-                        <li>Speech Analytics​</li>
-                        <li>Text to speech (TTS)</li>
-                        <li>Automatic Speech Recognition (ASR)</li>
-                        <li>Automated Quality Management Solution</li>
-                    </ul>
-                    `
-                },
+                // {
+                //     heading:"Outbound Campaign",
+                //     image:"customerExperience/5.png",
+                //     description:`
+                //     <ul>
+                //         <li>Telemarketing​</li>
+                //         <li>Collection</li> 
+                //     </ul>
+                //     `
+                // },
+                // {
+                //     heading:"Speech Solutions",
+                //     image:"customerExperience/6.png",
+                //     description:`
+                //     <ul>
+                //         <li>Speech Analytics​</li>
+                //         <li>Text to speech (TTS)</li>
+                //         <li>Automatic Speech Recognition (ASR)</li>
+                //         <li>Automated Quality Management Solution</li>
+                //     </ul>
+                //     `
+                // },
                 {
                     heading:"Intelligent Automation",
                     image:"customerExperience/7.png",
@@ -390,6 +391,8 @@ const serviceDetails = [
                     image:"customerExperience/9.png",
                     description:`
                     <ul>
+                        <li>Contract Employment</li>    
+                        <li>Residence Engineering Services</li>    
                         <li>Forecasting</li>
                         <li>Scheduling</li> 
                     </ul>
@@ -480,7 +483,7 @@ const serviceDetails = [
     {
         id:7,
         link:"managed-services",
-        image:"managedServices/managedServices-new.jpg",
+        image:"managedServices/managedServices-old.jpg",
         categoty:[
             {
                 heading:"Why Managed Services?",
@@ -1090,11 +1093,11 @@ Parking Guidance: for traffic flow , empty-busy places
     {
         id:14,
         link:"grc-services",
-        image:"ourservices/security-shield.jpg",
+        image:"ourservices/grc.jpg",
         categoty:[
             {
                 heading:"Governance, Risk management & Compliance",
-                image:"ourservices/grc.jpg",
+                image:"ourservices/blank.png",
                 description:`
                 <p>
                     Governance risk compliance (GRC) is a method for managing and strategizing an organization's regulations regarding governance, financial or physical risk, and regulatory compliance. It aligns the IT aspects with business objectives and works to improve the efficiency of a company. There are GRC consultants and GRC analysts who provide an assessment of a business’s GRC, identify risks, analyze the data, develop policies to benefit the workplace, and consult on the best choice of action. Your duties may involve optimizing GRC systems, implementing tactics to lower risk, providing internal audits, assisting with cybersecurity, creating routine reports, and ensuring regulatory compliance. 
