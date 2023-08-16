@@ -9,7 +9,7 @@ const transporter = {
   secure: false, // use TLS
     auth: {
      user: "Website@cybervision.com.sa",
-     pass: "QWqcc041"
+     pass: "Cyber#Vision@123"
    } 
 
 /*   service: 'Gmail',
@@ -29,12 +29,12 @@ export default async (req, res) => {
 
   const data = {
     // Update your email
-    to: "shahid.sohail@gmail.com",
-    from: email,
+    to: "Website@cybervision.com.sa",
+    from: "Website@cybervision.com.sa",
     subject: "Hi there",
     text: text,
     html: `
-            <b>From:</b> ${name} <br /> 
+            <b>From:</b> ${name} - ${email} <br /> 
             <b>Number:</b> ${number} <br /> 
             <b>Subject:</b> ${subject} <br /> 
             <b>Message:</b> ${text} 
