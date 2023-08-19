@@ -115,7 +115,7 @@ const serviceDetails = [
                 Multi-cloud: Harnessing the Power of Diverse Cloud Providers. Utilize two or more clouds from different providers, blending Infrastructure, Platform, or Software as a Service (IaaS, PaaS, or SaaS). For instance, email from one vendor, CRM from another, and IaaS from yet another. Unlock the following advantages with multi-cloud platforms
                 </p> 
                 <ul>
-                <li>Easily manage and deploy workloads on multiple clouds,</li>
+                <li>Easily manage and deploy on multiple clouds,</li>
                 <li>Avoid vendor lock-in</li>
                 <li>Reduce cost</li>
                 <li>Increase overall productivity</li>
@@ -547,7 +547,7 @@ const serviceDetails = [
                         <li>Quarterly system reviews: Configuration, policies, and utilization of all systems are reviewed regularly.</li>
                         <li>Daily security advisory monitoring: Proactive detection of software, hardware, or security issues from vendors.</li>
                         <li>Firmware upgrades and patching: Based on performance, feature requirements, and security advisories.</li>
-                        <li>Long-term performance analysis: Consistent monitoring of performance parameters and traffic utilization with quarterly reporting./li>
+                        <li>Long-term performance analysis: Consistent monitoring of performance parameters and traffic utilization with quarterly reporting.</li>
 
                     </ul>
                     `

@@ -136,7 +136,7 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
                   <h3>Phone</h3>
-                  <p><img src="/images/whatsapp.png"/><span><a href="https://api.whatsapp.com/send?phone=96655709900" target="_blank">+96655709900</a></span>
+                  <p><img src="/images/whatsapp.png"/><span><a href="https://api.whatsapp.com/send?phone=966557009900" target="_blank">+966557009900</a></span>
                   </p>
                 </div>
 
@@ -199,7 +199,15 @@ const Footer = () => {
             </div> */}
           </div>
         </div>
+        <div className="whatsapp-container">
+        <Link href="https://wa.me/+966557009900" target="_blank">
+        <a target="_blank">
+        <img src="/images/whatsapp-button.png" alt="WhatsApp icon" />
+        </a>
+        </Link>
       </div>
+      </div>
+      
       {/* End Bottom Footer Section */}
     </>
   );

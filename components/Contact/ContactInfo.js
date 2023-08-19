@@ -43,7 +43,7 @@ const ContactInfo = () => {
                 <i className="fa fa-phone"></i>
                 <div className="content-title">
                   <h3>Phone</h3>
-                  <p><img src="/images/whatsapp.png"/><a href="https://api.whatsapp.com/send?phone=96655709900" target="_blank">+96655709900</a>
+                  <p><img src="/images/whatsapp.png"/><a href="https://api.whatsapp.com/send?phone=966557009900" target="_blank">+966557009900</a>
                   </p>
                 </div>
               </div>

@@ -124,7 +124,7 @@ const Navbar = () => {
                       </li>
                       
                       <li className="nav-item">
-                        <Link href="/services" activeClassName="active">
+                        <Link href="#" activeClassName="active">
                           <a className="nav-link">
                             Special Integrated Solutions <i className="fas fa-chevron-right"></i>
                             </a>
@@ -137,11 +137,11 @@ const Navbar = () => {
                             </Link>
                           </li>
 
-                          <li className="nav-item">
+                          {/* <li className="nav-item">
                             <Link href="/services/vsat-radio-wireless-new" activeClassName="active">
                               <a className="nav-link">VSAT, Radio & Wireless</a>
                             </Link>
-                          </li>
+                          </li> */}
                           {/* <li className="nav-item">
                             <Link href="/services/low-current" activeClassName="active">
                               <a className="nav-link">Low Current</a>
@@ -229,7 +229,8 @@ const Navbar = () => {
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link href="/services" activeClassName="active">
+                        {/* <Link href="/services" activeClassName="active"> */}
+                        <Link href="#" activeClassName="active">
                           <a className="nav-link">
                             Special Integrated Solutions
                             </a>
@@ -241,11 +242,11 @@ const Navbar = () => {
                             </Link>
                           </li>
 
-                          <li className="nav-item">
+                          {/* <li className="nav-item">
                             <Link href="/services/vsat-radio-wireless-new" activeClassName="active">
                               <a className="nav-link">VSAT, Radio & Wireless</a>
                             </Link>
-                          </li>
+                          </li> */}
                           {/* <li className="nav-item">
                             <Link href="/services/low-current" activeClassName="active">
                               <a className="nav-link">Low Current</a>

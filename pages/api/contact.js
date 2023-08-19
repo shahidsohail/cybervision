@@ -31,7 +31,7 @@ export default async (req, res) => {
     // Update your email
     to: "Website@cybervision.com.sa",
     from: "Website@cybervision.com.sa",
-    subject: "Hi there",
+    subject: "Contact from Cybervision Site",
     text: text,
     html: `
             <b>From:</b> ${name} - ${email} <br /> 
