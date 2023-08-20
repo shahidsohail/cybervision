@@ -55,10 +55,10 @@ const serviceDetails = [
                 </p>
                 <ul>
                 <li>Self-Service Catalog</li>
+                <li>Efficiency & control</li>
+                <li>Availability</li>
                 <li>Security & privacy</li>
                 <li>Automation</li>
-                <li>Availability</li>
-                <li>Efficiency & control</li>
                 </ul>
                 `
             },
@@ -433,16 +433,22 @@ const serviceDetails = [
                     image:"collaborations/3.jpg",
                     description:`
                     <p>
-                    Video, IP phones, and desktop clients bring people together and enhance the user experience.
+                    Collaboration Endpoint products make communicating with your counterparts across town or on the other side of the world easy. Video conferencing, IP phones, and desktop systems unite people and enhance the user experience.
                     </p>
                     `
                 },
                 {
-                    heading:"CONFERENCING",
+                    heading:"VIDEO CONFERENCING",
                     image:"collaborations/4.png",
                     description:`
                     <p>   
-                    Scalable and Resilient Call control is centralized at a single location that serves multiple remote sites. Management and administration are centralized from web base interface Virtualization Supported Common telephony features are available across voice and video endpoints
+                        Centralized Scalable Call Control: Manage call control centrally from a single location, serving multiple remote sites.
+                        <br/>                      
+                        Streamlined Management: Centralize management and administration through a web-based interface.
+<br/>
+                        Virtualization Ready: Ready for virtualization to optimize resource utilization.
+<br/>
+Unified Telephony Features: Enjoy consistent telephony features across voice and video endpoints.
                     </p>
                     `
                 },
@@ -451,7 +457,7 @@ const serviceDetails = [
                     image:"collaborations/5.png",
                     description:`
                     <p>
-                    Allows you to stay connected regardless of your location. Through your office extension, you can make and receive calls, chat, and more with softphone applications.
+                    Stay seamlessly connected from anywhere. Utilize your office extension to make/receive calls, chat, and more using softphone apps.
                     </p>
                     `
                 },
@@ -460,10 +466,9 @@ const serviceDetails = [
                     image:"collaborations/6.png",
                     description:`
                     <p>
-                        exchange text-based instant messages with users ,receive image, audio, video, and generic attachments .
-                        <br />
-                        Allowing users to see the availability status of their colleagues before they connect.
-                        <br />
+                       Chat instantly with users via text messages, and seamlessly receive image, audio, video, and various attachments. 
+                       <br/>
+                       Stay informed about your colleagues' availability status before initiating connections.
                     </p>
                     `
                 },
@@ -472,7 +477,7 @@ const serviceDetails = [
                     image:"collaborations/7.png",
                     description:`
                     <p>
-                    UM combines voice messaging and email messaging into one mailbox that can be accessed from many different devices with optional enhancements like Fax support
+                    UM integrates voice and email messaging into a single mailbox accessible across multiple devices, with the option for added features like Fax support.
                     </p>
                     `
                 },
