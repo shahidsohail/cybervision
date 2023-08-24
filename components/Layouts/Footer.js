@@ -24,13 +24,13 @@ const Footer = () => {
 
                 <ul className="footer-social">
                   <li>
-                    <a href="https://www.facebook.com/" target="_blank">
+                    <a href="https://www.facebook.com/profile.php?id=61550313033057" target="_blank">
                       <i className="fab fa-facebook-f"></i>
                     </a>
                   </li>
 
                   <li>
-                    <a href="https://twitter.com/CyberVision_sa/" target="_blank">
+                    <a href="https://twitter.com/CyberVision_sa" target="_blank">
                       <i className="fab fa-twitter"></i>
                     </a>
                   </li>
@@ -42,7 +42,7 @@ const Footer = () => {
                   </li>
 
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
+                    <a href="https://www.linkedin.com/company/cyber-vision-ksa/" target="_blank">
                       <i className="fab fa-linkedin"></i>
                     </a>
                   </li>
