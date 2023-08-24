@@ -193,7 +193,7 @@ const serviceDetails = [
                 `
             },
             {
-                heading:"Network DetectionResponse & Threat Hunting",
+                heading:"Network Detection Response & Threat Hunting",
                 image:"cyberSecurity/7.jpg",
                 description:`
                 <p>
@@ -214,7 +214,7 @@ const serviceDetails = [
                 `
             },
             {
-                heading:"Vulnerability Assessment & penetration testing Solution",
+                heading:"Vulnerability Assessment & Penetration Testing Solution",
                 image:"cyberSecurity/12.jpg",
                 description:`
                 <p>
@@ -224,7 +224,7 @@ const serviceDetails = [
                 `
             },
             {
-                heading:"Data Protection and Classification solution",
+                heading:"Data Protection and Classification Solution",
                 image:"cyberSecurity/9.png",
                 description:`
                 <p>Protect files and documents in transmit, at rest and at work. Discovers and Detect and stops files from leaving perimeter (DLP), Tag classification of files and email
