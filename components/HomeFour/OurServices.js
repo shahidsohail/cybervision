@@ -20,7 +20,7 @@ const OurServices = () => {
                 </div>
 
                 <h3>Cyber ​​security services</h3>
-                <p>The Infrastructure Design and Review provides an analysis of...
+                <p>The Infrastructure Design and Review provide an analysis of...
                 </p>
 
                 <Link href="/services/cyber-security">
@@ -40,7 +40,7 @@ const OurServices = () => {
                 </div>
 
                 <h3>Our services</h3>
-                <p>Our services include consulting and cybersecurity services, but not limited to....
+                <p>Our services include consulting and cybersecurity services, but are not limited to....
                 </p>
 
                 <Link href="/services/ourServices">

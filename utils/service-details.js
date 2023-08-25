@@ -156,21 +156,21 @@ const serviceDetails = [
                 heading:"NGFW Solution",
                 image:"cyberSecurity/2.png",
                 description:`<p>
-                NGFW ( Next Generation Firewall )  solution provides, Application based policy enforcement , User identification, Threat prevention, Sandboxing, malware analysis , Traffic visibility , Secure remote networking , URL filtering, DNS protection, along with branch SD-WAN features.
+                The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities.
                 </p>`
             },
             {
                 heading:"WAF Solution",
                 image:"cyberSecurity/3.png",
                 description:`
-                WAF ( web Application Firewall ) protect against web application attacks like SQL injection and XSS crossite scripting attacks, and input validation attacks and protects the enterprise application servers
+                A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches.
                 `
             },
             {
                 heading:"Identity Access Management",
                 image:"cyberSecurity/4.jpg",
                 description:`<p>
-                Identity management platform for wired , wireless and VPN traffic , providing policy classification and enforcement, authentication, authorization and accounting of network Infrastructure traffic
+                Experience a comprehensive identity management platform catering to wired, wireless, and VPN traffic. Our solution offers policy classification and enforcement, along with robust authentication, authorization, and accounting for your network infrastructure traffic.
                 </p>
                 `
             },
@@ -179,7 +179,7 @@ const serviceDetails = [
                 image:"cyberSecurity/5.png",
                 description:`
                 <p>
-                IAM solution provides , Data governance, Access Request , Compliance controls, SSO , Password management , Identity Analytics and Role management for end users
+                The IAM solution offers a comprehensive array of features, including data governance, access requests, compliance management, single sign-on (SSO), password administration, identity analytics, and role management, all catered to the needs of end users.
                 </p>
                 `
             },
@@ -188,7 +188,7 @@ const serviceDetails = [
                 image:"cyberSecurity/6.png",
                 description:`
                 <p>
-                Provides Log management, Event correlation, incident investigation and real-time monitoring. Compliance adherence ,Enforcement and Reporting. Quickly identity threats, reduce response time in threat hunting and improves visibility.
+                Delivers log management, event correlation, incident analysis, and live monitoring. Ensures compliance alignment, enforcement, and reporting. Swiftly detects threats, minimizes response time in threat hunting, and enhances overall visibility.
                 </p>
                 `
             },
@@ -197,7 +197,7 @@ const serviceDetails = [
                 image:"cyberSecurity/7.jpg",
                 description:`
                 <p>
-                AI and machine learning to detect network based attacks , Traffic Analysis , File analysis and improve visibility to the network also reduce the MTTR for network based files less attacks
+                Utilizing artificial intelligence and machine learning, we employ advanced techniques to identify network-based attacks, conduct thorough traffic analysis, and analyze files for enhanced network visibility. Our solutions not only bolster your security posture but also significantly minimize Mean Time to Recovery (MTTR) for file-less attacks, ensuring a fortified and responsive network defense.
                 </p>
                 `
             },
@@ -206,9 +206,9 @@ const serviceDetails = [
                 image:"cyberSecurity/8.jpg",
                 description:`
                 <p>
-                The comprehensive EDR solution applies the most effective expert analytics to the deep data sets collected from EDR  solutions across the enterprise, making faster connections to identify and stop attacks.
+                The all-encompassing EDR solution utilizes expert analytics on extensive data sets gathered from EDR solutions throughout the organization. This enables swift identification and prevention of attacks by establishing quicker connections.
                 <br / >
-                The EDR solution reduces the attack surface , increases the visibility and prevent the threats on the Endpoint Infrastructure ,along with fast response and remediation of endpoint.
+                The EDR solution effectively minimizes the attack surface, enhances visibility, and thwarts threats targeting the Endpoint Infrastructure. Additionally, it ensures swift response and effective remediation for endpoints.
 
                 </p>
                 `
@@ -218,7 +218,7 @@ const serviceDetails = [
                 image:"cyberSecurity/12.jpg",
                 description:`
                 <p>
-                Provide Asset visibility , compliance , Active and Passive scans vulnerability blind spots for network , endpoint and servers. Support SAS and cloud assessment as well .  Quantifies current security posture , enables to consistently improve security posture
+                Deliver enhanced asset visibility, ensure compliance, and conduct active and passive scans to uncover vulnerability blind spots across networks, endpoints, and servers. Our solution extends support to both SAS and cloud assessments. It quantifies your existing security stance, empowering continuous enhancement of your security posture.
 
                 </p>
                 `
@@ -227,7 +227,8 @@ const serviceDetails = [
                 heading:"Data Protection and Classification Solution",
                 image:"cyberSecurity/9.png",
                 description:`
-                <p>Protect files and documents in transmit, at rest and at work. Discovers and Detect and stops files from leaving perimeter (DLP), Tag classification of files and email
+                <p>
+                Safeguard your files and documents during transmission, storage, and work processes. Identify and prevent unauthorized file transfers beyond the perimeter with our Data Loss Prevention (DLP) feature. Employ file and email tagging for accurate classification.
                  </p>
                 `
             },
@@ -236,7 +237,7 @@ const serviceDetails = [
                 image:"cyberSecurity/10.jpg",
                 description:`
                 <p>
-                Cyber Vision provide email security solution for antispam & antivirus , file reputation , Data loss protection, encryption and content control
+                Cyber Vision offers a comprehensive email security solution encompassing anti-spam and antivirus protection, file reputation management, data loss prevention, encryption, and content control.
                 </p>
                 `
             },
@@ -245,7 +246,7 @@ const serviceDetails = [
                 image:"cyberSecurity/11.png",
                 description:`
                 <p>
-                The solution provides content filtering , malware analysis , granular controls and detailed reporting , proxy and caching services
+                The solution offers capabilities for filtering content, analyzing malware, implementing precise controls, generating comprehensive reports, as well as providing proxy and caching services.
 
                 </p>
                 `
@@ -313,7 +314,7 @@ const serviceDetails = [
                 image:"customerExperience/1.jpeg",
                 description:`
                 <p>
-                Cyber Vision is entrusted by major Banks, Insurance Providers, Hospitals, Educational Institutions and Government entities to provide better services to their customers. We design, develop and implement Omni-channel Contact Center solutions.
+                Cyber Vision holds the trust of leading banks, insurance providers, healthcare institutions, educational establishments, and governmental bodies to elevate customer service standards. Our expertise lies in crafting, building, and deploying omni-channel contact center solutions, ensuring superior services across diverse sectors
                 <br />
                 Cyber Vision has vast experience in Contact Center implementations and delivered ample of mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc.
                 </p>`,
@@ -511,7 +512,7 @@ Unified Telephony Features: Enjoy consistent telephony features across voice and
                 image:"managedServices/Monitoring.jpg",
                 description:`
                 <p>
-                Round-the-clock monitoring of your entire IT infrastructure and applications, coupled with comprehensive support to resolve issues remotely and on-site, provided by our experienced technical experts.
+                Our seasoned technical experts offer continuous monitoring for your complete IT infrastructure and applications. This is complemented by robust remote and on-site support for issue resolution, ensuring a seamless experience around the clock.
                 </p>
                 <br />
                 <ul>

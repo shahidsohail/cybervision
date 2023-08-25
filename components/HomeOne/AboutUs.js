@@ -31,7 +31,7 @@ const AboutUs = () => {
                 <h2>Focused On Actionable Insights</h2>
                 <p>
                 Cyber ​​Vision Company is based on providing comprehensive cyber 
-                security management services, as it employed the best talents in the 
+                security management services, as it employs the best talents in the 
                 field of technology to provide innovative cyber security services by 
                 benefiting from leading expertise in the field of comprehensive information
                  security management. 

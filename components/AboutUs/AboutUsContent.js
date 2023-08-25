@@ -18,7 +18,7 @@ const AboutUsContent = () => {
                 <h2>Focused On Actionable Insights</h2>
                 <p>
                 Cyber ​​Vision Company is based on providing comprehensive 
-                cyber security management services, as it employed the best 
+                cyber security management services, as it employs the best 
                 talents in the field of technology to provide innovative cyber 
                 security services by benefiting from leading expertise in the field 
                 of comprehensive information security management. 
@@ -44,7 +44,7 @@ const AboutUsContent = () => {
                 </ul>
                 
                   <p className="comment-notes red">
-                    For more details please download the broucher in your preferred language<br/>
+                    For more details please download the brochure in your preferred language<br/>
                     <a className="default-btn" href="/files/CYBERVISIONprofileAR.pdf" download> 
                         Arabic
                     </a>

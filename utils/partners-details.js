@@ -7,7 +7,7 @@ const partnarDetails =
     type:[
         {
         "name":"NETWORKING",
-        "image":"Category/Networking.jpg",
+        "image":"Category/NETWORKING.jpg",
         listitems:[
             "Network Architecture - Cisco DNA",
             "Network Architecture - Cisco ACI",

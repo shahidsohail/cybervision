@@ -22,7 +22,7 @@ const SolutionsTab = () => {
                     <div className="tab-solution-content">
                       <h3>Cyber ​​security services</h3>
                       <p>
-                      The infrastructure design and review provides a SWOT analysis 
+                      The infrastructure design and review provide a SWOT analysis 
                       that will allow the client to meet SAMA and NCA requirements and 
                       enhance the client's cybersecurity posture.
                       </p>
@@ -73,7 +73,7 @@ const SolutionsTab = () => {
                       <h3>Our services</h3>
                       <p>
                       Our services include consulting and cybersecurity services,
-                       but not limited to governance, risk, compliance, 
+                       but are not limited to governance, risk, compliance, 
                        security products, penetration testing, infrastructure 
                        security solutions and vulnerability assessment. 
                        We also provide design, infrastructure review, gap
