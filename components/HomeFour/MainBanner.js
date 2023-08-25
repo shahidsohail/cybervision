@@ -24,7 +24,7 @@ const MainBanner = () => {
                     medium and large companies for cyber security work in the Kingdom of
                     Saudi Arabia in a comprehensive manner, and is specially designed to serve 
                     the interests of companies as consulting and services in the field of cyber
-                     security.Cyber ​​Vision was established in 2022 in the 
+                     security. Cyber ​​Vision was established in 2022 in the 
                      Kingdom of Saudi Arabia based on highly experienced 
                      employees in the field of cyber security consulting and 
                      services.

@@ -137,8 +137,8 @@ const serviceDetails = [
                 image:"cyberSecurity/1.png",
                 description:`<p>
                 
-                With the ever increasing Threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals , it is imperative to strategize the cybersecurity solution.<br />
-                In Order to provide the cybersecurity solution in the Kingdom, Cyber Vision Networks leverages on the new innovations on Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in Cyber Security domain.
+                With the ever increasing threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals, it is imperative to strategize the cybersecurity solution.<br />
+                In Order to provide cyber security solution in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in Cyber Security domain.
                 <br />
                 <ul>
                 <li>NGFW( Next generation Firewall ), WAF (Web Application Firewalls)</li>
@@ -156,7 +156,7 @@ const serviceDetails = [
                 heading:"NGFW Solution",
                 image:"cyberSecurity/2.png",
                 description:`<p>
-                NGFW ( Next Generation Firewall )  solution provides , Application based policy enforcement , User identification, Threat prevention, Sandboxing, malware analysis , Traffic visibility , Secure remote networking , URL filtering, DNS protection, along with branch SD-WAN features.
+                NGFW ( Next Generation Firewall )  solution provides, Application based policy enforcement , User identification, Threat prevention, Sandboxing, malware analysis , Traffic visibility , Secure remote networking , URL filtering, DNS protection, along with branch SD-WAN features.
                 </p>`
             },
             {
