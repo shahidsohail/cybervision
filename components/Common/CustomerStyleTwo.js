@@ -29,9 +29,20 @@ const CustomerStyleTwo = () => {
             {partnarDetails.map((key,value)=>{
               return (
               <SwiperSlide>
-              <div className="partner-item">
-                <a href={`/${key.link}`}>
-                <img src={`/images/partner/${key.id}.png`} alt="image" />
+      
+              {/* <div className={`my-div ${condition ? 'conditional-style' : ''}`}>
+                This is a div with conditional style.
+              </div> */}
+                                            {/* style={{ backgroundImage: `url(${bgImage})` }}> */}
+              <div className="partner-item" >
+                <a href={`/${ key.link}`} 
+                                          onClick={(event) => 
+                                                            {  
+                                                              if('TrendMicro,CyberDacians'.indexOf(key.link )>-1 ) 
+                                                                event.preventDefault();    
+                                                            }   
+                                                  }  >
+                  <img src={`/images/partner/${key.id}.png`} alt="image" />                
                 </a>
                 
               </div>
