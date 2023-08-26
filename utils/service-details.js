@@ -7,9 +7,9 @@ const serviceDetails = [
         // <a href="https://www.freepik.com/free-photo/server-racks-computer-network-security-server-room-data-center-d-render-dark-blue-generative-ai_38095230.htm#query=data%20center&position=9&from_view=keyword&track=ais">Image by benzoix</a> on Freepik
         categoty:[
             {
-                heading:"Revolutionize Your Digital Transformation: Software-Defined Data Center Solutions",
+                heading:"Unleash the Power of Software-Defined Data Center Solutions",
                 image:"dataCenter/SDDC2.jpeg",
-                description:"<p>With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here..</p>" 
+                description:"<p>With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here.</p>" 
             },
             {
                 heading:"Software Defined Networking",
@@ -138,7 +138,7 @@ const serviceDetails = [
                 description:`<p>
                 
                 With the ever increasing threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals, it is imperative to strategize the cybersecurity solution.<br />
-                In Order to provide cyber security solution in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in Cyber Security domain.
+                In Order to provide cyber security solutions in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in the Cyber Security domain.
                 <br />
                 <ul>
                 <li>NGFW( Next generation Firewall ), WAF (Web Application Firewalls)</li>
@@ -500,7 +500,7 @@ Unified Telephony Features: Enjoy consistent telephony features across voice and
                 <br />
                 <br />
                 CyberTechSheild (CTS) provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. 
-                Our expert team along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur.
+                Our expert teams along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur.
                 </p>
                
                 
@@ -587,7 +587,7 @@ Unified Telephony Features: Enjoy consistent telephony features across voice and
                     </p>
                     <br />
                     <p>
-                    Transport networks have traditionally been built using Time Division Multiplexed (TDM) SONET/SDH devices. These are becoming ineffective and costly in today's packet-oriented world, which is driving service providers and utilities companies to deploy more packet-based equipment in their transport networks.
+                    Transport networks have traditionally been built using Time Division Multiplexed (TDM) SONET/SDH devices. These are becoming ineffective and costly in today's packet-oriented world, which is driving service providers and utility companies to deploy more packet-based equipment in their transport networks.
                     </p> 
                     `
                 },
@@ -596,7 +596,7 @@ Unified Telephony Features: Enjoy consistent telephony features across voice and
                     image:"convergedNetworks/RFTS.png",
                     description:`
                     <p>
-                    Cyber Vision has successfully implemented numerous RFTS projects, providing clients with 24/7 monitoring of their fiber optic infrastructure, reducing MTTR for fiber optic cables.
+                    Cyber Vision has successfully implemented numerous RFTS projects, providing clients with 24/7 monitoring of their fiber optic infrastructure, and reducing MTTR for fiber optic cables.
                     <br />
                     Remote Fiber Monitoring: Our advanced system enables centralized oversight of the entire fiber optic network, including dark fiber. Continuous evaluation of network performance ensures efficient MTTR. 
                     </p>
@@ -810,9 +810,7 @@ Parking Guidance: for traffic flow , empty-busy places
                 image:"physicalSecurity/1.jpg",
                 description:`
                 <p>
-                Cyber Vision has a deep experience to implement unified platform to integrate:
-                Physical security solutions + fire and safety solutions + Building asset management solutions
-                In command and control centers with seamless integration and seamless scalabilities
+                    Cyber Vision boasts extensive expertise in deploying an integrated unified platform that seamlessly combines physical security, fire and safety, and building asset management solutions within command and control centers. Our experience ensures flawless integration and effortless scalability, delivering a comprehensive solution.
                 </p>
                 `,
             }, 
@@ -821,9 +819,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/2.jpg",
                     description:`
                     <p>
-                    Cyber Vision provides the highest technologies and the best of architecture design all in one-package solutions for the security control centers includes:
-                    Integrated Security Platform ( PISM ) , VMS and analytics
-                    Servers and storage, Video walls, Technical consoles, Network switches, Racks, UPS and more .
+                        Cyber Vision offers an all-inclusive solution for security control centers, combining top-tier technologies and superior architectural design. Our package includes the Integrated Security Platform (PISM), VMS and analytics, server and storage solutions, video walls, technical consoles, network switches, racks, UPS, and more.
                     </p> 
                     `
                 },
@@ -832,7 +828,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/3.jpg",
                     description:`
                     <p>
-                    Cyber Vision technical team has strong experience in enterprise level for access control solutions with amazing references, providing integrated different access modules with wide range of authentication levels for huge database of access users to remote sites all together in a unified platform according to customer needs
+                        The technical experts at Cyber Vision possess extensive proficiency in delivering enterprise-level access control solutions, backed by impressive endorsements. Our team excels in seamlessly integrating diverse access modules, accommodating a broad spectrum of authentication levels. This cohesive approach caters to a vast access user database, spanning remote locations, all streamlined within a unified platform tailored to each client's specific requirements.
                     </p>
                     
                     `
@@ -842,7 +838,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/4.jpg",
                     description:`
                     <p>
-                    Cyber Vision portfolio includes approx. all physical security solutions known in the market all as enterprise high-end tech. leading this market with amassing reference in government different sectors and also in Industrial utilities. Walk through gate scanner Luggage X-ray Scanners. Handheld Metal Detector UVSS integrated with LPR Sliding gates Road blockers Bollards Barriers
+                    The Cyber Vision portfolio encompasses nearly every recognized physical security solution available in the market. Each solution boasts enterprise-level, cutting-edge technology that spearheads the industry. We stand at the forefront of this market, backed by an impressive array of references across various government sectors and industrial utilities. Our offerings range from advanced Walk-Through Gate Scanners and Luggage X-Ray Scanners to Handheld Metal Detectors. Additionally, we specialize in seamlessly integrated solutions like Under Vehicle Surveillance Systems (UVSS) coupled with License Plate Recognition (LPR), Sliding Gates, Road Blockers, Bollards, and Barriers.
                     </p>
                     `
                 },
@@ -851,7 +847,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/5.jpg",
                     description:`
                     <p>
-                    As a part of integrated security solution Cyber Vision provide very strong portfolio for intrusion detection with high end security references in government different sectors and in industrial and utilities sector.
+                    Within our integrated security solution, Cyber Vision offers an impressive range of intrusion detection capabilities, backed by strong security endorsements across various government sectors, as well as industrial and utilities domains.
                     <br />
                     Fencing Intrusion systems: IR detection, PIR scanning, Fiber sensing, Laser scanning. In Building intrusion Systems: PIR detection, Glass Break</p>
                     `
@@ -861,9 +857,7 @@ Parking Guidance: for traffic flow , empty-busy places
                     image:"physicalSecurity/6.jpg",
                     description:`
                     <p>
-                    Cyber Vision is very experienced in security solutions providing the latest technologies solutions in the CCTV solutions field
-                    <br />
-                    Cyber Vision is HCIS certified, with high experience for industrial security solution for Mega projects in the field of industrial security
+                    Cyber Vision boasts extensive expertise in delivering cutting-edge security solutions, specializing in state-of-the-art technology within the realm of CCTV systems. With HCIS certification, we bring a wealth of experience in safeguarding industrial environments, particularly in the context of large-scale projects within the industrial security domain.
                     </p>
                     `
                 },

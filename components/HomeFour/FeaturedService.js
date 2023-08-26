@@ -12,7 +12,7 @@ const FeaturedService = () => {
                 <h2>Our Services</h2>
                 <p>
                 Our services include consulting and cybersecurity services, 
-                but not limited to governance, risk, compliance, security 
+                but are not limited to governance, risk, compliance, security 
                 products, penetration testing, infrastructure security solutions
                  and vulnerability assessment. We also provide design, 
                  infrastructure review, gap analysis and SWOT analysis that 
