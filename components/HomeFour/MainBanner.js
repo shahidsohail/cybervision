@@ -1,9 +1,12 @@
 import React, { useState } from "react";
 import FsLightbox from "fslightbox-react";
 import Link from "next/link";
+import { useTranslation } from 'react-i18next';
 
 const MainBanner = () => {
   const [toggler, setToggler] = useState(false);
+  const { t } = useTranslation();
+
   return (
     <>
       <FsLightbox
@@ -20,14 +23,7 @@ const MainBanner = () => {
                   <div className="main-banner-content">
                     <h1>Cyber ​​Vision</h1>
                     <p>
-                    The Cyber ​​Vision Company was built to meet the needs of small,
-                    medium and large companies for cyber security work in the Kingdom of
-                    Saudi Arabia in a comprehensive manner, and is specially designed to serve 
-                    the interests of companies as consulting and services in the field of cyber
-                     security. Cyber ​​Vision was established in 2022 in the 
-                     Kingdom of Saudi Arabia based on highly experienced 
-                     employees in the field of cyber security consulting and 
-                     services.
+                      {t("mainBannerDetails")}
                     </p>
 
                     <div className="banner-btn">

@@ -1,5 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
 import Link from "../../utils/ActiveLink";
+import { useTranslation } from 'react-i18next';
 
 const Navbar = () => {
   const [menu, setMenu] = React.useState(true);
@@ -16,6 +17,7 @@ const Navbar = () => {
       }
     });
   });
+  const { i18n } = useTranslation();
 
   const classOne = menu
     ? "collapse navbar-collapse mean-menu"
@@ -23,6 +25,19 @@ const Navbar = () => {
   const classTwo = menu
     ? "navbar-toggler navbar-toggler-right collapsed"
     : "navbar-toggler navbar-toggler-right";
+
+  const handleLanguageChange = (event) => {
+    const newLanguage = event.target.value;
+    i18n.changeLanguage(newLanguage);
+  };
+
+  const selectStyle = {
+    padding: '6px',
+    fontSize: '12px',
+    border: '1px solid #ccc',
+    borderRadius: '4px',
+    outline: 'none',
+  };
 
   return (
     <>
@@ -334,10 +349,21 @@ const Navbar = () => {
                     </Link>
                   </li>
                   <li className="nav-item">
-                        <Link href="/team" activeClassName="active">
-                          <a className="nav-link">Clients</a>
-                        </Link>
-                      </li>
+                    <Link href="/team" activeClassName="active">
+                      <a className="nav-link">Clients</a>
+                    </Link>
+                  </li>
+                  <li className="nav-item">
+                    <select
+                      id="language-select"
+                      value={i18n.language}
+                      onChange={handleLanguageChange}
+                      style={selectStyle}
+                    >
+                      <option value="en">English</option>
+                      <option value="ar">العربية</option>
+                    </select>
+                  </li>
                   {/* <li className="nav-item">
                     <Link href="#">
                       <a className="nav-link">
