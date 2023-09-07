@@ -2,6 +2,7 @@ import nodemailer from "nodemailer";
 // import sgTransport from "nodemailer-sendgrid-transport";
 import SMTPTransport from "nodemailer/lib/smtp-transport";
 
+
 const transporter = {
   // pool: true,
   host: "outlook.office365.com",

@@ -1,8 +1,10 @@
 import React from "react";
 import Link from "next/link";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
+import { useTranslation } from 'react-i18next';
 
 const SolutionsTab = () => {
+  const {t}= useTranslation();
   return (
     <>
       <div className="tab-section ptb-100">
@@ -10,8 +12,8 @@ const SolutionsTab = () => {
           <div className="solutions-list-tab">
             <Tabs>
               <TabList>
-                <Tab>Cyber ​​security services</Tab>
-                <Tab>Our services</Tab>
+                <Tab>{t("Cyber ​​security services")}</Tab>
+                <Tab>{t("Our Services")}</Tab>
                 {/* <Tab>Analytics AI</Tab>
                 <Tab>Cloud Deployment</Tab> */}
               </TabList>
@@ -20,32 +22,31 @@ const SolutionsTab = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-7">
                     <div className="tab-solution-content">
-                      <h3>Cyber ​​security services</h3>
+                      <h3>{t("Cyber ​​security services")}</h3>
                       <p>
-                      The infrastructure design and review provide a SWOT analysis 
-                      that will allow the client to meet SAMA and NCA requirements and 
-                      enhance the client's cybersecurity posture.
+                      {t("The infrastructure design and review provide a SWOT analysis that will allow the client to meet SAMA and NCA requirements and enhance the client's cybersecurity posture.")}
+                      
                       </p>
 
                       <ul className="tab-list">
                         <li>
                           <i className="flaticon-tick-1"></i>
-                          Innovation idea the latest business technology
+                          {t("Innovation idea the latest business technology")}
                         </li>
                         <li>
                           <i className="flaticon-tick-1"></i>
-                          Safe secure services for user
+                          {t("Safe secure services for user")}
                         </li>
                         <li>
                           <i className="flaticon-tick-1"></i>
-                          24/7 support
+                          {t("24/7 support")}
                         </li>
                       </ul>
 
                       <div className="tab-btn">
                         <Link href="/service-details">
                           <a className="default-btn">
-                            Read More <span></span>
+                          {t("Read More")}  <span></span>
                           </a>
                         </Link>
                       </div>
@@ -70,38 +71,30 @@ const SolutionsTab = () => {
 
                   <div className="col-lg-7">
                     <div className="tab-solution-content">
-                      <h3>Our services</h3>
+                      <h3>{t("Our Services")}</h3>
                       <p>
-                      Our services include consulting and cybersecurity services,
-                       but are not limited to governance, risk, compliance, 
-                       security products, penetration testing, infrastructure 
-                       security solutions and vulnerability assessment. 
-                       We also provide design, infrastructure review, gap
-                        analysis and SWOT analysis that will allow the customer
-                         to meet the requirements of SAMA (Central Bank of Saudi
-                          Arabia). and NCA (National Cyber ​​Security Authority) 
-                          and strengthening the security posture of the facility.
+                      {t("Our services include consulting and cybersecurity services, but are not limited to governance, risk, compliance, security products, penetration testing, infrastructure security solutions and vulnerability assessment. We also provide design, infrastructure review, gap analysis and SWOT analysis that will allow the customer to meet the requirements of SAMA (Central Bank of Saudi Arabia). and NCA (National Cyber ​​Security Authority) and strengthening the security posture of the facility.")}
                       </p>
 
                       <ul className="tab-list">
                         <li>
                           <i className="flaticon-tick-1"></i>
-                          Innovation idea the latest business technology
+                          {t("Innovation idea the latest business technology")}
                         </li>
                         <li>
                           <i className="flaticon-tick-1"></i>
-                          Safe secure services for user
+                          {t("Safe secure services for user")}
                         </li>
                         <li>
                           <i className="flaticon-tick-1"></i>
-                          24/7 support
+                          {t("24/7 support")}
                         </li>
                       </ul>
 
                       <div className="tab-btn">
                         <Link href="/service-details">
                           <a className="default-btn">
-                            Read More <span></span>
+                          {t("Read More")} <span></span>
                           </a>
                         </Link>
                       </div>

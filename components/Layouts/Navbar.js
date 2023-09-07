@@ -18,6 +18,8 @@ const Navbar = () => {
     });
   });
   const { i18n } = useTranslation();
+  // const { t } = useTranslation();
+  const { t } = useTranslation();
 
   const classOne = menu
     ? "collapse navbar-collapse mean-menu"
@@ -80,7 +82,7 @@ const Navbar = () => {
                   <li className="nav-item">
                     <Link href="/">
                       <a className="nav-link">
-                        Home 
+                        {t("Home")} 
                         {/* <i className="fas fa-chevron-down"></i> */}
                       </a>
                     </Link>
@@ -114,41 +116,41 @@ const Navbar = () => {
 
                   <li className="nav-item">
                     <Link href="/about-us" activeClassName="active">
-                      <a className="nav-link">About us</a>
+                      <a className="nav-link"> {t("About Us")}</a>
                     </Link>
                   </li>
             {/* for desktop start */}
                   <li className="nav-item isMobile">
                     <Link href="#">
                       <a className="nav-link">
-                        Services <i className="fas fa-chevron-down"></i>
+                      {t("Services")} <i className="fas fa-chevron-down"></i>
                       </a>
                     </Link>
                   
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link href="/services/managed-services" activeClassName="active">
-                          <a className="nav-link">Managed Services</a>
+                          <a className="nav-link">{t("Managed Services")}</a>
                         </Link>
                       </li>
                       
                       <li className="nav-item">
                         <Link href="/services/grc-services" activeClassName="active">
-                          <a className="nav-link">GRC Services</a>
+                          <a className="nav-link">{t("GRC Services")}</a>
                         </Link>
                       </li>
                       
                       <li className="nav-item">
                         <Link href="#" activeClassName="active">
                           <a className="nav-link">
-                            Special Integrated Solutions <i className="fas fa-chevron-right"></i>
+                          {t("Special Integrated Solutions")} <i className="fas fa-chevron-right"></i>
                             </a>
                         </Link>
 
                         <ul className="dropdown-menu" style={{"left": "200px"}}>
                           <li className="nav-item">
                             <Link href="/services/converged-networks" activeClassName="active">
-                              <a className="nav-link">Converged Networks</a>
+                              <a className="nav-link">{t("Converged Networks")}</a>
                             </Link>
                           </li>
 
@@ -164,7 +166,7 @@ const Navbar = () => {
                           </li> */}
                           <li className="nav-item">
                             <Link href="/services/Identity-Authentication-Security" activeClassName="active">
-                              <a className="nav-link">Identity Authentication Security</a>
+                              <a className="nav-link">{t("Identity Authentication Security")}</a>
                             </Link>
                           </li>
                           {/* <li className="nav-item">
@@ -188,18 +190,18 @@ const Navbar = () => {
 
                       <li className="nav-item">
                         <Link href="/services/data-centers" activeClassName="active">
-                          <a className="nav-link">Data Centers</a>
+                          <a className="nav-link">{t("Data Centers")}</a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
                         <Link href="/services/cloud-services" activeClassName="active">
-                          <a className="nav-link">Cloud Services</a>
+                          <a className="nav-link">{t("Cloud Services")}</a>
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link href="/services/cyber-security" activeClassName="active">
-                          <a className="nav-link">Cyber Security</a>
+                          <a className="nav-link">{t("Cyber Security")}Cyber Security</a>
                         </Link>
                       </li>
                       {/* <li className="nav-item">
@@ -209,12 +211,12 @@ const Navbar = () => {
                       </li> */}
                       <li className="nav-item">
                         <Link href="/services/customer-experience-solutions" activeClassName="active">
-                          <a className="nav-link">Customer Experience</a>
+                          <a className="nav-link">{t("Customer Experience")}Customer Experience</a>
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link href="/services/unified-collaborations" activeClassName="active">
-                          <a className="nav-link">Collaboration</a>
+                          <a className="nav-link">{t("Collaboration")}</a>
                         </Link>
                       </li>
                       
@@ -228,32 +230,32 @@ const Navbar = () => {
              <li className="nav-item hidedesktop">
                     <Link href="#">
                       <a className="nav-link">
-                        Services <i className="fas fa-chevron-down"></i>
+                      {t("Services")} <i className="fas fa-chevron-down"></i>
                       </a>
                     </Link>
                   
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="/services/managed-services" activeClassName="active">
-                          <a className="nav-link">Managed Services</a>
+                          <a className="nav-link">{t("Managed Services")}</a>
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link href="/services/grc-services" activeClassName="active">
-                          <a className="nav-link">GRC Services</a>
+                          <a className="nav-link">{t("GRC Services")}</a>
                         </Link>
                       </li>
                       <li className="nav-item">
                         {/* <Link href="/services" activeClassName="active"> */}
                         <Link href="#" activeClassName="active">
                           <a className="nav-link">
-                            Special Integrated Solutions
+                          {t("Special Integrated Solutions")}
                             </a>
                         </Link>
                         <ul style={{"list-style-type": "square", marginLeft:"30px"}}>
                           <li className="nav-item">
                             <Link href="/services/converged-networks" activeClassName="active">
-                              <a className="nav-link">Converged Networks</a>
+                              <a className="nav-link">{t("Converged Networks")}</a>
                             </Link>
                           </li>
 
@@ -269,7 +271,7 @@ const Navbar = () => {
                           </li> */}
                           <li className="nav-item">
                             <Link href="/services/physical-security" activeClassName="active">
-                              <a className="nav-link">Physical Security</a>
+                              <a className="nav-link">{t("Physical Security")}</a>
                             </Link>
                           </li>
                          {/*  <li className="nav-item">
@@ -288,33 +290,33 @@ const Navbar = () => {
 
                       <li className="nav-item">
                         <Link href="/services/data-centers" activeClassName="active">
-                          <a className="nav-link">Data Centers</a>
+                          <a className="nav-link">{t("Data Centers")}</a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
                         <Link href="/services/cloud-services" activeClassName="active">
-                          <a className="nav-link">Cloud Services</a>
+                          <a className="nav-link">{t("Cloud Services")}</a>
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link href="/services/cyber-security" activeClassName="active">
-                          <a className="nav-link">Cyber Security</a>
+                          <a className="nav-link">{t("Cyber Security")}</a>
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link href="/services/digital-signature" activeClassName="active">
-                          <a className="nav-link">Digital Signature</a>
+                          <a className="nav-link">{t("Digital Signature")}</a>
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link href="/services/customer-experience-solutions" activeClassName="active">
-                          <a className="nav-link">Customer Experience</a>
+                          <a className="nav-link">{t("Customer Experience")}</a>
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link href="/services/unified-collaborations" activeClassName="active">
-                          <a className="nav-link">Collaboration</a>
+                          <a className="nav-link">{t("Collaboration")}</a>
                         </Link>
                       </li>
                       
@@ -345,12 +347,12 @@ const Navbar = () => {
                   </li> */}
                   <li className="nav-item">
                     <Link href="/partner" activeClassName="active">
-                      <a className="nav-link">Partners</a>
+                      <a className="nav-link">{t("Partners")}</a>
                     </Link>
                   </li>
                   <li className="nav-item">
                     <Link href="/team" activeClassName="active">
-                      <a className="nav-link">Clients</a>
+                      <a className="nav-link">{t("Clients")}</a>
                     </Link>
                   </li>
                   <li className="nav-item">
@@ -477,15 +479,15 @@ const Navbar = () => {
                   <li className="nav-item hidedesktop">
                   <Link href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638245892587893727.NjM2Y2FhOGYtNTcxMi00ZmIyLWJmNmUtNzA5ODY5ZTAzYzhjMTJmODAyMTgtMmRhMy00NThiLTg2Y2YtNGE3NWUxNDI4ODMw&ui_locales=en-US&mkt=en-US&client-request-id=3f7c0214-7b1f-44cb-8e12-ce042dfa6e31&state=Xet1Wf2Ozc2rfrOjKP0nvk_OhHyVU8UFAtkvczG9zFSQ-u3rSkGPAgu_PNie_9i4bYfTrCVFrypqwdHKQMtF9o8oi-F2cPWScmAW5MgpiA4CwjkoHVwQlNMxN76HmjeTgMY1WFrEZW73QBcVkFMjO0PP-Wg13CnoxP8eDdnHcVcJFSU-NXBcBEQcjzD4S3zHPiLHr7G53NdeWihGWI8XvWR1iCWwhKouHE2iLBk9hrIc7XVQFH">
                     <a className="nav-link" target="_blank">
-                    Employee Login
+                    {t("Employee Login")}
                       <span></span>
                     </a>
                   </Link>
                   </li>
                   <li className="nav-item hidedesktop">
                   <Link href="/contact">
-                    <a className="nav-link">
-                    Contact Us
+                    <a class="nav-link">
+                    {t("Contact Us")}
                       <span></span>
                     </a>
                   </Link>
@@ -495,13 +497,13 @@ const Navbar = () => {
                 <div className="others-options isMobile">
                 <Link href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638245892587893727.NjM2Y2FhOGYtNTcxMi00ZmIyLWJmNmUtNzA5ODY5ZTAzYzhjMTJmODAyMTgtMmRhMy00NThiLTg2Y2YtNGE3NWUxNDI4ODMw&ui_locales=en-US&mkt=en-US&client-request-id=3f7c0214-7b1f-44cb-8e12-ce042dfa6e31&state=Xet1Wf2Ozc2rfrOjKP0nvk_OhHyVU8UFAtkvczG9zFSQ-u3rSkGPAgu_PNie_9i4bYfTrCVFrypqwdHKQMtF9o8oi-F2cPWScmAW5MgpiA4CwjkoHVwQlNMxN76HmjeTgMY1WFrEZW73QBcVkFMjO0PP-Wg13CnoxP8eDdnHcVcJFSU-NXBcBEQcjzD4S3zHPiLHr7G53NdeWihGWI8XvWR1iCWwhKouHE2iLBk9hrIc7XVQFH">
                     <a className="default-btn" target="_blank">
-                    Employee Login
+                    {t("Employee Login")}
                       <span></span>
                     </a>
                   </Link>
                   <Link href="/contact">
                     <a className="default-btn">
-                    Contact Us
+                    {t("Contact Us")}
                       <span></span>
                     </a>
                   </Link>

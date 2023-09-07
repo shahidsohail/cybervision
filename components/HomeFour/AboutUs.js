@@ -1,7 +1,9 @@
 import React from "react";
 import Link from "next/link";
+import { useTranslation } from 'react-i18next';
 
 const AboutUs = () => {
+  const {t} = useTranslation();
   return (
     <>
       <div className="about-section pb-100">
@@ -15,8 +17,8 @@ const AboutUs = () => {
 
             <div className="col-lg-6">
               <div className="about-content">
-                <span>About Us</span>
-                <h2>Focused On Actionable Insights</h2>
+                <span>{t("About Us")}</span>
+                <h2>{t("Focused On Actionable Insights")}</h2>
                 <p>
                 Cyber ​​Vision Company is based on providing comprehensive cyber 
                 security management services, as it employs the best talents 

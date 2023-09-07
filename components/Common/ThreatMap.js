@@ -1,15 +1,19 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper";
+import { useTranslation } from 'react-i18next';
 
 const ThreatMap = () => {
+  const {t} = useTranslation();
   return (
     <>
       <div className="testimonial-section ptb-100">
         <div className="container">
           <div className="section-title">
-             <span>Discover Radware's Live Threat Map for real-time updates on cyberattacks, including Norse & DDoS attacks. Stay informed with our global cyber map.</span>
-            <h2>Live Cyber Attack Threat Map | Radware</h2>
+             <span>
+             {t("Discover Radware's Live Threat Map for real-time updates on cyberattacks, including Norse & DDoS attacks. Stay informed with our global cyber map.")}
+             </span>
+            <h2>{t("Live Cyber Attack Threat Map | Radware")}</h2>
           </div>
 
           

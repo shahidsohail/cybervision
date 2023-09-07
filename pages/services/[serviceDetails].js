@@ -5,8 +5,10 @@ import PageBanner from "../../components/Common/PageBanner";
 import ServiceDetailsContent from "../../components/Services/ServiceDetailsContent";
 import Footer from "../../components/Layouts/Footer";
 import serviceData from "../../utils/service-details" 
+import { useTranslation } from 'react-i18next';
 
 const ServiceDetails = () => {
+  const {t}= useTranslation();
   const router = useRouter();
   const link = router.query.serviceDetails;
  const service = serviceData.find((key)=>{

@@ -1,8 +1,10 @@
 import React from "react";
 import HTMLString from 'react-html-string';
-
+import { useTranslation } from 'react-i18next';
 
 const ServiceDetailsContent = ({service}) => {
+  const {t}= useTranslation();
+
   return (
     <>
     
@@ -11,7 +13,7 @@ const ServiceDetailsContent = ({service}) => {
           <div className="services-details-overview">
           {service?.categoty?.map((key,index)=>{
             return (<>
-              <h2>{key.heading}</h2>
+              <h2>{t(key.heading)}</h2>
               <div className="row">
                 <div className="col-lg-6 col-md-12">
                   <div className="services-details-desc">

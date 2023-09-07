@@ -1,14 +1,16 @@
 import React from "react";
 import Link from "next/link";
+import { useTranslation } from 'react-i18next';
 
 const OurServices = () => {
+  const {t}= useTranslation();
   return (
     <>
       <div className="services-section pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <span>Our Services</span>
-            <h2>Expolre Our Services</h2>
+            <span>{t("Our Services")}</span>
+            <h2>{t("Expolre Our Services")}</h2>
           </div>
 
           <div className="row">
@@ -19,13 +21,14 @@ const OurServices = () => {
                   {/* <i className="flaticon-big-data"></i> */}
                 </div>
 
-                <h3>Cyber ​​security services</h3>
-                <p>The Infrastructure Design and Review provide an analysis of...
+                <h3>{t("Cyber ​​security services")}</h3>
+                <p>
+                {t("The Infrastructure Design and Review provide an analysis of…")}
                 </p>
 
                 <Link href="/services/cyber-security">
                   <a className="service-btn">
-                    Read More
+                     {t("Read More")}
                     <i className="flaticon-right"></i>
                   </a>
                 </Link>
@@ -39,13 +42,13 @@ const OurServices = () => {
                   {/* <i className="flaticon-data-analytics"></i> */}
                 </div>
 
-                <h3>Our services</h3>
-                <p>Our services include consulting and cybersecurity services, but are not limited to....
+                <h3>{t("Our Services")}</h3>
+                <p>{t("Our services include consulting and cybersecurity services, but are not limited to....")}
                 </p>
 
                 <Link href="/services/ourServices">
                   <a className="service-btn">
-                    Read More
+                  {t("Read More")}
                     <i className="flaticon-right"></i>
                   </a>
                 </Link>
@@ -57,14 +60,14 @@ const OurServices = () => {
                 <div className="icon">
                   <i className="flaticon-document"></i>
                 </div>
-                <h3>Success Stories</h3>
+                <h3>{t("Success Stories")}</h3>
                 <p>
-                SANG_MDA_MoJ SANG Infrastructure To support the DWDM Network stability ..
+                {t("SANG_MDA_MoJ SANG Infrastructure To support the DWDM Network stability ..")}
                 </p>
 
                 <Link href="/services/ourSuccess">
                   <a className="service-btn">
-                    Read More
+                  {t("Read More")}
                     <i className="flaticon-right"></i>...
                   </a>
                 </Link>

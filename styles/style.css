@@ -147,6 +147,7 @@ p:last-child {
   z-index: -1;
   border-radius: 5px;
 }
+
 .default-btn:hover, .default-btn:focus {
   color: #ffffff;
 }

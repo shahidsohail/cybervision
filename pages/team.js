@@ -5,16 +5,18 @@ import TeamMemberContent from "../components/Team/TeamMemberContent";
 import Testimonial from "../components/Common/Testimonial";
 import SubscribeStyleThree from "../components/Common/SubscribeStyleThree";
 import Footer from "../components/Layouts/Footer";
+import { useTranslation } from 'react-i18next';
 
 const Team = () => {
+  const {t}= useTranslation();
   return (
     <>
       <Navbar />
 
       <PageBanner
-        pageTitle="Clients"
-        breadcrumbTextOne="Home"
-        breadcrumbTextTwo="Our Clients"
+        pageTitle={t("Clients")}
+        breadcrumbTextOne={t("Home")}
+        breadcrumbTextTwo={t("Our Clients")}
         breadcrumbUrl="/"
         bgImage="/images/page-title-bg-5.jpg"
       />

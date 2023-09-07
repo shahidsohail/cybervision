@@ -1,15 +1,17 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper";
+import { useTranslation } from 'react-i18next';
 
 const Testimonial = () => {
+  const {t}= useTranslation();
   return (
     <>
       <div className="testimonial-section ptb-100">
         <div className="container">
           <div className="section-title">
-            <span>Testimonials</span>
-            <h2>Our Clients</h2>
+            <span>{t("Testimonials")}</span>
+            <h2>{t("Our Clients")}Our Clients</h2>
           </div>
 
           <Swiper
@@ -26,8 +28,8 @@ const Testimonial = () => {
                 </div>
 
                 <div className="testimonial-info">
-                  <h3>King Abdullah</h3>
-                  <span>Foundation for Humanitarian Activities</span>
+                  <h3>{t("King Abdullah")}</h3>
+                  <span>{t("King Abdullah Foundation For Humintarian activities")}</span>
                 </div>
 
                 <div className="testimonial-content">
@@ -35,7 +37,7 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                    <a href="https://kahf.org.sa" target="_blank">King Abdullah Foundation for Humanitarian Activities</a>
+                    <a href="https://kahf.org.sa" target="_blank">{t("King Abdullah Foundation For Humintarian activities")}</a>
                   </p>
                 </div>
               </div>
@@ -48,8 +50,8 @@ const Testimonial = () => {
                 </div>
 
                 <div className="testimonial-info">
-                  <h3>Muthalathat</h3>
-                  <span>Muthalathat</span>
+                  <h3>{t("Muthalathat")}</h3>
+                  <span>{t("Muthalathat")}</span>
                 </div>
 
                 <div className="testimonial-content">
@@ -57,7 +59,7 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                    <a href="https://muthalathat.com.sa/">Muthalathat</a>
+                    <a href="https://muthalathat.com.sa/">{t("Muthalathat")}</a>
                   </p>
                 </div>
               </div>
@@ -71,7 +73,7 @@ const Testimonial = () => {
 
                 <div className="testimonial-info">
                   <h3>MC</h3>
-                  <span>MAZRUA & COMPANY</span>
+                  <span>{t("Mazrua Company")}</span>
                 </div>
 
                 <div className="testimonial-content">
@@ -79,7 +81,7 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                    <a href="#">MAZRUA & COMPANY</a>
+                    <a href="#">{t("Mazrua Company")}</a>
                   </p>
                 </div>
               </div>

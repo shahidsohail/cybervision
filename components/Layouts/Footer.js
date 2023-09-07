@@ -1,7 +1,9 @@
 import React from "react";
 import Link from "next/link";
+import { useTranslation } from 'react-i18next';
 
 const Footer = () => {
+  const {t}= useTranslation();
   const currentYear = new Date().getFullYear();
   return (
     <>
@@ -12,14 +14,11 @@ const Footer = () => {
             <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="single-footer-widget">
                 <div className="footer-heading">
-                  <h3>About Us</h3>
+                  <h3>{t("About Us")}</h3>
                 </div>
                 <p>
-                Cyber ​​Vision is based on providing comprehensive 
-                cyber security management services, as it employs the best 
-                talents in the field of technology to provide innovative cyber 
-                security services by benefiting from leading expertise in the 
-                field of comprehensive information security management.
+                {t("Cyber ​​Vision is based on providing comprehensive cyber security management services, as it employs the best talents in the field of technology to provide innovative cyber security services by benefiting from leading expertise in the field of comprehensive information security management.")}
+                
                 </p>
 
                 <ul className="footer-social">
@@ -58,33 +57,33 @@ const Footer = () => {
             <div className="col-lg-2 col-md-6 col-sm-6">
               <div className="single-footer-widget">
                 <div className="footer-heading">
-                  <h3>Important Links</h3>
+                  <h3>{t("Important Links")}</h3>
                 </div>
 
                 <ul className="footer-quick-links">
                   <li>
                     <Link href="/about-us">
-                      <a>About Us</a>
+                      <a>{t("About Us")}</a>
                     </Link>
                   </li> 
                   <li>
                     <Link href="/services">
-                      <a>Services</a>
+                      <a>{t("Services")}</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/contact">
-                      <a>Contact</a>
+                      <a>{t("Contact")}</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="https://livethreatmap.radware.com/" >
-                      <a target="_blank">Live Cyber Attack Threat</a>
+                      <a target="_blank">{t("Live Cyber Attack Threat")}</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="https://cybermap.kaspersky.com/" >
-                      <a target="_blank">Kaspersky Cyber Threat Map</a>
+                      <a target="_blank">{t("Kaspersky Cyber Threat Map")}</a>
                     </Link>
                   </li>
                 </ul>
@@ -94,13 +93,13 @@ const Footer = () => {
             <div className="col-lg-2 col-md-6 col-sm-6">
               <div className="single-footer-widget">
                 <div className="footer-heading">
-                  <h3>Featured Service</h3>
+                  <h3>{t("Featured Service")}</h3>
                 </div>
 
                 <ul className="footer-quick-links">
                   <li>
                     <Link href="/">
-                      <a>Home</a>
+                      <a>{t("Home")}</a>
                     </Link>
                   </li>
                   {/* <li>
@@ -110,7 +109,7 @@ const Footer = () => {
                   </li> */}
                   <li>
                     <Link href="/services">
-                      <a>Services</a>
+                      <a>{t("Services")}</a>
                     </Link>
                   </li>
                   {/* <li>
@@ -120,7 +119,7 @@ const Footer = () => {
                   </li> */}
                   <li>
                     <Link href="/contact">
-                      <a>Contact</a>
+                      <a>{t("Contact")}</a>
                     </Link>
                   </li>
                 </ul>
@@ -130,27 +129,27 @@ const Footer = () => {
             <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="single-footer-widget">
                 <div className="footer-heading">
-                  <h3>Contact Info</h3>
+                  <h3>{t("Contact")}</h3>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
-                  <h3>Phone</h3>
+                  <h3>{t("Phone")}</h3>
                   <p><img src="/images/whatsapp.png"/><span><a href="https://api.whatsapp.com/send?phone=966557009900" target="_blank">+966557009900</a></span>
                   </p>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
-                  <h3>Email</h3>
+                  <h3>{t("Email")}</h3>
                   <span><a href="mailto:info@cybervision.com.sa">
                     info@cybervision.com.sa</a></span>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-maps-and-flags"></i>
-                  <h3>Address</h3>
-                  <span>3151 Malqa, Anas Bin Malik street, Riyadh, Saudi Arabia</span>
+                  <h3>{t("Address")}</h3>
+                  <span>{t("3151 Malqa, Anas Bin Malik street, Riyadh, Saudi Arabia")}</span>
                 </div>
               </div>
             </div>
@@ -175,7 +174,8 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-6">
               <p>
-                &copy; {currentYear} All rights reserved to Cyber Vision
+              
+                &copy; {currentYear} {t("All rights reserved to Cyber Vision")}
                 {/* All Rights Reserved by
                 <a href="https://envytheme.com/" target="_blank">
                   EnvyTheme

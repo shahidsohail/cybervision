@@ -6,16 +6,18 @@ import Customers from "../components/Common/Customers";
 import SubscribeStyleThree from "../components/Common/SubscribeStyleThree";
 import Testimonial from "../components/Common/Testimonial";
 import Footer from "../components/Layouts/Footer";
+import { useTranslation } from 'react-i18next';
 
 const Partner = () => {
+  const {t}= useTranslation();
   return (
     <>
       <Navbar />
 
       <PageBanner
-        pageTitle="Partners"
-        breadcrumbTextOne="Home"
-        breadcrumbTextTwo="Partners"
+        pageTitle={t("Partners")}
+        breadcrumbTextOne={t("Home")}
+        breadcrumbTextTwo={t("Partners")}
         breadcrumbUrl="/"
         bgImage="/images/page-title-bg-3.jpg"
       />

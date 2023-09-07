@@ -1,6 +1,8 @@
 import React from "react";
+import { useTranslation } from 'react-i18next';
 
 const ContactInfo = () => {
+  const {t}= useTranslation();
   return (
     <>
       <div className="contact-box pt-100 pb-70">
@@ -10,9 +12,10 @@ const ContactInfo = () => {
               <div className="single-contact-box">
                 <i className="fa fa-map-marker"></i>
                 <div className="content-title">
-                  <h3>Address</h3>
+                  <h3>{t("Address")}</h3>
                   <p>
-                  3151 Malqa, Anas Bin Malik street, Riyadh, Saudi Arabia
+                  
+                  {t("3151 Malqa, Anas Bin Malik street, Riyadh, Saudi Arabia")}
                   </p>
                  
                    {/* Your iframe code goes here */}
@@ -32,7 +35,7 @@ const ContactInfo = () => {
               <div className="single-contact-box">
                 <i className="fa fa-envelope"></i>
                 <div className="content-title">
-                  <h3>Email</h3>
+                  <h3>{t("Email")}</h3>
                   <p><a href="mailto:info@cybervision.com.sa">info@cybervision.com.sa</a></p>
                 </div>
               </div>
@@ -42,7 +45,7 @@ const ContactInfo = () => {
               <div className="single-contact-box">
                 <i className="fa fa-phone"></i>
                 <div className="content-title">
-                  <h3>Phone</h3>
+                  <h3>{t("Phone")}</h3>
                   <p><img src="/images/whatsapp.png"/><a href="https://api.whatsapp.com/send?phone=966557009900" target="_blank">+966557009900</a>
                   </p>
                 </div>

@@ -29,7 +29,7 @@ const MainBanner = () => {
                     <div className="banner-btn">
                       <Link href="/about-us">
                         <a className="default-btn-one">
-                          About Us <span></span>
+                        {t("About Us")} <span></span>
                         </a>
                       </Link>
 
@@ -38,7 +38,7 @@ const MainBanner = () => {
                         className="video-btn popup-youtube"
                       >
                         <i className="fa fa-play"></i>
-                        Watch Video
+                        {t("Watch Video")}
                       </div>
                     </div>
                   </div>

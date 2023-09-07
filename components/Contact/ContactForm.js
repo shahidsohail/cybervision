@@ -4,6 +4,7 @@ import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
 const MySwal = withReactContent(Swal);
 import baseUrl from "../../utils/baseUrl";
+import { useTranslation } from 'react-i18next';
 
 const alertContent = () => {
   MySwal.fire({
@@ -26,6 +27,7 @@ const INITIAL_STATE = {
 };
 
 const ContactForm = () => {
+  const {t}= useTranslation();
   const [contact, setContact] = useState(INITIAL_STATE);
 
   const handleChange = (e) => {
@@ -68,7 +70,7 @@ const ContactForm = () => {
                       <input
                         type="text"
                         name="name"
-                        placeholder="Name"
+                        placeholder={t("Name")}
                         className="form-control"
                         value={contact.name}
                         onChange={handleChange}
@@ -81,7 +83,7 @@ const ContactForm = () => {
                       <input
                         type="text"
                         name="email"
-                        placeholder="Email"
+                        placeholder={t("Email")}
                         className="form-control"
                         value={contact.email}
                         onChange={handleChange}
@@ -94,7 +96,7 @@ const ContactForm = () => {
                       <input
                         type="text"
                         name="number"
-                        placeholder="Phone number"
+                        placeholder={t("Phone Number")}
                         className="form-control"
                         value={contact.number}
                         onChange={handleChange}
@@ -107,7 +109,7 @@ const ContactForm = () => {
                       <input
                         type="text"
                         name="subject"
-                        placeholder="Subject"
+                        placeholder={t("Subject")}
                         className="form-control"
                         value={contact.subject}
                         onChange={handleChange}
@@ -121,7 +123,7 @@ const ContactForm = () => {
                         name="text"
                         cols="30"
                         rows="6"
-                        placeholder="Write your message..."
+                        placeholder={t("Write your message...")}
                         className="form-control"
                         value={contact.text}
                         onChange={handleChange}
@@ -131,7 +133,7 @@ const ContactForm = () => {
                   </div>
                   <div className="col-lg-12 col-sm-12">
                     <button type="submit" className="default-btn submit-btn mt-2">
-                      Send Message!
+                    {t("Send Message!")}
                     </button>
                   </div>
                 </div>

@@ -1,6 +1,9 @@
 import React from "react";
+import { useTranslation } from 'react-i18next';
+
 
 const FunFacts = () => {
+  const {t} = useTranslation();
   return (
     <>
       <div className="fun-facts-area ptb-100">
@@ -18,7 +21,7 @@ const FunFacts = () => {
                   30
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Satisfied Customer</p>
+                <p>{t("Satisfied Customer")}</p>
               </div>
             </div>
 
@@ -34,7 +37,7 @@ const FunFacts = () => {
                   20
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Partners</p>
+                <p>{t("Partners")}</p>
               </div>
             </div>
 
@@ -50,7 +53,7 @@ const FunFacts = () => {
                   20
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Services</p>
+                <p>{t("Services")}</p>
               </div>
             </div>
 
@@ -66,7 +69,7 @@ const FunFacts = () => {
                   3
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Branches</p>
+                <p>{t("Branches")}</p>
               </div>
             </div>
           </div>
