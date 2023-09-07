@@ -11,7 +11,7 @@ const Testimonial = () => {
         <div className="container">
           <div className="section-title">
             <span>{t("Testimonials")}</span>
-            <h2>{t("Our Clients")}Our Clients</h2>
+            <h2>{t("Our Clients")}</h2>
           </div>
 
           <Swiper

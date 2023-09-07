@@ -1,14 +1,16 @@
 import React from "react";
 import Link from "next/link";
+import { useTranslation } from 'react-i18next';
 
 const Customers = () => {
+  const {t}= useTranslation();
   return (
     <>
       <div className="partner-section pt-100 pb-70">
         <div className="container">
           <div className="partner-title">
-            <span>Partners</span>
-            <h2>Discover partner Successful Stories</h2>
+            <span>{t("Partners")}</span>
+            <h2>{t("Discover partner Successful Stories")}</h2>
           </div>
 
           <div className="partner-list">
