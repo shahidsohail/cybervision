@@ -792,6 +792,7 @@ Main Banner Area CSS
 }
 .main-banner-content .banner-btn .video-btn i {
   color: #ffffff;
+  margin: 5px;
   margin-right: 8px;
   position: relative;
   top: 2px;
@@ -1294,6 +1295,7 @@ About Section CSS
   color: #00b0ee;
   font-weight: 700;
   margin-right: 10px;
+  margin: 5px;
 }
 .about-content .about-list i::before {
   line-height: normal;
@@ -1511,8 +1513,8 @@ Tabs Solutions Section CSS
 }
 .solutions-list-tab .react-tabs__tab-panel .tab-solution-content .tab-list i {
   color: #00b0ee;
-  margin-right: 5px;
-  position: absolute;
+  margin: 5px;
+  /* position: absolute; */
   left: 0;
   top: 0;
 }
@@ -4040,7 +4042,7 @@ Footer Section CSS
   margin-right: 10px;
 }
 .single-footer-widget .footer-social li:last-child {
-  margin-right: 0;
+  margin-right: 10;
 }
 .single-footer-widget .footer-social i {
   display: inline-block;
@@ -4109,7 +4111,7 @@ Footer Section CSS
 }
 .single-footer-widget .footer-info-contact i {
   color: #ffffff;
-  position: absolute;
+  /* position: absolute; */
   left: 0;
   top: -4px;
 }

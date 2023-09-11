@@ -31,6 +31,9 @@ const Navbar = () => {
   const handleLanguageChange = (event) => {
     const newLanguage = event.target.value;
     i18n.changeLanguage(newLanguage);
+     // Set the direction based on the selected language
+  document.documentElement.dir = newLanguage === 'ar' ? 'rtl' : 'ltr';
+
   };
 
   const selectStyle = {
@@ -43,7 +46,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div id="navbar" className="navbar-area">
+          <div id="navbar" className="navbar-area">
         <div className="main-nav">
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
@@ -510,8 +513,8 @@ const Navbar = () => {
                 </div>
               </div>
             </nav>
-          </div>
-        </div>
+                  </div>
+      </div>
       </div>
     </>
   );

@@ -30,11 +30,11 @@ const {t} = useTranslation();
                   </li>
                   <li>
                     <i className="flaticon-tick"></i>
-                    {t("24/7 Support Center")}24/7 Support Center
+                    {t("24/7 Support Center")}
                   </li>
                   <li>
                     <i className="flaticon-tick"></i>
-                    {t("Custom Service & Operation")}Custom Service & Operation
+                    {t("Custom Service & Operation")}
                   </li>
                   <li>
                     <i className="flaticon-tick"></i>
