@@ -495,69 +495,24 @@ Unified Telephony Features: Enjoy consistent telephony features across voice and
             {
                 heading:"Why Managed Services?",
                 image:"managedServices/ManagedService1.png",
-                description:`
-                <p>
-                Managed services in cybersecurity involve outsourcing the management and monitoring of an organization's security to a specialized provider. It includes continuous monitoring, threat detection, incident response, patch management, and more. Benefits include access to expertise, 24/7 monitoring, cost-effectiveness, scalability, and focus on core activities.
-                <br />
-                <br />
-                CyberTechSheild (CTS) provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. 
-                Our expert teams along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur.
-                </p>
-               
-                
-                `,
+                description:`<p>Managed services in cybersecurity involve outsourcing the management and monitoring of an organization's security to a specialized provider. It includes continuous monitoring, threat detection, incident response, patch management, and more. Benefits include access to expertise, 24/7 monitoring, cost-effectiveness, scalability, and focus on core activities.<br /><br />CyberTechSheild (CTS) provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. Our expert teams along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur.</p>`,
             },
             
             {
                 heading:"Monitoring",
                 image:"managedServices/Monitoring.jpg",
-                description:`
-                <p>
-                Our seasoned technical experts offer continuous monitoring for your complete IT infrastructure and applications. This is complemented by robust remote and on-site support for issue resolution, ensuring a seamless experience around the clock.
-                </p>
-                <br />
-                <ul>
-                    <li>24×7 Remote Monitoring of your Infrastructure</li>
-                    <li>Monitor System Health like CPU, Memory Utilization</li>
-                    <li>Monitor Interface status and Traffic Utilization</li>
-                    <li>Monitor Services and Application</li>
-                    <li>Field support in case of hardware failure</li>
-                </ul>
-                    `
+                description:`ManagedPageMonitoring`
             },
 
                 {
                     heading:"Management",
                     image:"managedServices/Management.jpg",
-                    description:`
-                    <p>
-                    Outsourcing day-to-day IT tasks, such as configuration ownership and change management, lets your team prioritize high-value activities.
-                    </p>
-
-                    <br />
-                <ul>
-                <li>Change management and taking ownership of the configuration</li>
-                <li>Configuration of Network, Security, Computing, Storage and Applications</li>
-                <li>Configuration of NextGen Security features including Application Firewall, TLS/SSL inspection, IPS and Identity Management</li>
-                </ul>
-                    `
+                    description:`ManagedPageManagement`
                 },
                 {
                     heading:"Optimize",
                     image:"managedServices/Optimize.jpg",
-                    description:`
-                    <p>
-                    Full IT asset management with regular expert reviews and proactive issue resolution in close coordination with product vendors.
-                    </p>
-
-                    <ul>
-                        <li>Quarterly system reviews: Configuration, policies, and utilization of all systems are reviewed regularly.</li>
-                        <li>Daily security advisory monitoring: Proactive detection of software, hardware, or security issues from vendors.</li>
-                        <li>Firmware upgrades and patching: Based on performance, feature requirements, and security advisories.</li>
-                        <li>Long-term performance analysis: Consistent monitoring of performance parameters and traffic utilization with quarterly reporting.</li>
-
-                    </ul>
-                    `
+                    description:`ManagedPageOptimize`
                 },
 
         ]
@@ -571,26 +526,12 @@ Unified Telephony Features: Enjoy consistent telephony features across voice and
             {
                 heading:"Long Haul Fiber Optic Repeater-less Solution",
                 image:"convergedNetworks/Fiber-Optics.jpg",
-                description:`
-                <p>
-                Traditional fiber optic communication systems use repeaters at regular intervals to compensate for signal attenuation and maintain signal strength over long distances. However, deploying and maintaining these repeater stations can be costly and time-consuming.
-<br />
-                A repeater-less solution is designed to overcome these challenges and achieve longer transmission distances without the need for intermediate amplification
-                </p>
-                `,
+                 description:`ConvergedPageLongHaulFiber`,
             }, 
                 {
                     heading:"MPLS-TP Solution",
                     image:"convergedNetworks/2.png",
-                    description:`
-                    <p>
-                    Are you ready to elevate your network to new heights of performance, reliability, and scalability? Look no further! At Cyber Vision, we are the leading provider of cutting-edge MPLS-TP solutions, designed to address the unique demands of carrier-grade networks.
-                    </p>
-                    <br />
-                    <p>
-                    Transport networks have traditionally been built using Time Division Multiplexed (TDM) SONET/SDH devices. These are becoming ineffective and costly in today's packet-oriented world, which is driving service providers and utility companies to deploy more packet-based equipment in their transport networks.
-                    </p> 
-                    `
+                    description:`ConvergedPageMPLS`
                 },
                 {
                     heading:"RFTS Solution",
@@ -1099,20 +1040,7 @@ Parking Guidance: for traffic flow , empty-busy places
             {
                 heading:"Governance, Risk management & Compliance",
                 image:"ourservices/blank.png",
-                description:`
-                <p>
-                    Governance risk compliance (GRC) is a method for managing and strategizing an organization's regulations regarding governance, financial or physical risk, and regulatory compliance. It aligns the IT aspects with business objectives and works to improve the efficiency of a company. There are GRC consultants and GRC analysts who provide an assessment of a business’s GRC, identify risks, analyze the data, develop policies to benefit the workplace, and consult on the best choice of action. Your duties may involve optimizing GRC systems, implementing tactics to lower risk, providing internal audits, assisting with cybersecurity, creating routine reports, and ensuring regulatory compliance. 
-                </p>
-
-
-
-
-                
-
-
-
-
-                `,
+                description:`Governance risk compliance (GRC) is a method for managing and strategizing an organization's regulations regarding governance, financial or physical risk, and regulatory compliance. It aligns the IT aspects with business objectives and works to improve the efficiency of a company. There are GRC consultants and GRC analysts who provide an assessment of a business’s GRC, identify risks, analyze the data, develop policies to benefit the workplace, and consult on the best choice of action. Your duties may involve optimizing GRC systems, implementing tactics to lower risk, providing internal audits, assisting with cybersecurity, creating routine reports, and ensuring regulatory compliance.`,
             }
                
         ]

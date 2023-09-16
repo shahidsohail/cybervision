@@ -122,7 +122,118 @@
 	"Web Security Solution" : "Web Security Solution" ,
 	"The solution offers capabilities for filtering content, analyzing malware, implementing precise controls, generating comprehensive reports, as well as providing proxy and caching services." : "The solution offers capabilities for filtering content, analyzing malware, implementing precise controls, generating comprehensive reports, as well as providing proxy and caching services." ,
 	"Why Managed Services?" : "Why Managed Services?" ,
-	"Customer Experience" : "Customer Experience" 
+	"Customer Experience" : "Customer Experience" ,
+
+
+    "Managed services in cybersecurity involve outsourcing the management and monitoring of an organization's security to a specialized provider. It includes continuous monitoring, threat detection, incident response, patch management, and more. Benefits include access to expertise, 24/7 monitoring, cost-effectiveness, scalability, and focus on core activities." : "Managed services in cybersecurity involve outsourcing the management and monitoring of an organization's security to a specialized provider. It includes continuous monitoring, threat detection, incident response, patch management, and more. Benefits include access to expertise, 24/7 monitoring, cost-effectiveness, scalability, and focus on core activities. " ,
+    "CyberTechSheild (CTS) provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. Our expert teams along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur." : "CyberTechSheild (CTS) provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. Our expert teams along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur." ,
+
+    "<p>Managed services in cybersecurity involve outsourcing the management and monitoring of an organization's security to a specialized provider. It includes continuous monitoring, threat detection, incident response, patch management, and more. Benefits include access to expertise, 24/7 monitoring, cost-effectiveness, scalability, and focus on core activities.<br /><br />CyberTechSheild (CTS) provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. Our expert teams along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur.</p>"
+    :"<p>Managed services in cybersecurity involve outsourcing the management and monitoring of an organization's security to a specialized provider. It includes continuous monitoring, threat detection, incident response, patch management, and more. Benefits include access to expertise, 24/7 monitoring, cost-effectiveness, scalability, and focus on core activities.<br /><br />CyberTechSheild (CTS) provides complete monitoring, management and optimization services for everything on your IT infrastructure that could result business disruption. Our expert teams along with tools proactively monitor your services and equipment with close coordination with product vendors to resolve issues before they even occur.</p>",
+
+
+
+    "Monitoring" : "Monitoring" ,
+    "Our seasoned technical experts offer continuous monitoring for your complete IT infrastructure and applications. This is complemented by robust remote and on-site support for issue resolution, ensuring a seamless experience around the clock." : "Our seasoned technical experts offer continuous monitoring for your complete IT infrastructure and applications. This is complemented by robust remote and on-site support for issue resolution, ensuring a seamless experience around the clock." ,
+    "24×7 Remote Monitoring of your Infrastructure" : "24×7 Remote Monitoring of your Infrastructure" ,
+    "Monitor System Health like CPU, Memory Utilization" : "Monitor System Health like CPU, Memory Utilization" ,
+    "Monitor Interface status and Traffic Utilization" : "Monitor Interface status and Traffic Utilization" ,
+    "Monitor Services and Application" : "Monitor Services and Application" ,
+    "Field support in case of hardware failure" : "Field support in case of hardware failure" ,
+	
+	
+	"ManagedPageMonitoring":
+	"<p>Our seasoned technical experts offer continuous monitoring for your complete IT infrastructure and applications. This is complemented by robust remote and on-site support for issue resolution, ensuring a seamless experience around the clock.</p><br /><ul><li>24×7 Remote Monitoring of your Infrastructure</li><li>Monitor System Health like CPU, Memory Utilization</li><li>Monitor Interface status and Traffic Utilization</li><li>Monitor Services and Application</li><li>Field support in case of hardware failure</li></ul>",
+	
+	
+	
+    "Management" : "Management" ,
+    
+    "ManagedPageManagement" 
+    : "<p>Outsourcing day-to-day IT tasks, such as configuration ownership and change management, lets your team prioritize high-value activities.</p><br /><ul><li>Change management and taking ownership of the configuration</li><li>Configuration of Network, Security, Computing, Storage and Applications</li><li>Configuration of NextGen Security features including Application Firewall, TLS/SSL inspection, IPS and Identity Management</li></ul>" ,
+    
+    "Change management and taking ownership of the configuration" 
+    : "Change management and taking ownership of the configuration" ,
+    "Configuration of Network, Security, Computing, Storage and Applications" 
+    : "Configuration of Network, Security, Computing, Storage and Applications" ,
+    "Configuration of NextGen Security features including Application Firewall, TLS/SSL inspection, IPS and Identity Management" 
+    : "Configuration of NextGen Security features including Application Firewall, TLS/SSL inspection, IPS and Identity Management" ,
+	
+	
+    "Optimize" : "Optimize" ,
+	
+    "ManagedPageOptimize" :
+	"<p>Full IT asset management with regular expert reviews and proactive issue resolution in close coordination with product vendors.</p><ul>    <li>Quarterly system reviews: Configuration, policies, and utilization of all systems are reviewed regularly.</li>    <li>Daily security advisory monitoring: Proactive detection of software, hardware, or security issues from vendors.</li>    <li>Firmware upgrades and patching: Based on performance, feature requirements, and security advisories.</li>    <li>Long-term performance analysis: Consistent monitoring of performance parameters and traffic utilization with quarterly reporting.</li></ul>"	,
+    
+	"Full IT asset management with regular expert reviews and proactive issue resolution in close coordination with product vendors." : "Full IT asset management with regular expert reviews and proactive issue resolution in close coordination with product vendors." ,
+    "Quarterly system reviews: Configuration, policies, and utilization of all systems are reviewed regularly." : "Quarterly system reviews: Configuration, policies, and utilization of all systems are reviewed regularly." ,
+    "Daily security advisory monitoring: Proactive detection of software, hardware, or security issues from vendors." : "Daily security advisory monitoring: Proactive detection of software, hardware, or security issues from vendors." ,
+    "Firmware upgrades and patching: Based on performance, feature requirements, and security advisories." : "Firmware upgrades and patching: Based on performance, feature requirements, and security advisories." ,
+    "Long-term performance analysis: Consistent monitoring of performance parameters and traffic utilization with quarterly reporting." : "Long-term performance analysis: Consistent monitoring of performance parameters and traffic utilization with quarterly reporting." ,
+    
+    "Governance, Risk management & Compliance" : "Governance, Risk management & Compliance" ,
+    
+    "Governance risk compliance (GRC) is a method for managing and strategizing an organization's regulations regarding governance, financial or physical risk, and regulatory compliance. It aligns the IT aspects with business objectives and works to improve the efficiency of a company. There are GRC consultants and GRC analysts who provide an assessment of a business’s GRC, identify risks, analyze the data, develop policies to benefit the workplace, and consult on the best choice of action. Your duties may involve optimizing GRC systems, implementing tactics to lower risk, providing internal audits, assisting with cybersecurity, creating routine reports, and ensuring regulatory compliance." 
+    : "Governance risk compliance (GRC) is a method for managing and strategizing an organization's regulations regarding governance, financial or physical risk, and regulatory compliance. It aligns the IT aspects with business objectives and works to improve the efficiency of a company. There are GRC consultants and GRC analysts who provide an assessment of a business’s GRC, identify risks, analyze the data, develop policies to benefit the workplace, and consult on the best choice of action. Your duties may involve optimizing GRC systems, implementing tactics to lower risk, providing internal audits, assisting with cybersecurity, creating routine reports, and ensuring regulatory compliance." ,
+    "Governance" : "Governance" ,
+    "Corporate governance consists of the set of processes, policies, objectives and laws that determine how a corporation is controlled." 
+    : "Corporate governance consists of the set of processes, policies, objectives and laws that determine how a corporation is controlled." ,
+    "Risk" : "Risk" ,
+    "Risk pertains to an auditor not unearthing mistakes or deliberate miscalculations (i.e. fraud) in financial statements." : "Risk pertains to an auditor not unearthing mistakes or deliberate miscalculations (i.e. fraud) in financial statements." ,
+    "Compliance" : "Compliance" ,
+    "Compliance is adherence to a business’s regulatory procedures." : "Compliance is adherence to a business’s regulatory procedures." ,
+	
+	
+    "Long Haul Fiber Optic Repeater-less Solution" : "Long Haul Fiber Optic Repeater-less Solution" ,
+	
+	"ConvergedPageLongHaulFiber":
+    "<p>Traditional fiber optic communication systems use repeaters at regular intervals to compensate for signal attenuation and maintain signal strength over long distances. However, deploying and maintaining these repeater stations can be costly and time-consuming.<br />A repeater-less solution is designed to overcome these challenges and achieve longer transmission distances without the need for intermediate amplification</p>",
+    
+	"MPLS-TP Solution" : "MPLS-TP Solution" ,
+    
+	"ConvergedPageMPLS":
+    "<p>Are you ready to elevate your network to new heights of performance, reliability, and scalability? Look no further! At Cyber Vision, we are the leading provider of cutting-edge MPLS-TP solutions, designed to address the unique demands of carrier-grade networks.</p><br><p>Transport networks have traditionally been built using Time Division Multiplexed (TDM) SONET/SDH devices. These are becoming ineffective and costly in today's packet-oriented world, which is driving service providers and utility companies to deploy more packet-based equipment in their transport networks.</p>",
+	
+    "Transport networks have traditionally been built using Time Division Multiplexed (TDM) SONET/SDH devices. These are becoming ineffective and costly in today's packet-oriented world, which is driving service providers and utility companies to deploy more packet-based equipment in their transport networks." : "Transport networks have traditionally been built using Time Division Multiplexed (TDM) SONET/SDH devices. These are becoming ineffective and costly in today's packet-oriented world, which is driving service providers and utility companies to deploy more packet-based equipment in their transport networks." ,
+    
+	
+    "RFTS Solution" : "RFTS Solution" ,
+    "Cyber Vision has successfully implemented numerous RFTS projects, providing clients with 24/7 monitoring of their fiber optic infrastructure, and reducing MTTR for fiber optic cables. " : "Cyber Vision has successfully implemented numerous RFTS projects, providing clients with 24/7 monitoring of their fiber optic infrastructure, and reducing MTTR for fiber optic cables. " ,
+    "Remote Fiber Monitoring: Our advanced system enables centralized oversight of the entire fiber optic network, including dark fiber. Continuous evaluation of network performance ensures efficient MTTR." : "Remote Fiber Monitoring: Our advanced system enables centralized oversight of the entire fiber optic network, including dark fiber. Continuous evaluation of network performance ensures efficient MTTR." ,
+    "SDH Solution" : "SDH Solution" ,
+    "With years of experience deploying traditional SDH networks, Cyber Vision offers proven solutions to host critical applications on premises via a private network, utilizing the client's private fiber optic infrastructure. " : "With years of experience deploying traditional SDH networks, Cyber Vision offers proven solutions to host critical applications on premises via a private network, utilizing the client's private fiber optic infrastructure. " ,
+    "SDH Multiplexer delivers powerful optical networking solutions for critical communications applications. With a wide range of tributary interface units, the SDH has the ability to provide both transport and access capabilities for voice, data, IP/Ethernet WAN, video and utility tele-protection traffic in a single package. Harsh environment ready, and delivering flexible, secure, and reliable communications." : "SDH Multiplexer delivers powerful optical networking solutions for critical communications applications. With a wide range of tributary interface units, the SDH has the ability to provide both transport and access capabilities for voice, data, IP/Ethernet WAN, video and utility tele-protection traffic in a single package. Harsh environment ready, and delivering flexible, secure, and reliable communications." ,
+    "Integrated Security Platform" : "Integrated Security Platform" ,
+    "Cyber Vision boasts extensive expertise in deploying an integrated unified platform that seamlessly combines physical security, fire and safety, and building asset management solutions within command and control centers. Our experience ensures flawless integration and effortless scalability, delivering a comprehensive solution." : "Cyber Vision boasts extensive expertise in deploying an integrated unified platform that seamlessly combines physical security, fire and safety, and building asset management solutions within command and control centers. Our experience ensures flawless integration and effortless scalability, delivering a comprehensive solution." ,
+    "Security Control Center" : "Security Control Center" ,
+    "Cyber Vision offers an all-inclusive solution for security control centers, combining top-tier technologies and superior architectural design. Our package includes the Integrated Security Platform (PISM), VMS and analytics, server and storage solutions, video walls, technical consoles, network switches, racks, UPS, and more." : "Cyber Vision offers an all-inclusive solution for security control centers, combining top-tier technologies and superior architectural design. Our package includes the Integrated Security Platform (PISM), VMS and analytics, server and storage solutions, video walls, technical consoles, network switches, racks, UPS, and more." ,
+    "Access Control" : "Access Control" ,
+    "The technical experts at Cyber Vision possess extensive proficiency in delivering enterprise-level access control solutions, backed by impressive endorsements. Our team excels in seamlessly integrating diverse access modules, accommodating a broad spectrum of authentication levels. This cohesive approach caters to a vast access user database, spanning remote locations, all streamlined within a unified platform tailored to each client's specific requirements." : "The technical experts at Cyber Vision possess extensive proficiency in delivering enterprise-level access control solutions, backed by impressive endorsements. Our team excels in seamlessly integrating diverse access modules, accommodating a broad spectrum of authentication levels. This cohesive approach caters to a vast access user database, spanning remote locations, all streamlined within a unified platform tailored to each client's specific requirements." ,
+    "Physical Security" : "Physical Security" ,
+    "The Cyber Vision portfolio encompasses nearly every recognized physical security solution available in the market. Each solution boasts enterprise-level, cutting-edge technology that spearheads the industry. We stand at the forefront of this market, backed by an impressive array of references across various government sectors and industrial utilities. Our offerings range from advanced Walk-Through Gate Scanners and Luggage X-Ray Scanners to Handheld Metal Detectors. Additionally, we specialize in seamlessly integrated solutions like Under Vehicle Surveillance Systems (UVSS) coupled with License Plate Recognition (LPR), Sliding Gates, Road Blockers, Bollards, and Barriers." : "The Cyber Vision portfolio encompasses nearly every recognized physical security solution available in the market. Each solution boasts enterprise-level, cutting-edge technology that spearheads the industry. We stand at the forefront of this market, backed by an impressive array of references across various government sectors and industrial utilities. Our offerings range from advanced Walk-Through Gate Scanners and Luggage X-Ray Scanners to Handheld Metal Detectors. Additionally, we specialize in seamlessly integrated solutions like Under Vehicle Surveillance Systems (UVSS) coupled with License Plate Recognition (LPR), Sliding Gates, Road Blockers, Bollards, and Barriers." ,
+    "Intrusion Detection" : "Intrusion Detection" ,
+    "Within our integrated security solution, Cyber Vision offers an impressive range of intrusion detection capabilities, backed by strong security endorsements across various government sectors, as well as industrial and utilities domains. " : "Within our integrated security solution, Cyber Vision offers an impressive range of intrusion detection capabilities, backed by strong security endorsements across various government sectors, as well as industrial and utilities domains. " ,
+    "Fencing Intrusion systems: IR detection, PIR scanning, Fiber sensing, Laser scanning. In Building intrusion Systems: PIR detection, Glass Break" : "Fencing Intrusion systems: IR detection, PIR scanning, Fiber sensing, Laser scanning. In Building intrusion Systems: PIR detection, Glass Break" ,
+    "Integrated CCTV Solutions" : "Integrated CCTV Solutions" ,
+    "Cyber Vision boasts extensive expertise in delivering cutting-edge security solutions, specializing in state-of-the-art technology within the realm of CCTV systems. With HCIS certification, we bring a wealth of experience in safeguarding industrial environments, particularly in the context of large-scale projects within the industrial security domain." : "Cyber Vision boasts extensive expertise in delivering cutting-edge security solutions, specializing in state-of-the-art technology within the realm of CCTV systems. With HCIS certification, we bring a wealth of experience in safeguarding industrial environments, particularly in the context of large-scale projects within the industrial security domain." ,
+    "Unleash the Power of Software-Defined Data Center Solutions" : "Unleash the Power of Software-Defined Data Center Solutions" ,
+    "With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here." : "With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here." ,
+    "Software Defined Networking" : "Software Defined Networking" ,
+    "Experience network flexibility and streamlined management with Software-defined Networking (SDN). SDN centralizes control and data forwarding, simplifying network administration. Cyber Vision provides top-notch SDN solutions from leading vendors, tailored for mission-critical tasks and cloud capabilities. " : "Experience network flexibility and streamlined management with Software-defined Networking (SDN). SDN centralizes control and data forwarding, simplifying network administration. Cyber Vision provides top-notch SDN solutions from leading vendors, tailored for mission-critical tasks and cloud capabilities. " ,
+    "Advantages of having Software Defined Networking:" : "Advantages of having Software Defined Networking:" ,
+    "Centralized network provisioning." : "Centralized network provisioning." ,
+    "More granular security." : "More granular security." ,
+    "Lower operating costs." : "Lower operating costs." ,
+    "Hardware savings" : "Hardware savings" ,
+    "Reduced capital expenditures." : "Reduced capital expenditures." ,
+    "Cloud abstraction." : "Cloud abstraction." ,
+    "Guaranteed content delivery." : "Guaranteed content delivery." ,
+    "Hyperconverged Infrastructure" : "Hyperconverged Infrastructure" ,
+    "A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency." : "A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency." ,
+    "Key features and capabilities:" : "Key features and capabilities:" ,
+    "Rapid deployment" : "Rapid deployment" ,
+    "Scalable virtual environments" : "Scalable virtual environments" 
+    
 
 
 }

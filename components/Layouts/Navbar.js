@@ -204,7 +204,7 @@ const Navbar = () => {
                       </li>
                       <li className="nav-item">
                         <Link href="/services/cyber-security" activeClassName="active">
-                          <a className="nav-link">{t("Cyber Security")}Cyber Security</a>
+                          <a className="nav-link">{t("Cyber Security")}</a>
                         </Link>
                       </li>
                       {/* <li className="nav-item">
@@ -214,7 +214,7 @@ const Navbar = () => {
                       </li> */}
                       <li className="nav-item">
                         <Link href="/services/customer-experience-solutions" activeClassName="active">
-                          <a className="nav-link">{t("Customer Experience")}Customer Experience</a>
+                          <a className="nav-link">{t("Customer Experience")}</a>
                         </Link>
                       </li>
                       <li className="nav-item">

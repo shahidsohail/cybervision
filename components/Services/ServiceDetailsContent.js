@@ -17,7 +17,7 @@ const ServiceDetailsContent = ({service}) => {
               <div className="row">
                 <div className="col-lg-6 col-md-12">
                   <div className="services-details-desc">
-                  <HTMLString html={key.description} />
+                  <HTMLString html={t( key.description)} />
                   </div>
                 </div>
 
@@ -33,11 +33,11 @@ const ServiceDetailsContent = ({service}) => {
               
                {key.heading == 'Governance, Risk management & Compliance'?
                 <div>
-                  <h2><HTMLString html={'Governance'}></HTMLString></h2>
+                  <h2><HTMLString html={t('Governance')}></HTMLString></h2>
                   <div className="row">
                     <div className="col-lg-6 col-md-12">
                     <div className="services-details-desc">
-                    <HTMLString html={'Corporate governance consists of the set of processes, policies, objectives and laws that determine how a corporation is controlled.'} />
+                    <HTMLString html={ t('Corporate governance consists of the set of processes, policies, objectives and laws that determine how a corporation is controlled.')} />
                     </div>
                   </div>
 
@@ -53,11 +53,11 @@ const ServiceDetailsContent = ({service}) => {
                   
                   </div>
 
-                      <h2><HTMLString html={'Risk'}></HTMLString></h2>
+                      <h2><HTMLString html={t('Risk')}></HTMLString></h2>
                       <div className="row">
                         <div className="col-lg-6 col-md-12">
                         <div className="services-details-desc">
-                        <HTMLString html={'Risk pertains to an auditor not unearthing mistakes or deliberate miscalculations (i.e. fraud) in financial statements.'} />
+                        <HTMLString html={t('Risk pertains to an auditor not unearthing mistakes or deliberate miscalculations (i.e. fraud) in financial statements.')} />
                         </div>
                       </div>
 
@@ -72,11 +72,11 @@ const ServiceDetailsContent = ({service}) => {
                         </div>
                       
                       </div>
-                      <h2><HTMLString html={'Compliance'}></HTMLString></h2>
+                      <h2><HTMLString html={t('Compliance')}></HTMLString></h2>
                       <div className="row">
                         <div className="col-lg-6 col-md-12">
                         <div className="services-details-desc">
-                        <HTMLString html={'Compliance is adherence to a business’s regulatory procedures.'} />
+                        <HTMLString html={t('Compliance is adherence to a business’s regulatory procedures.')} />
                         </div>
                       </div>
 
