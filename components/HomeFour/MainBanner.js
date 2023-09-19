@@ -21,7 +21,7 @@ const MainBanner = () => {
               <div className="row align-items-center">
                 <div className="col-lg-6 col-md-12">
                   <div className="main-banner-content">
-                    <h1>Cyber ​​Vision</h1>
+                    <h1>{t("Cyber ​​Vision")}</h1>
                     <p>
                       {t("mainBannerDetails")}
                     </p>

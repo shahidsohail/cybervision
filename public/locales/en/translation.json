@@ -1,6 +1,7 @@
 {
     "mainBannerDetails": "The Cyber ​​Vision Company was built to meet the needs of small, medium and large companies for cyber security work in the Kingdom of Saudi Arabia in a comprehensive manner, and is specially designed to serve the interests of companies as consulting and services in the field of cyber security. Cyber ​​Vision was established in 2022 in the Kingdom of Saudi Arabia based on highly experienced employees in the field of cyber security consulting and services.",
 "Employee Login":   "Employee Login",
+"Cyber ​​Vision": "Cyber ​​Vision",
     
     "Arabic" : "Arabic" ,
     "Home" : "Home" ,
@@ -90,21 +91,37 @@
 	"Business continuity and IT disaster recovery plan " : "Business continuity and IT disaster recovery plan " ,
 	"Cyber ​​Security Operations Center " : "Cyber ​​Security Operations Center " ,
 	"Cyber Security Solutions" : "Cyber Security Solutions" ,
-	"With the ever increasing threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals, it is imperative to strategize the cybersecurity solution." : "With the ever increasing threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals, it is imperative to strategize the cybersecurity solution." ,
-	"In Order to provide cyber security solutions in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in the Cyber Security domain. " : "In Order to provide cyber security solutions in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in the Cyber Security domain. " ,
+	"With the ever increasing threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals, it is imperative to strategize the cybersecurity solution." 
+	: "With the ever increasing threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals, it is imperative to strategize the cybersecurity solution." ,
+	"In Order to provide cyber security solutions in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in the Cyber Security domain. " 
+	: "In Order to provide cyber security solutions in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in the Cyber Security domain. " ,
+
+
+    "CYberSecurityPageSolutions": 
+"<p>With the ever increasing threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals, it is imperative to strategize the cybersecurity solution.<br /> In Order to provide cyber security solutions in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in the Cyber Security domain.<br /><ul><li>NGFW( Next generation Firewall ), WAF (Web Application Firewalls)</li><li>Identity Access Management</li><li>Endpoint Detection and response</li><li>Vulnerability Assessment and Penetration Testing.</li><li>Data Protection Solutions.</li><li>Network Traffic Analysis Solutions</li><li>SIEM</li><li>Email and Web Security solution</li></ul></p>",
+                
+
+
+
+
+
 	"NGFW( Next generation Firewall ), WAF (Web Application Firewalls)" : "NGFW( Next generation Firewall ), WAF (Web Application Firewalls)" ,
-	"Endpoint Detection and response" : "Endpoint Detection and response" ,
+	"Endpoint Detect<ion and response" : "Endpoint Detection and response" ,
 	"Vulnerability Assessment and Penetration Testing." : "Vulnerability Assessment and Penetration Testing." ,
 	"Data Protection Solutions." : "Data Protection Solutions." ,
 	"Network Traffic Analysis Solutions" : "Network Traffic Analysis Solutions" ,
 	"SIEM" : "SIEM" ,
 	"Email and Web Security solution" : "Email and Web Security solution" ,
+
 	"NGFW Solution" : "NGFW Solution" ,
-	"The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities." : "The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities." ,
+	"<p>The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities.</P>" 
+    : "The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities." ,
 	"WAF Solution" : "WAF Solution" ,
-	"A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches." : "A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches." ,
+	"A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches." 
+    : "A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches." ,
 	"Identity Access Management" : "Identity Access Management" ,
-	"Experience a comprehensive identity management platform catering to wired, wireless, and VPN traffic. Our solution offers policy classification and enforcement, along with robust authentication, authorization, and accounting for your network infrastructure traffic." : "Experience a comprehensive identity management platform catering to wired, wireless, and VPN traffic. Our solution offers policy classification and enforcement, along with robust authentication, authorization, and accounting for your network infrastructure traffic." ,
+	"Experience a comprehensive identity management platform catering to wired, wireless, and VPN traffic. Our solution offers policy classification and enforcement, along with robust authentication, authorization, and accounting for your network infrastructure traffic." 
+    : "Experience a comprehensive identity management platform catering to wired, wireless, and VPN traffic. Our solution offers policy classification and enforcement, along with robust authentication, authorization, and accounting for your network infrastructure traffic." ,
 	"Identity Access Management Solution" : "Identity Access Management Solution" ,
 	"The IAM solution offers a comprehensive array of features, including data governance, access requests, compliance management, single sign-on (SSO), password administration, identity analytics, and role management, all catered to the needs of end users." : "The IAM solution offers a comprehensive array of features, including data governance, access requests, compliance management, single sign-on (SSO), password administration, identity analytics, and role management, all catered to the needs of end users." ,
 	"Next generation SIEM Solution" : "Next generation SIEM Solution" ,
@@ -112,10 +129,18 @@
 	"Network Detection Response & Threat Hunting" : "Network Detection Response & Threat Hunting" ,
 	"Utilizing artificial intelligence and machine learning, we employ advanced techniques to identify network-based attacks, conduct thorough traffic analysis, and analyze files for enhanced network visibility. Our solutions not only bolster your security posture but also significantly minimize Mean Time to Recovery (MTTR) for file-less attacks, ensuring a fortified and responsive network defense." : "Utilizing artificial intelligence and machine learning, we employ advanced techniques to identify network-based attacks, conduct thorough traffic analysis, and analyze files for enhanced network visibility. Our solutions not only bolster your security posture but also significantly minimize Mean Time to Recovery (MTTR) for file-less attacks, ensuring a fortified and responsive network defense." ,
 	"End point Detection and Response" : "End point Detection and Response" ,
-	"The all-encompassing EDR solution utilizes expert analytics on extensive data sets gathered from EDR solutions throughout the organization. This enables swift identification and prevention of attacks by establishing quicker connections. " : "The all-encompassing EDR solution utilizes expert analytics on extensive data sets gathered from EDR solutions throughout the organization. This enables swift identification and prevention of attacks by establishing quicker connections. " ,
-	"The EDR solution effectively minimizes the attack surface, enhances visibility, and thwarts threats targeting the Endpoint Infrastructure. Additionally, it ensures swift response and effective remediation for endpoints." : "The EDR solution effectively minimizes the attack surface, enhances visibility, and thwarts threats targeting the Endpoint Infrastructure. Additionally, it ensures swift response and effective remediation for endpoints." ,
-	"Vulnerability Assessment & Penetration Testing Solution" : "Vulnerability Assessment & Penetration Testing Solution" ,
-	"Deliver enhanced asset visibility, ensure compliance, and conduct active and passive scans to uncover vulnerability blind spots across networks, endpoints, and servers. Our solution extends support to both SAS and cloud assessments. It quantifies your existing security stance, empowering continuous enhancement of your security posture." : "Deliver enhanced asset visibility, ensure compliance, and conduct active and passive scans to uncover vulnerability blind spots across networks, endpoints, and servers. Our solution extends support to both SAS and cloud assessments. It quantifies your existing security stance, empowering continuous enhancement of your security posture." ,
+	
+    "The all-encompassing EDR solution utilizes expert analytics on extensive data sets gathered from EDR solutions throughout the organization. This enables swift identification and prevention of attacks by establishing quicker connections. " 
+    : "The all-encompassing EDR solution utilizes expert analytics on extensive data sets gathered from EDR solutions throughout the organization. This enables swift identification and prevention of attacks by establishing quicker connections. " ,
+	"The EDR solution effectively minimizes the attack surface, enhances visibility, and thwarts threats targeting the Endpoint Infrastructure. Additionally, it ensures swift response and effective remediation for endpoints." 
+    : "The EDR solution effectively minimizes the attack surface, enhances visibility, and thwarts threats targeting the Endpoint Infrastructure. Additionally, it ensures swift response and effective remediation for endpoints." ,
+	
+    "CYberSecurityPageEndPoint " 
+    : "<p>The all-encompassing EDR solution utilizes expert analytics on extensive data sets gathered from EDR solutions throughout the organization. This enables swift identification and prevention of attacks by establishing quicker connections.<br /><br />The EDR solution effectively minimizes the attack surface, enhances visibility, and thwarts threats targeting the Endpoint Infrastructure. Additionally, it ensures swift response and effective remediation for endpoints.</p>" ,
+    
+    
+    "Vulnerability Assessment & Penetration Testing Solution" : "Vulnerability Assessment & Penetration Testing Solution" ,
+	"<p>Deliver enhanced asset visibility, ensure compliance, and conduct active and passive scans to uncover vulnerability blind spots across networks, endpoints, and servers. Our solution extends support to both SAS and cloud assessments. It quantifies your existing security stance, empowering continuous enhancement of your security posture." : "Deliver enhanced asset visibility, ensure compliance, and conduct active and passive scans to uncover vulnerability blind spots across networks, endpoints, and servers. Our solution extends support to both SAS and cloud assessments. It quantifies your existing security stance, empowering continuous enhancement of your security posture.</p>" ,
 	"Data Protection and Classification Solution" : "Data Protection and Classification Solution" ,
 	"Safeguard your files and documents during transmission, storage, and work processes. Identify and prevent unauthorized file transfers beyond the perimeter with our Data Loss Prevention (DLP) feature. Employ file and email tagging for accurate classification." : "Safeguard your files and documents during transmission, storage, and work processes. Identify and prevent unauthorized file transfers beyond the perimeter with our Data Loss Prevention (DLP) feature. Employ file and email tagging for accurate classification." ,
 	"Email Security" : "Email Security" ,

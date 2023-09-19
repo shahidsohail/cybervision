@@ -1,3 +1,5 @@
+//import { useTranslation } from 'react-i18next';
+
 
 const serviceDetails = [
 
@@ -136,93 +138,47 @@ const serviceDetails = [
             {
                 heading:"Cyber Security Solutions",
                 image:"cyberSecurity/1.png",
-                description:`<p>
-                
-                With the ever increasing threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals, it is imperative to strategize the cybersecurity solution.<br />
-                In Order to provide cyber security solutions in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in the Cyber Security domain.
-                <br />
-                <ul>
-                <li>NGFW( Next generation Firewall ), WAF (Web Application Firewalls)</li>
-                <li>Identity Access Management</li>
-                <li>Endpoint Detection and response</li>
-                <li>Vulnerability Assessment and Penetration Testing.</li>
-                <li>Data Protection Solutions.</li>
-                <li>Network Traffic Analysis Solutions</li>
-                <li>SIEM</li>
-                <li>Email and Web Security solution</li>
-                </ul>
-                </p>`,
+                description:`CYberSecurityPageSolutions`,
             },
                 {
                 heading:"NGFW Solution",
                 image:"cyberSecurity/2.png",
-                description:`<p>
-                The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities.
-                </p>`
+                description:`<p>The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities.</p>`
             },
             {
                 heading:"WAF Solution",
                 image:"cyberSecurity/3.png",
-                description:`
-                A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches.
-                `
+                description:`A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches.`
             },
             {
                 heading:"Identity Access Management",
                 image:"cyberSecurity/4.jpg",
-                description:`<p>
-                Experience a comprehensive identity management platform catering to wired, wireless, and VPN traffic. Our solution offers policy classification and enforcement, along with robust authentication, authorization, and accounting for your network infrastructure traffic.
-                </p>
-                `
+                description:`Experience a comprehensive identity management platform catering to wired, wireless, and VPN traffic. Our solution offers policy classification and enforcement, along with robust authentication, authorization, and accounting for your network infrastructure traffic.`
             },
             {
                 heading:"Identity Access Management Solution",
                 image:"cyberSecurity/5.png",
-                description:`
-                <p>
-                The IAM solution offers a comprehensive array of features, including data governance, access requests, compliance management, single sign-on (SSO), password administration, identity analytics, and role management, all catered to the needs of end users.
-                </p>
-                `
+                description:`The IAM solution offers a comprehensive array of features, including data governance, access requests, compliance management, single sign-on (SSO), password administration, identity analytics, and role management, all catered to the needs of end users.`
             },
             {
                 heading:"Next generation SIEM Solution",
                 image:"cyberSecurity/6.png",
-                description:`
-                <p>
-                Delivers log management, event correlation, incident analysis, and live monitoring. Ensures compliance alignment, enforcement, and reporting. Swiftly detects threats, minimizes response time in threat hunting, and enhances overall visibility.
-                </p>
-                `
+                description:`Delivers log management, event correlation, incident analysis, and live monitoring. Ensures compliance alignment, enforcement, and reporting. Swiftly detects threats, minimizes response time in threat hunting, and enhances overall visibility.`
             },
             {
                 heading:"Network Detection Response & Threat Hunting",
                 image:"cyberSecurity/7.jpg",
-                description:`
-                <p>
-                Utilizing artificial intelligence and machine learning, we employ advanced techniques to identify network-based attacks, conduct thorough traffic analysis, and analyze files for enhanced network visibility. Our solutions not only bolster your security posture but also significantly minimize Mean Time to Recovery (MTTR) for file-less attacks, ensuring a fortified and responsive network defense.
-                </p>
-                `
+                description:`<p>Utilizing artificial intelligence and machine learning, we employ advanced techniques to identify network-based attacks, conduct thorough traffic analysis, and analyze files for enhanced network visibility. Our solutions not only bolster your security posture but also significantly minimize Mean Time to Recovery (MTTR) for file-less attacks, ensuring a fortified and responsive network defense.</p>`
             },
             {
                 heading:"End point Detection and Response",
                 image:"cyberSecurity/8.jpg",
-                description:`
-                <p>
-                The all-encompassing EDR solution utilizes expert analytics on extensive data sets gathered from EDR solutions throughout the organization. This enables swift identification and prevention of attacks by establishing quicker connections.
-                <br / >
-                The EDR solution effectively minimizes the attack surface, enhances visibility, and thwarts threats targeting the Endpoint Infrastructure. Additionally, it ensures swift response and effective remediation for endpoints.
-
-                </p>
-                `
+                description:`CYberSecurityPageEndPoint `
             },
             {
                 heading:"Vulnerability Assessment & Penetration Testing Solution",
                 image:"cyberSecurity/12.jpg",
-                description:`
-                <p>
-                Deliver enhanced asset visibility, ensure compliance, and conduct active and passive scans to uncover vulnerability blind spots across networks, endpoints, and servers. Our solution extends support to both SAS and cloud assessments. It quantifies your existing security stance, empowering continuous enhancement of your security posture.
-
-                </p>
-                `
+                description:`<p>Deliver enhanced asset visibility, ensure compliance, and conduct active and passive scans to uncover vulnerability blind spots across networks, endpoints, and servers. Our solution extends support to both SAS and cloud assessments. It quantifies your existing security stance, empowering continuous enhancement of your security posture.</p>`
             },
             {
                 heading:"Data Protection and Classification Solution",
