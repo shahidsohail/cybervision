@@ -271,8 +271,11 @@
 "Cyber Vision boasts extensive expertise in delivering cutting-edge security solutions, specializing in state-of-the-art technology within the realm of CCTV systems. With HCIS certification, we bring a wealth of experience in safeguarding industrial environments, particularly in the context of large-scale projects within the industrial security domain." 
 : "تفتخر شركة مفهوم الرؤية بخبرتها الواسعة في تقديم حلول أمنية مُتطورة جداً، متخصصة في احدث التقنيات في مجال أنظمة كاميرات المُراقبة. مع شهادة الهيئة العليا للأمن الصناعي (HCIS)، نُقدم خبرة وافرة في مجال حماية بيئات الأمن الصناعي، لا سيما في المشاريع الواسعة في نطاق الأمن الصناعي." ,
 
-"Unleash the Power of Software-Defined Data Center Solutions" : "اطلق القوة لحلول مراكز البيانات المُعرفة برمجياً" ,
-"With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here." : "مع شركة سايبر فيچن، قُم بإحتواء حلول مراكز البيانات المُعرفة بالبرمجيات (SDDC) العملية والآمنة والقابلة للتوسع والتطوير. قُم بتأمين مُستقبل اعمالك مع تقنيات الشبكات المُعرفة برمجياً (SDN) للمهام المُهمة والقدرات السحابية. تبدأ هنا رحلتك الى النجاح الرقمي." ,
+"Unleash the Power of Software-Defined Data Center Solutions" 
+: "اطلق القوة لحلول مراكز البيانات المُعرفة برمجياً" ,
+"With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here." 
+: "<p>مع شركة سايبر فيچن، قُم بإحتواء حلول مراكز البيانات المُعرفة بالبرمجيات (SDDC) العملية والآمنة والقابلة للتوسع والتطوير. قُم بتأمين مُستقبل اعمالك مع تقنيات الشبكات المُعرفة برمجياً (SDN) للمهام المُهمة والقدرات السحابية. تبدأ هنا رحلتك الى النجاح الرقمي.</p>" ,
+
 "Software Defined Networking" : "الشبكات المُعرفة برمجياً" ,
 "Experience network flexibility and streamlined management with Software-defined Networking (SDN). SDN centralizes control and data forwarding, simplifying network administration. Cyber Vision provides top-notch SDN solutions from leading vendors, tailored for mission-critical tasks and cloud capabilities. " : "قُم بتجربة مرونة الشبكة والإدارة المُبسطة لها من خلال الشبكات المُعرفة برمجياً (SDN). تُركز الشبكات المُعرفة برمجياً (SDN) على التحكم وتوجية البيانات، مما يقوم بتسهيل إدارة الشبكة. شركة سايبر فيچن توفر حلول الشبكة المُعرفة برمجياً على اعلى طراز من البائعين الرائدين، مُصممة على المُهمات الحرجة والقدرات السحابية." ,
 "Advantages of having Software Defined Networking:" : "مزايا إمتلاك الشبكات المُعرفة برمجياً" ,
@@ -283,11 +286,20 @@
 "Reduced capital expenditures." : "تقليل التكاليف الرأسمالية." ,
 "Cloud abstraction." : "عزل الشبكة السحابية عن العالم الخارجي." ,
 "Guaranteed content delivery." : "ضمان وصول المحتوى." ,
+
+"DataCenterPageSDN":
+"قُم بتجربة مرونة الشبكة والإدارة المُبسطة لها من خلال الشبكات المُعرفة برمجياً (SDN). تُركز الشبكات المُعرفة برمجياً (SDN) على التحكم وتوجية البيانات، مما يقوم بتسهيل إدارة الشبكة. شركة سايبر فيچن توفر حلول الشبكة المُعرفة برمجياً على اعلى طراز من البائعين الرائدين، مُصممة على المُهمات الحرجة والقدرات السحابية.<br /><b>مزايا إمتلاك الشبكات المُعرفة برمجياً:</b><ul><li>توفير الشبكات المركزية.</li><li>أمن دقيق جداً</li><li>تكلفة تشغيل اقل.</li><li>توفير أجهزة</li><li>تقليل التكاليف الرأسمالية.</li><li>عزل الشبكة السحابية عن العالم الخارجي.</li><li>ضمان وصول المحتوى.</li></ul>",
+
 "Hyperconverged Infrastructure" : "بُنية تحتية مُتكاملة بشكل هائل (HCI)" ,
-"A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency." : "مزيج سلس من الأجهزة والبرامج، هذا الحل (HCI) يقوم بتبسيط البُنية التحتية الخاصة بك من خلال دمج الخوادم، شبكات التخزين، والمصفوفات الى مكونات للبناء المرن. قُم بتجربة مُستقبل كفاءة مراكز البيانات." ,
+
+"A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency." 
+: "مزيج سلس من الأجهزة والبرامج، هذا الحل (HCI) يقوم بتبسيط البُنية التحتية الخاصة بك من خلال دمج الخوادم، شبكات التخزين، والمصفوفات الى مكونات للبناء المرن. قُم بتجربة مُستقبل كفاءة مراكز البيانات." ,
 "Key features and capabilities:" : "المزايا الرئيسية والقدرات:" ,
 "Rapid deployment" : "التعيين السريع" ,
-"Scalable virtual environments" : "بيئات إفتراضية قابلة للتوسع" 
+"Scalable virtual environments" : "بيئات إفتراضية قابلة للتوسع" ,
+"Intrinsic Security":"أمان جوهري",
+
+"DataCenterPageHCI":"<p>مزيج سلس من الأجهزة والبرامج، هذا الحل (HCI) يقوم بتبسيط البُنية التحتية الخاصة بك من خلال دمج الخوادم، شبكات التخزين، والمصفوفات الى مكونات للبناء المرن. قُم بتجربة مُستقبل كفاءة مراكز البيانات.</p><b>المزايا الرئيسية والقدرات:</b><ul><li>التعيين السريع</li><li>بيئات إفتراضية قابلة للتوسع</li><li>مُميزات تخزين على مستوى المؤسسة</li><li>أمان جوهري</li></ul>"
 
 
 }

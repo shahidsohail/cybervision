@@ -12,40 +12,28 @@ const serviceDetails = [
             {
                 heading:"Unleash the Power of Software-Defined Data Center Solutions",
                 image:"dataCenter/SDDC2.jpeg",
-                description:"<p>With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here.</p>" 
+                description:"With Cyber Vision, embrace practical, secure, and scalable Software Defined Data Center (SDDC) solutions. Future-proof your business with leading SDN technologies for mission-critical workloads and cloud capabilities. Your journey to digital success starts here." 
             },
             {
                 heading:"Software Defined Networking",
                 image:"dataCenter/DataCenter_SDN.jpg",
-                description:`Experience network flexibility and streamlined management with Software-defined Networking (SDN). SDN centralizes control and data forwarding, simplifying network administration. Cyber Vision provides top-notch SDN solutions from leading vendors, tailored for mission-critical tasks and cloud capabilities.
-                <br />
-                <b>Advantages of having Software Defined Networking:</b>
-                <ul>
-                <li>Centralized network provisioning.</li>
-                <li>More granular security.</li>
-                <li>Lower operating costs.</li>
-                <li>Hardware savings</li>
-                <li>Reduced capital expenditures.</li>
-                <li>Cloud abstraction.</li>
-                <li>Guaranteed content delivery.</li>
-                </ul>
-                `
+                description:`DataCenterPageSDN`
             },
             {
                 heading:"Hyperconverged Infrastructure",
                 image:"dataCenter/HCI.jpg",
-                description:`
-                <p>
-                A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency.
-                </p>
-                <b>Key features and capabilities:</b>
-                <ul>
-                <li>Rapid deployment</li>
-                <li>Scalable virtual environments</li>
-                <li>Enterprise class storage features</li>
-                <li>Intrinsic Security</li>
-                </ul>
-                `
+                description:`DataCenterPageHCI`
+                // <p>
+                // A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency.
+                // </p>
+                // <b>Key features and capabilities:</b>
+                // <ul>
+                // <li>Rapid deployment</li>
+                // <li>Scalable virtual environments</li>
+                // <li>Enterprise class storage features</li>
+                // <li>Intrinsic Security</li>
+                // </ul>
+                
             },
             {
                 heading:"Private Cloud",

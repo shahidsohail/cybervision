@@ -290,12 +290,20 @@
     "Reduced capital expenditures." : "Reduced capital expenditures." ,
     "Cloud abstraction." : "Cloud abstraction." ,
     "Guaranteed content delivery." : "Guaranteed content delivery." ,
+
+    "DataCenterPageSDN":"Experience network flexibility and streamlined management with Software-defined Networking (SDN). SDN centralizes control and data forwarding, simplifying network administration. Cyber Vision provides top-notch SDN solutions from leading vendors, tailored for mission-critical tasks and cloud capabilities.<br /><b>Advantages of having Software Defined Networking:</b><ul><li>Centralized network provisioning.</li><li>More granular security.</li><li>Lower operating costs.</li><li>Hardware savings</li><li>Reduced capital expenditures.</li><li>Cloud abstraction.</li><li>Guaranteed content delivery.</li></ul>",
+
+
     "Hyperconverged Infrastructure" : "Hyperconverged Infrastructure" ,
+    
     "A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency." : "A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency." ,
     "Key features and capabilities:" : "Key features and capabilities:" ,
     "Rapid deployment" : "Rapid deployment" ,
-    "Scalable virtual environments" : "Scalable virtual environments" 
+    "Scalable virtual environments" : "Scalable virtual environments" ,
+    "Intrinsic Security":"Intrinsic Security",
     
+    "DataCenterPageHCI":
+    "<p>A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency.</p><b>Key features and capabilities:</b><ul><li>Rapid deployment</li><li>Scalable virtual environments</li><li>Enterprise class storage features</li><li>Intrinsic Security</li></ul>"
 
 
 }
