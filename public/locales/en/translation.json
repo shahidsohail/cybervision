@@ -114,8 +114,8 @@
 	"Email and Web Security solution" : "Email and Web Security solution" ,
 
 	"NGFW Solution" : "NGFW Solution" ,
-	"<p>The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities.</P>" 
-    : "The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities." ,
+	"<p>The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities.</p>" 
+    : "<p>The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities.</p>" ,
 	"WAF Solution" : "WAF Solution" ,
 	"A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches." 
     : "A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches." ,
@@ -303,7 +303,118 @@
     "Intrinsic Security":"Intrinsic Security",
     
     "DataCenterPageHCI":
-    "<p>A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency.</p><b>Key features and capabilities:</b><ul><li>Rapid deployment</li><li>Scalable virtual environments</li><li>Enterprise class storage features</li><li>Intrinsic Security</li></ul>"
+    "<p>A seamless blend of hardware and software, HCI simplifies your infrastructure by consolidating servers, storage networks, and arrays into flexible building blocks. Experience the future of datacenter efficiency.</p><b>Key features and capabilities:</b><ul><li>Rapid deployment</li><li>Scalable virtual environments</li><li>Enterprise class storage features</li><li>Intrinsic Security</li></ul>",
+
+    
+    "A private cloud delivers computing services over a secure internal network, exclusively catering to specific users rather than the public at large. " 
+    : "A private cloud delivers computing services over a secure internal network, exclusively catering to specific users rather than the public at large. " ,
+    "Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud as:" 
+    : "Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud as:" ,
+    "Self-Service Catalog" : "Self-Service Catalog" ,
+    "Efficiency & control" : "Efficiency & control" ,
+    "Availability" : "Availability" ,
+    "Security & privacy" : "Security & privacy" ,
+    "Automation" : "Automation" ,
+
+    "DataCenterPagePrivateCloud":"<p>A private cloud delivers computing services over a secure internal network, exclusively catering to specific users rather than the public at large.<br/>Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud as:</p><ul><li>Self-Service Catalog</li><li>Efficiency & control</li><li>Availability</li><li>Security & privacy</li><li>Automation</li></ul>",
+
+
+
+
+    "Virtual Desktop Infrastructure" : "Virtual Desktop Infrastructure" ,
+    "VDI, a type of DaaS, hosts desktop environments on a central server. Desktop images run within VMs and are delivered over a network to PCs or other devices." 
+    : "<p>VDI, a type of DaaS, hosts desktop environments on a central server. Desktop images run within VMs and are delivered over a network to PCs or other devices.</p>" ,
+    
+    "Digital Workspace" : "Digital Workspace" ,
+    "Experience the power of a unified digital workspace: streamlining app, data, and desktop delivery." : "Experience the power of a unified digital workspace: streamlining app, data, and desktop delivery." ,
+    "It allows employees to access their apps and data real-time – on any device, from any location regardless of whether the information is stored through cloud services or in the data center." : "It allows employees to access their apps and data real-time – on any device, from any location regardless of whether the information is stored through cloud services or in the data center." ,
+
+    "DataCenterPageDigitalWorkspace":"<p>Experience the power of a unified digital workspace: streamlining app, data, and desktop delivery.<br />It allows employees to access their apps and data real-time – on any device, from any location regardless of whether the information is stored through cloud services or in the data center.</p>",
+
+
+    "Private Cloud" : "Private Cloud" ,
+    "Discover a cutting-edge data center model that dynamically serves businesses with on-demand services. Tailored for large enterprises, it empowers corporate network and data center administrators to act as internal service providers, catering to the needs of customers within the organization." 
+    : "<p>Discover a cutting-edge data center model that dynamically serves businesses with on-demand services. Tailored for large enterprises, it empowers corporate network and data center administrators to act as internal service providers, catering to the needs of customers within the organization.</p>" ,
+    
+
+
+    "Hybrid Cloud" : "Hybrid Cloud" ,
+    "A hybrid cloud combines two or more separate cloud infrastructures (private, community, or public) using standardized or proprietary technology for data and application portability. It typically includes a mix of public and private clouds." 
+    : "<p>A hybrid cloud combines two or more separate cloud infrastructures (private, community, or public) using standardized or proprietary technology for data and application portability. It typically includes a mix of public and private clouds.</p>" ,
+
+    "Multi Cloud" : "Multi Cloud" ,
+    "CloudPageMulti-cloud" 
+    : "<p>Multi-cloud: Harnessing the Power of Diverse Cloud Providers. Utilize two or more clouds from different providers, blending Infrastructure, Platform, or Software as a Service (IaaS, PaaS, or SaaS). For instance, email from one vendor, CRM from another, and IaaS from yet another. Unlock the following advantages with multi-cloud platforms</p><ul><li>Easily manage and deploy on multiple clouds,</li><li>Avoid vendor lock-in</li><li>Reduce cost</li><li>Increase overall productivity</li></ul></p>",
+
+
+
+
+
+
+
+
+
+
+
+"Customer Experience Solutions" : "Customer Experience Solutions" ,
+"Cyber Vision holds the trust of leading banks, insurance providers, healthcare institutions, educational establishments, and governmental bodies to elevate customer service standards. Our expertise lies in crafting, building, and deploying omni-channel contact center solutions, ensuring superior services across diverse sectors" 
+: "Cyber Vision holds the trust of leading banks, insurance providers, healthcare institutions, educational establishments, and governmental bodies to elevate customer service standards. Our expertise lies in crafting, building, and deploying omni-channel contact center solutions, ensuring superior services across diverse sectors" ,
+"Cyber Vision has vast experience in Contact Center implementations and delivered ample of mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc." 
+: "Cyber Vision has vast experience in Contact Center implementations and delivered ample of mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc." ,
+
+"PageCustomerExperienceSolutions":"<p>Cyber Vision holds the trust of leading banks, insurance providers, healthcare institutions, educational establishments, and governmental bodies to elevate customer service standards. Our expertise lies in crafting, building, and deploying omni-channel contact center solutions, ensuring superior services across diverse sectors.<br />Cyber Vision has vast experience in Contact Center implementations and delivered ample of mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc.</p>",
+
+
+
+"Self Service Solutions" : "Self Service Solutions" ,
+"Self-service solutions​" : "Self-service solutions​" ,
+"Interactive Voice Response (IVR)" : "Interactive Voice Response (IVR)" ,
+"Chatbot" : "Chatbot" ,
+
+"PageSelf-serviceSolutions​" : "<ul><li>Self-service solutions​</li><li>Interactive Voice Response (IVR)</li><li>Chatbot</li></ul>",
+
+"CRM Integrations" : "CRM Integrations" ,
+"Microsoft Dynamics 365 Integration​" : "Microsoft Dynamics 365 Integration​" ,
+"Microsoft SharePoint Integration​" : "Microsoft SharePoint Integration​" ,
+"Microsoft Cloud Services Integration​" : "Microsoft Cloud Services Integration​" ,
+"Salesforce Integration​" : "Salesforce Integration​" ,
+
+"PageCRM-Integrations" : "<ul><li>Microsoft Dynamics 365 Integration​</li><li>Microsoft SharePoint Integration​</li><li>Microsoft Cloud Services Integration​</li><li>Salesforce Integration​</li></ul>",
+
+
+
+"Intelligent Automation" : "Intelligent Automation" ,
+
+"Automated Speech Recognition" : "Automated Speech Recognition" ,
+"Natural Language Understanding" : "Natural Language Understanding" ,
+"Conversational IVR​" : "Conversational IVR​" ,
+"Voice Biometrics" : "Voice Biometrics" ,
+
+"PageIntelligentAutomation" : "<ul><li>Automated Speech Recognition</li><li>Natural Language Understanding</li><li>Conversational IVR​</li><li>Voice Biometrics</li> </ul>",
+
+
+
+"360 Customer Journey" : "360 Customer Journey" ,
+
+"24 x 7 Time Critical Support Services​" : "24 x 7 Time Critical Support Services​" ,
+"Customized Wallboards​" : "Customized Wallboards​" ,
+"Customized Dashboards​" : "Customized Dashboards​" ,
+
+"Page360CustomerJourney":"<ul><li>24 x 7 Time Critical Support Services​</li><li>Customized Wallboards​</li><li>Customized Dashboards​</li> </ul>",
+
+
+
+"Workforce Management" : "Workforce Management" ,
+
+"Contract Employment" : "Contract Employment" ,
+"Residence Engineering Services" : "Residence Engineering Services" ,
+"Forecasting" : "Forecasting" ,
+"Scheduling" : "Scheduling" ,
+
+"PageWorkforceManagement" : "<ul><li>Contract Employment</li>    <li>Residence Engineering Services</li>    <li>Forecasting</li><li>Scheduling</li> </ul>"
+
+
+
 
 
 }

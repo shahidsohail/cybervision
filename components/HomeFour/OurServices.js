@@ -65,12 +65,12 @@ const OurServices = () => {
                 {t("SANG_MDA_MoJ SANG Infrastructure To support the DWDM Network stability ..")}
                 </p>
 
-                <Link href="/services/ourSuccess">
+                {/* <Link href="/services/ourSuccess">
                   <a className="service-btn">
                   {t("Read More")}
                     <i className="flaticon-right"></i>...
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
 {/* 

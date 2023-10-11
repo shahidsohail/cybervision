@@ -38,39 +38,35 @@ const serviceDetails = [
             {
                 heading:"Private Cloud",
                 image:"dataCenter/DataCenter_PrivateCloud.jpg",
-                description:`
-                <p>                
-                A private cloud delivers computing services over a secure internal network, exclusively catering to specific users rather than the public at large.
-                <br/>
-                Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud as:
-                </p>
-                <ul>
-                <li>Self-Service Catalog</li>
-                <li>Efficiency & control</li>
-                <li>Availability</li>
-                <li>Security & privacy</li>
-                <li>Automation</li>
-                </ul>
-                `
+                description:`DataCenterPagePrivateCloud`
+                // <p>                
+                // A private cloud delivers computing services over a secure internal network, exclusively catering to specific users rather than the public at large.
+                // <br/>
+                // Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud as:
+                // </p>
+                // <ul>
+                // <li>Self-Service Catalog</li>
+                // <li>Efficiency & control</li>
+                // <li>Availability</li>
+                // <li>Security & privacy</li>
+                // <li>Automation</li>
+                // </ul>
+                
             },
             {
                 heading:"Virtual Desktop Infrastructure",
                 image:"dataCenter/datacenter_infrs.png",
-                description:`
-                <p>
-                VDI, a type of DaaS, hosts desktop environments on a central server. Desktop images run within VMs and are delivered over a network to PCs or other devices.                
-                </p>
-                `
+                description:`VDI, a type of DaaS, hosts desktop environments on a central server. Desktop images run within VMs and are delivered over a network to PCs or other devices.`
             },
             {
                 heading:"Digital Workspace",
                 image:"dataCenter/DataCenter_WorkSpaceV2.jpg",
-                description:`
-                <p>
-                Experience the power of a unified digital workspace: streamlining app, data, and desktop delivery.<br />
-                It allows employees to access their apps and data real-time – on any device, from any location regardless of whether the information is stored through cloud services or in the data center.
-                </p>
-                `
+                description:`DataCenterPageDigitalWorkspace`
+                // <p>
+                // Experience the power of a unified digital workspace: streamlining app, data, and desktop delivery.<br />
+                // It allows employees to access their apps and data real-time – on any device, from any location regardless of whether the information is stored through cloud services or in the data center.
+                // </p>
+                
             }
         ]
         
@@ -84,34 +80,27 @@ const serviceDetails = [
             {
                 heading:"Private Cloud",
                 image:"cloudServices/1.jpg",
-                description:`
-                <p>
-                Discover a cutting-edge data center model that dynamically serves businesses with on-demand services. Tailored for large enterprises, it empowers corporate network and data center administrators to act as internal service providers, catering to the needs of customers within the organization.
-                </p>`,
+                description:`Discover a cutting-edge data center model that dynamically serves businesses with on-demand services. Tailored for large enterprises, it empowers corporate network and data center administrators to act as internal service providers, catering to the needs of customers within the organization.`
             }, 
                 {
                 heading:"Hybrid Cloud",
                 image:"cloudServices/Hybrid.jpg",
-                description:`<p>
-                A hybrid cloud combines two or more separate cloud infrastructures (private, community, or public) using standardized or proprietary technology for data and application portability. It typically includes a mix of public and private clouds.
-                <br />
-                We’ve highlighted five areas that offer significant benefits of Hybrid cloud which help your business.
-                </p>`
+                description:`A hybrid cloud combines two or more separate cloud infrastructures (private, community, or public) using standardized or proprietary technology for data and application portability. It typically includes a mix of public and private clouds.`
             },
             {
                 heading:"Multi Cloud",
                 image:"cloudServices/Multi.jpg",
-                description:`
-                <p>
-                Multi-cloud: Harnessing the Power of Diverse Cloud Providers. Utilize two or more clouds from different providers, blending Infrastructure, Platform, or Software as a Service (IaaS, PaaS, or SaaS). For instance, email from one vendor, CRM from another, and IaaS from yet another. Unlock the following advantages with multi-cloud platforms
-                </p> 
-                <ul>
-                <li>Easily manage and deploy on multiple clouds,</li>
-                <li>Avoid vendor lock-in</li>
-                <li>Reduce cost</li>
-                <li>Increase overall productivity</li>
-                </ul>
-                `
+                description:`CloudPageMulti-cloud`
+                // <p>
+                // Multi-cloud: Harnessing the Power of Diverse Cloud Providers. Utilize two or more clouds from different providers, blending Infrastructure, Platform, or Software as a Service (IaaS, PaaS, or SaaS). For instance, email from one vendor, CRM from another, and IaaS from yet another. Unlock the following advantages with multi-cloud platforms
+                // </p> 
+                // <ul>
+                // <li>Easily manage and deploy on multiple clouds,</li>
+                // <li>Avoid vendor lock-in</li>
+                // <li>Reduce cost</li>
+                // <li>Increase overall productivity</li>
+                // </ul>
+                
             },
           
             
@@ -244,35 +233,35 @@ const serviceDetails = [
             {
                 heading:"Customer Experience Solutions",
                 image:"customerExperience/1.jpeg",
-                description:`
-                <p>
-                Cyber Vision holds the trust of leading banks, insurance providers, healthcare institutions, educational establishments, and governmental bodies to elevate customer service standards. Our expertise lies in crafting, building, and deploying omni-channel contact center solutions, ensuring superior services across diverse sectors
-                <br />
-                Cyber Vision has vast experience in Contact Center implementations and delivered ample of mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc.
-                </p>`,
+                description:`PageCustomerExperienceSolutions`
+                // <p>
+                // Cyber Vision holds the trust of leading banks, insurance providers, healthcare institutions, educational establishments, and governmental bodies to elevate customer service standards. Our expertise lies in crafting, building, and deploying omni-channel contact center solutions, ensuring superior services across diverse sectors
+                // <br />
+                // Cyber Vision has vast experience in Contact Center implementations and delivered ample of mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc.
+                // </p>`
             }, 
                 {
                     heading:"Self Service Solutions",
                     image:"customerExperience/3.png",
-                    description:`
-                    <ul>
-                        <li>Self-service solutions​</li>
-                        <li>Interactive Voice Response (IVR)</li>
-                        <li>Chatbot</li>
-                    </ul>
-                    `
+                    description:`PageSelf-serviceSolutions​`
+                    // <ul>
+                    //     <li>Self-service solutions​</li>
+                    //     <li>Interactive Voice Response (IVR)</li>
+                    //     <li>Chatbot</li>
+                    // </ul>
+                    
                 },
                 {
                     heading:"CRM Integrations",
                     image:"customerExperience/crm.png",
-                    description:`
-                    <ul>
-                        <li>Microsoft Dynamics 365 Integration​</li>
-                        <li>Microsoft SharePoint Integration​</li>
-                        <li>Microsoft Cloud Services Integration​</li>
-                        <li>Salesforce Integration​</li> 
-                    </ul>
-                    `
+                    description:`PageCRM-Integrations`
+                    // <ul>
+                    //     <li>Microsoft Dynamics 365 Integration​</li>
+                    //     <li>Microsoft SharePoint Integration​</li>
+                    //     <li>Microsoft Cloud Services Integration​</li>
+                    //     <li>Salesforce Integration​</li> 
+                    // </ul>
+                    
                 },
                 // {
                 //     heading:"Outbound Campaign",
@@ -299,37 +288,37 @@ const serviceDetails = [
                 {
                     heading:"Intelligent Automation",
                     image:"customerExperience/7.png",
-                    description:`
-                    <ul>
-                        <li>Automated Speech Recognition</li>
-                        <li>Natural Language Understanding</li>
-                        <li>Conversational IVR​</li>
-                        <li>Voice Biometrics</li> 
-                    </ul>
-                    `
+                    description:`PageIntelligentAutomation`
+                    // <ul>
+                    //     <li>Automated Speech Recognition</li>
+                    //     <li>Natural Language Understanding</li>
+                    //     <li>Conversational IVR​</li>
+                    //     <li>Voice Biometrics</li> 
+                    // </ul>
+                    
                 },
                 {
                     heading:"360 Customer Journey",
                     image:"customerExperience/8.png",
-                    description:`
-                    <ul>
-                        <li>24 x 7 Time Critical Support Services​</li>
-                        <li>Customized Wallboards​</li>
-                        <li>Customized Dashboards​</li> 
-                    </ul>
-                    `
+                    description:`Page360CustomerJourney`
+                    // <ul>
+                    //     <li>24 x 7 Time Critical Support Services​</li>
+                    //     <li>Customized Wallboards​</li>
+                    //     <li>Customized Dashboards​</li> 
+                    // </ul>
+                    // `
                 },
                 {
                     heading:"Workforce Management",
                     image:"customerExperience/9.png",
-                    description:`
-                    <ul>
-                        <li>Contract Employment</li>    
-                        <li>Residence Engineering Services</li>    
-                        <li>Forecasting</li>
-                        <li>Scheduling</li> 
-                    </ul>
-                    `
+                    description:`PageWorkforceManagement`
+                    // <ul>
+                    //     <li>Contract Employment</li>    
+                    //     <li>Residence Engineering Services</li>    
+                    //     <li>Forecasting</li>
+                    //     <li>Scheduling</li> 
+                    // </ul>
+                    
                 },
 
         ]

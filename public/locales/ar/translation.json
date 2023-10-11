@@ -96,6 +96,7 @@
 	"Cyber ​​Security Operations Center " : "مراكز عمليات للأمن السيبراني" ,
 	"Cyber Security Solutions" : "حلول امن سيبراني", 
 
+
 	"With the ever increasing threat landscape growing with the convergence of IT and OT technologies and with the enablement of Digitization in all business verticals, it is imperative to strategize the cybersecurity solution." 
     : "مع ارتفاع التهديدات المُستمرة وتقارب تكنولوجيا المعلومات وتمكين التحول الرقمي في قطاعات الأعمال. يُصبح إلزامياً العمل على إستراتيجية للحلول السيبرانية." ,
 	"In Order to provide cyber security solutions in the Kingdom, Cyber Vision Networks leverages the new innovations in Machine Learning and Artificial Intelligence to differentiate and add value to its enterprise customers in the Cyber Security domain." 
@@ -104,17 +105,21 @@
 
     "CYberSecurityPageSolutions":"مع ارتفاع التهديدات المُستمرة وتقارب تكنولوجيا المعلومات وتمكين التحول الرقمي في قطاعات الأعمال. يُصبح إلزامياً العمل على إستراتيجية للحلول السيبرانية.<br /> افير حلول للأمن السيبراني في المملكة العربية السعودية، تستفيد شبكات شركة مفهوم الرؤية من الإبتكارات الجديدة في التعليم الآلي والذكاء الاصطناعي لتمييزها عن غيرها وإضافة قيمة لعُملاؤها من المؤسسات والشركات في مجال الأمن السيبراني.<br /><ul><li>NGFW( Next generation Firewall ), WAF (Web Application Firewalls)</li><li>Identity Access Management</li><li>Endpoint Detection and response</li><li>Vulnerability Assessment and Penetration Testing.</li><li>Data Protection Solutions.</li><li>Network Traffic Analysis Solutions</li><li>SIEM</li><li>Email and Web Security solution</li></ul></p>",
 
-	"NGFW( Next generation Firewall ), WAF (Web Application Firewalls)" : "NGFW( Next generation Firewall ), WAF (Web Application Firewalls)" ,
+	"NGFW( Next generation Firewall ), WAF (Web Application Firewalls)" 
+    : "NGFW( Next generation Firewall ), WAF (Web Application Firewalls)" ,
 	"Endpoint Detection and response" : "Endpoint Detection and response" ,
 	"Vulnerability Assessment and Penetration Testing." : "Vulnerability Assessment and Penetration Testing." ,
 	"Data Protection Solutions." : "Data Protection Solutions." ,
 	"Network Traffic Analysis Solutions" : "Network Traffic Analysis Solutions" ,
 	"SIEM" : "SIEM" ,
 	"Email and Web Security solution" : "Email and Web Security solution" ,
-	"NGFW Solution" : "NGFW Solution جدار الحماية" ,
+
+	"NGFW Solution" : "‏‏‏‏\u200F جدار الحماية NGFW Solution " ,
+
 	"<p>The NGFW (Next Generation Firewall) solution delivers advanced capabilities including application-based policy enforcement, user identification, threat prevention, sandboxing, malware analysis, traffic visibility, secure remote networking, URL filtering, DNS protection, and integrated branch SD-WAN functionalities.</p>" 
     : "الجيل الجديد من جدار الحماية (NGFW) يوفر حلول وقدرات مُتقدمة وذلك يشمل تنفيذ السياسات والقوانين في التطبيقات، تحديد المُستخدمين، منع التهديدات، Sandboxing (تقنية تقوم بعزل البرامج عن الجهاز للحد من آثارها التخريبية)، تحليل البرامج المُضرة بالأجهزة، رؤية حركة التدفق في الشبكة، اتصالات عن بُعد آمنة، تصفية الروابط (URL)، حماية DNS، ووظائف الشبكة المُوسعة (SD-WAN)." ,
-	"WAF Solution" : "WAF Solution جدار الحماية للتطبيقات" ,
+	"WAF Solution" :  "‏‏‏‏\u200F جدار الحماية للتطبيقات WAF Solution " ,
+
 	"A Web Application Firewall (WAF) provides robust defense against web application threats, such as SQL injection, cross-site scripting (XSS) attacks, and input validation breaches. It ensures the safeguarding of enterprise application servers from potential security breaches." 
     : "يوفر جدار الحماية للتطبيقات (WAF) دفاعاً قوياً ضد التهديدات التي تواجة التطبيقات. على سبيل المثال ادخال بيانات ضارة او غير مرغوب بها في حقل ادخال البيانات (SQL Injection)، او الإختراق عبر مواقع مُتعددة (XXS Attacks)، يقوم جدار الحماية للتطبيقات (WAF) بالتأكد من حماية خوادم التطبيقات الخاصة بالأعمال من التهديدات والإختراقات الأمنية." ,
 	"Identity Access Management" : "إدارة الدخول بإستخدام الهوية - Identity Access Management" ,
@@ -177,12 +182,13 @@
 
 "Management" : "الإدارة" ,
 "ManagedPageManagement" 
-    : "<p>تفويض المهام الروتينية لتكنويوجيا المعلومات مثل الملكية وإدارة التغيير. التي تسمح لفريقك بتحديد الأوليويات للأنشطة عالية الأهمية</p><br /><ul><li>إدارة التغيير واخذ الملكية</li><li>ضبط إعدادات الشبكة، الحماية، الحوسبة، التخزين والتطبيقات</li><li>ضبط الإعدادات الخاصة بالجيل الجديد من مزايا الحماية والتي تشمل جدار الحماية للتطبيقات، فحص</li></ul>" ,
+    : "<p>تفويض المهام الروتينية لتكنويوجيا المعلومات مثل الملكية وإدارة التغيير. التي تسمح لفريقك بتحديد الأوليويات للأنشطة عالية الأهمية</p><br /><ul><li>إدارة التغيير واخذ الملكية</li><li>ضبط إعدادات الشبكة، الحماية، الحوسبة، التخزين والتطبيقات</li>    <li>‏‏‏‏ضبط الإعدادات الخاصة بالجيل الجديد من مزايا الحماية والتي تشمل جدار الحماية للتطبيقات، فحص  TLS/SSL، نظام منع الإختراقات وإدارة الهوية.</li></ul>" ,
 
 "sdwew" : "تفويض المهام الروتينية لتكنويوجيا المعلومات مثل الملكية وإدارة التغيير. التي تسمح لفريقك بتحديد الأوليويات للأنشطة عالية الأهمية" ,
 "Change management and taking ownership of the configuration" : "إدارة التغيير واخذ الملكية" ,
 "Configuration of Network, Security, Computing, Storage and Applications" : "ضبط إعدادات الشبكة، الحماية، الحوسبة، التخزين والتطبيقات" ,
-"Configuration of NextGen Security features including Application Firewall, TLS/SSL inspection, IPS and Identity Management" : "ضبط الإعدادات الخاصة بالجيل الجديد من مزايا الحماية والتي تشمل جدار الحماية للتطبيقات، فحص TLS/SSL، نظام منع الإختراقات وإدارة الهوية." ,
+"Configuration of NextGen Security features including Application Firewall, TLS/SSL inspection, IPS and Identity Management" 
+: "ضبط الإعدادات الخاصة بالجيل الجديد من مزايا الحماية والتي تشمل جدار الحماية للتطبيقات، فحص نظام منع الإختراقات وإدارة الهوية." ,
 
 "Optimize" : "التحسين" ,
 "ManagedPageOptimize" :
@@ -299,7 +305,122 @@
 "Scalable virtual environments" : "بيئات إفتراضية قابلة للتوسع" ,
 "Intrinsic Security":"أمان جوهري",
 
-"DataCenterPageHCI":"<p>مزيج سلس من الأجهزة والبرامج، هذا الحل (HCI) يقوم بتبسيط البُنية التحتية الخاصة بك من خلال دمج الخوادم، شبكات التخزين، والمصفوفات الى مكونات للبناء المرن. قُم بتجربة مُستقبل كفاءة مراكز البيانات.</p><b>المزايا الرئيسية والقدرات:</b><ul><li>التعيين السريع</li><li>بيئات إفتراضية قابلة للتوسع</li><li>مُميزات تخزين على مستوى المؤسسة</li><li>أمان جوهري</li></ul>"
+"DataCenterPageHCI":"<p>مزيج سلس من الأجهزة والبرامج، هذا الحل (HCI) يقوم بتبسيط البُنية التحتية الخاصة بك من خلال دمج الخوادم، شبكات التخزين، والمصفوفات الى مكونات للبناء المرن. قُم بتجربة مُستقبل كفاءة مراكز البيانات.</p><b>المزايا الرئيسية والقدرات:</b><ul><li>التعيين السريع</li><li>بيئات إفتراضية قابلة للتوسع</li><li>مُميزات تخزين على مستوى المؤسسة</li><li>أمان جوهري</li></ul>",
+
+
+"A private cloud delivers computing services over a secure internal network, exclusively catering to specific users rather than the public at large. " 
+: "تُقدم السحابة الخاصة خدمات حوسبية من خلال شبكة داخلية آمنة ومعزولة تماماً، تُلبي احتياجات المُستخدمين المحددين فقط بدلاً من المستخدمين العامة" ,
+"Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud as:" 
+: "ايضاً تُسمى السحابة الداخلية او سحابة الشركة، حوسبة السحابة الخاصة تُقدم للأعمال مزايا عديدة من السحابة العامة مثل:" ,
+"Self-Service Catalog" : "كُتّيب الخدمة الذاتية" ,
+"Efficiency & control" : "الكفاءة والتحكم" ,
+"Availability" : "التوفر الدائم" ,
+"Security & privacy" : "الأمان والخصوصية" ,
+"Automation" : "تشغيل آلي" ,
+
+
+"DataCenterPagePrivateCloud":"<p>تُقدم السحابة الخاصة خدمات حوسبية من خلال شبكة داخلية آمنة ومعزولة تماماً، تُلبي احتياجات المُستخدمين المحددين فقط بدلاً من المستخدمين العامة<br/>ايضاً تُسمى السحابة الداخلية او سحابة الشركة، حوسبة السحابة الخاصة تُقدم للأعمال مزايا عديدة من السحابة العامة مثل:</p><ul><li>كُتّيب الخدمة الذاتية</li><li>الكفاءة والتحكم</li><li>التوفر الدائم</li><li>الأمان والخصوصية</li><li>تشغيل آلي</li></ul>",
+
+
+
+"Virtual Desktop Infrastructure" : "البُنية الإساسية لسطح المكتب الإفتراضي" ,
+"VDI, a type of DaaS, hosts desktop environments on a central server. Desktop images run within VMs and are delivered over a network to PCs or other devices." 
+: "<p>البُنية الإساسية لسطح المكتب الإفتراضي (وهي نوع من \"سطح المكتب كخدمة\") تقوم بإستضافة بيئات سطح المكتب على خادم مركزي. يتم تشغيل صور سطح المكتب داخل الأجهزة الإفتراضية ويتم تسليمها عبر الشبكة الى أجهزة الكمبيوتر او أجهزة أخرى.</p>" ,
+
+"Digital Workspace" : "مساحات العمل الرقمية" ,
+"Experience the power of a unified digital workspace: streamlining app, data, and desktop delivery." 
+: "قم بتجربة قوة مساحة العمل الرقمية الموحدة: التطبيقات المُبسطة، البيانات، وسطح المكتب." ,
+"It allows employees to access their apps and data real-time – on any device, from any location regardless of whether the information is stored through cloud services or in the data center." 
+: "فهي تسمح للموظفين بالوصول الى تطبيقاتهم وبياناتهم في الوقت الفعلي - من أي جهاز، وفي أي موقع بغض النظر اذا كانت البيانات مُخزنة في الخدمات السحابية او مراكز البيانات." ,
+
+"DataCenterPageDigitalWorkspace":"<p>قم بتجربة قوة مساحة العمل الرقمية الموحدة: التطبيقات المُبسطة، البيانات، وسطح المكتب.<br />فهي تسمح للموظفين بالوصول الى تطبيقاتهم وبياناتهم في الوقت الفعلي - من أي جهاز، وفي أي موقع بغض النظر اذا كانت البيانات مُخزنة في الخدمات السحابية او مراكز البيانات.</p>",
+
+
+"Private Cloud" : "السحابة الخاصة" ,
+"Discover a cutting-edge data center model that dynamically serves businesses with on-demand services. Tailored for large enterprises, it empowers corporate network and data center administrators to act as internal service providers, catering to the needs of customers within the organization." 
+: "<p>إكتشف نموذج متطور لمركز البيانات يخدم الأعمال ديناميكياً بخدمات عند الطلب. تم تصميمه للشركات الكبيرة، فهو يُمّكن مسؤولين الشبكات ومراكز البيانات للشركة كمقدمين خدمات داخليين، وتلبية احتياجات العُملاء داخل الشركة.</p>" ,
+
+
+"Hybrid Cloud" : "السحابة الهجينة" ,
+"A hybrid cloud combines two or more separate cloud infrastructures (private, community, or public) using standardized or proprietary technology for data and application portability. It typically includes a mix of public and private clouds." 
+: "<p>تجمع السحابة الهجينة بين بُنيتين أساسيتين سحابيتين مُنفصلتين او اكثر (سحابة خاصة، سحابة للمجتمع، سحابة عامة) بإستخدام تكنولوجيا مُخصصة لنقل البيانات والتطبيقات. تتضمن في العادة من السحابة العامة والسحابة الخاصة.</p>" ,
+
+"Easily manage and deploy on multiple clouds," : "إدارة ونشر على السحابة المُتعددة بسهولة، " ,
+"Avoid vendor lock-in" : "تجنُب الإلتزام الإجبراي مع البائع" ,
+"Reduce cost" : "تقليل التكلفة" ,
+"Increase overall productivity" : "زيادة الإنتاجية بشكل عام" ,
+
+
+"Multi Cloud" : "السحابة المُتعددة" ,
+"CloudPageMulti-cloud" 
+: "<p>السحابة المُتعددة هي: الإستفادة من قوة مُقدمي الخدمات السحابية المتنوعين، بإستخدام سحابتين او اكثر من مُزودين مختلفين، دمج البُنية التحتية، المنصة، او البرامج كخدمات (IaaS, PaaS, SaaS). على سبيل المثال، البريد الإلكتروني من بائع، وإدارة علاقات العُملاء من بائع آخر، و خدمة IaaS من بائع آخر ايضاً. قُم بفتح المزايا التالية بإستخدام منصات السحابة المُتعددة.</p><ul><li>إدارة ونشر على السحابة المُتعددة بسهولة،</li><li>تجنُب الإلتزام الإجبراي مع البائع</li><li>تقليل التكلفة</li><li>زيادة الإنتاجية بشكل عام</li></ul>",
+
+
+
+
+
+
+"Customer Experience Solutions" : "حلول تجارب العميل" ,
+"Cyber Vision holds the trust of leading banks, insurance providers, healthcare institutions, educational establishments, and governmental bodies to elevate customer service standards. Our expertise lies in crafting, building, and deploying omni-channel contact center solutions, ensuring superior services across diverse sectors " 
+: "تمتلك شركة مفهوم الرؤية الثقة من البنوك الرائدة، مُقدمي خدمات التأمين، المنشئات الصحية، المؤسسات التعليمية، والهيئات الحكومية لرفع معايير خدمة العُملاء. تكمن خبرتنا في صياغة وبناء وإطلاق حلول مراكز الإتصال مُتعددة القنوات، لضمان خدمات مُميزة على مستوى القطاعات المُختلفة." ,
+"Cyber Vision has vast experience in Contact Center implementations and delivered ample of mission critical Contact Center Projects in the Kingdom. We offer solutions using leading technologies from Genesys, Cisco, Avaya, Verint, Serenova, Sestek, etc." 
+: "تتمتع شركة مفهوم الرؤية بخبرة واسعة بتنفيذ مراكز الإتصال وقامت بتقديم مجموعة كبيرة من مشاريع الإتصال المُهمة في المملكة العربية السعودية. نحن نقدم حلولاً بإستخدام التقنيات الرائدة من الشركات التالية Cisco, Avaya, Verint, Serenova, Sestek وغيرها." ,
+
+"PageCustomerExperienceSolutions"
+:"<p>تمتلك شركة مفهوم الرؤية الثقة من البنوك الرائدة، مُقدمي خدمات التأمين، المنشئات الصحية، المؤسسات التعليمية، والهيئات الحكومية لرفع معايير خدمة العُملاء. تكمن خبرتنا في صياغة وبناء وإطلاق حلول مراكز الإتصال مُتعددة القنوات، لضمان خدمات مُميزة على مستوى القطاعات المُختلفة.<br />تتمتع شركة مفهوم الرؤية بخبرة واسعة بتنفيذ مراكز الإتصال وقامت بتقديم مجموعة كبيرة من مشاريع الإتصال المُهمة في المملكة العربية السعودية. نحن نقدم حلولاً بإستخدام التقنيات الرائدة من الشركات التالية Cisco, Avaya, Verint, Serenova, Sestek وغيرها.</p>",
+
+"Self Service Solutions" : "حلول الخدمات الذاتية" ,
+"Self-service solutions​" : "حلول الخدمات الذاتية" ,
+"Interactive Voice Response (IVR)" : "الإستجابة الصوتية التفاعلية" ,
+"Chatbot" : "روبوت المحادثة" ,
+
+"PageSelf-serviceSolutions​" : "<ul><li>حلول الخدمات الذاتية​</li><li>الإستجابة الصوتية التفاعلية</li><li>روبوت المحادثة</li></ul>",
+
+
+"CRM Integrations" : "دمج نظام إدارة علاقات العُملاء " ,
+"Microsoft Dynamics 365 Integration​" : "دمج  Microsoft Dynamics 365" ,
+"Microsoft SharePoint Integration​" : "دمج  Microsoft SharePoint" ,
+"Microsoft Cloud Services Integration​" : "دمج الخدمات السحابية لـ Microsoft" ,
+"Salesforce Integration​" : "دمج أداة Salesforce" ,
+
+
+"PageCRM-Integrations" : "<ul><li>دمج  Microsoft Dynamics 365</li><li>دمج  Microsoft SharePoint​</li><li>دمج الخدمات السحابية لـ Microsoft​</li><li>دمج أداة Salesforce​</li> </ul>",
+
+
+
+
+"Intelligent Automation" : "التشغيل الذكي الآلي" ,
+
+"Automated Speech Recognition" : "التعرف على الحديث الآلي" ,
+"Natural Language Understanding" : "فهم اللغة الطبيعية" ,
+"Conversational IVR​" : "نظام الرد الآلي " ,
+"Voice Biometrics" : "القياسات الحيوية الصوتية" ,
+
+"PageIntelligentAutomation" : "<ul><li>التعرف على الحديث الآلي</li><li>فهم اللغة الطبيعية</li><li>نظام الرد الآلي</li><li>القياسات الحيوية الصوتية</li> </ul>",
+
+
+
+"360 Customer Journey" : "رحلة العميل الكاملة" ,
+"24 x 7 Time Critical Support Services​" : "دعم على مدار الساعة 24/7 للخدمات المُهمة" ,
+"Customized Wallboards​" : "الوان وحدات مُخصصة" ,
+"Customized Dashboards​" : "لوحات معلومات مُخصصة",
+
+
+"Page360CustomerJourney":"<ul><li>دعم على مدار الساعة 24/7 للخدمات المُهمة</li><li>الوان وحدات مُخصصة</li><li>لوحات معلومات مُخصصة</li> </ul>",
+
+
+"Workforce Management" : "إدارة القوى العاملة" ,
+
+"Contract Employment" : "التوظيف التعاقدي" ,
+"Residence Engineering Services" : "خدمات هندسية للأماكن" ,
+"Forecasting" : "التنبؤ" ,
+"Scheduling" : "الجدولة" ,
+
+
+"PageWorkforceManagement" : "<ul><li>التوظيف التعاقدي</li>    <li>خدمات هندسية للأماكن</li>    <li>التنبؤ</li><li>الجدولة</li> </ul>"
+
+
+
 
 
 }
