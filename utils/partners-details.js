@@ -505,6 +505,25 @@ const partnarDetails =
                 ]
          }
         ]
+},
+{
+    "id":23,
+     "link":"RiskVerse",
+     "image":"RiskVerse.png",
+     "name":"Risk Verse",
+     type:[
+         {
+         "name":"",
+         "image":"Category/F5_-150x150.png",
+         listitems:[
+            // "BIG-IP Cloud Edition",
+            // "BIG-IP iSeries",
+            // "BIG-IP VE",
+            // "VIPRION"
+        
+            ]
+         }
+        ]
 }
 
 ];
