@@ -38,8 +38,21 @@ const CustomerStyleTwo = () => {
                 <a href={`/${ key.link}`} 
                                           onClick={(event) => 
                                                             {  
-                                                              if('TrendMicro,CyberDacians'.indexOf(key.link )>-1 ) 
-                                                                event.preventDefault();    
+                                                              if('TrendMicro'.indexOf(key.link )>-1 ) 
+                                                              {
+                                                                event.preventDefault();  
+                                                                //window.location.href= 'https://www.trendmicro.com/'
+                                                                window.open( 'https://www.trendmicro.com/');
+
+                                                              }
+
+                                                                if('CyberDacians'.indexOf(key.link )>-1 )
+                                                                {
+                                                                event.preventDefault();  
+                                                                //window.location.href= 'https://cyberdacians.com/'
+                                                                window.open( 'https://cyberdacians.com/');
+
+                                                                }
                                                             }   
                                                   }  >
                   <img src={`/images/partner/${key.id}.png`} alt="image" />                

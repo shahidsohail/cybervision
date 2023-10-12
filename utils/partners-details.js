@@ -464,15 +464,45 @@ const partnarDetails =
      "name":"Cyber Dacians services",
      type:[
          {
-         "name":"",
+         "name":"Defensive",
          "image":"Category/F5_-150x150.png",
          listitems:[
-            // "BIG-IP Cloud Edition",
-            // "BIG-IP iSeries",
-            // "BIG-IP VE",
-            // "VIPRION"
-        
+            "vCISO",
+            "Code Review",
+            "Forensics Audit",
+            "Hardening",
+            "Phishing Simulation",
+            "Cloud Security",
+            "Government Consulting",
+            "Secure Configuration"
             ]
+         },
+         {
+            "name":"Offensive",
+            "image":"Category/cloud-with-two-arrows-wide_1D9CD3-768x361.png",
+            listitems:[
+                "Web App Pentest",
+                "Mobile App Pentest",
+                "Binary Hacking",
+                "Cash Machines (ATMs)",
+                "Reverse Engineering",
+                "Red Teaming"
+                ]
+         },
+         {
+            "name":"GRC",
+            "image":"Category/cloud-with-two-arrows-wide_1D9CD3-768x361.png",
+            listitems:[
+                "HIPAA",
+                "NIS",
+                "ISO 27001",
+                "NIST",
+                "PCI-DSS",
+                "GDPR",
+                "Audit",
+                "Diagnostic",
+                "Implementation"
+                ]
          }
         ]
 }
