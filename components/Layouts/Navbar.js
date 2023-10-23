@@ -37,11 +37,16 @@ const Navbar = () => {
   };
 
   const selectStyle = {
-    padding: '6px',
+    padding: '4px',
     fontSize: '12px',
     border: '1px solid #ccc',
-    borderRadius: '4px',
+    borderRadius: '6px',
     outline: 'none',
+    backgroundColor: '#00b0ee',
+    color: 'white',
+    'font-weight': '600',
+    margin: '2px',
+    'margin-bottom': '6px'
   };
 
   return (
@@ -358,17 +363,7 @@ const Navbar = () => {
                       <a className="nav-link">{t("Clients")}</a>
                     </Link>
                   </li>
-                  <li className="nav-item">
-                    <select
-                      id="language-select"
-                      value={i18n.language}
-                      onChange={handleLanguageChange}
-                      style={selectStyle}
-                    >
-                      <option value="en">English</option>
-                      <option value="ar">العربية</option>
-                    </select>
-                  </li>
+                  
                   {/* <li className="nav-item">
                     <Link href="#">
                       <a className="nav-link">
@@ -495,10 +490,11 @@ const Navbar = () => {
                     </a>
                   </Link>
                   </li>
+                 
                 </ul>
 
-                <div className="others-options isMobile">
-                <Link href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638245892587893727.NjM2Y2FhOGYtNTcxMi00ZmIyLWJmNmUtNzA5ODY5ZTAzYzhjMTJmODAyMTgtMmRhMy00NThiLTg2Y2YtNGE3NWUxNDI4ODMw&ui_locales=en-US&mkt=en-US&client-request-id=3f7c0214-7b1f-44cb-8e12-ce042dfa6e31&state=Xet1Wf2Ozc2rfrOjKP0nvk_OhHyVU8UFAtkvczG9zFSQ-u3rSkGPAgu_PNie_9i4bYfTrCVFrypqwdHKQMtF9o8oi-F2cPWScmAW5MgpiA4CwjkoHVwQlNMxN76HmjeTgMY1WFrEZW73QBcVkFMjO0PP-Wg13CnoxP8eDdnHcVcJFSU-NXBcBEQcjzD4S3zHPiLHr7G53NdeWihGWI8XvWR1iCWwhKouHE2iLBk9hrIc7XVQFH">
+                <div className="others-options isMobile"  >
+                  <Link href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638245892587893727.NjM2Y2FhOGYtNTcxMi00ZmIyLWJmNmUtNzA5ODY5ZTAzYzhjMTJmODAyMTgtMmRhMy00NThiLTg2Y2YtNGE3NWUxNDI4ODMw&ui_locales=en-US&mkt=en-US&client-request-id=3f7c0214-7b1f-44cb-8e12-ce042dfa6e31&state=Xet1Wf2Ozc2rfrOjKP0nvk_OhHyVU8UFAtkvczG9zFSQ-u3rSkGPAgu_PNie_9i4bYfTrCVFrypqwdHKQMtF9o8oi-F2cPWScmAW5MgpiA4CwjkoHVwQlNMxN76HmjeTgMY1WFrEZW73QBcVkFMjO0PP-Wg13CnoxP8eDdnHcVcJFSU-NXBcBEQcjzD4S3zHPiLHr7G53NdeWihGWI8XvWR1iCWwhKouHE2iLBk9hrIc7XVQFH">
                     <a className="default-btn" target="_blank">
                     {t("Employee Login")}
                       <span></span>
@@ -510,8 +506,24 @@ const Navbar = () => {
                       <span></span>
                     </a>
                   </Link>
+                  
+                    
+                   
+                 
                 </div>
+                
               </div>
+              <div  >
+                <select
+                      id="language-select"
+                      value={i18n.language}
+                      onChange={handleLanguageChange}
+                      style={selectStyle}
+                    >
+                      <option value="en">English</option>
+                      <option value="ar">العربية</option>
+                    </select>
+                </div>
             </nav>
                   </div>
       </div>
