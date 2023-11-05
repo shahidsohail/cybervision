@@ -879,36 +879,35 @@ Parking Guidance: for traffic flow , empty-busy places
         image:"ourSuccess/banner.jpeg",
         categoty:[
             {
-                heading:"SANG Infrastructure",
-                image:"ourSuccess/1.png",
+                heading:"King Abdullah Humanitarian Foundation",
+                image:"ourSuccess/kaf.png",
                 description:`
                 <p>
-                To support the DWDM Network stability which is the backbone infrastructure for all Saudi Arabian National Guard (SANG) networks Kingdome wide carrying the service demands for all networks.
+                King Abdullah Humanitarian Foundation partnered with Cybervision to enhance its cybersecurity. A tailored firewall and network infrastructure revamp were deployed, seamlessly integrating with operations. The advanced firewall thwarted cyber threats, reducing unauthorized access and boosting overall security. Simultaneously, network optimizations improved performance and user experience. The collaboration transformed King Abdullah Humanitarian Foundation into a resilient digital fortress, safeguarding assets and ensuring operational efficiency.
                 <br />
-                The Saudi Arabian National Guard (SANG) was looking forward for a solution which will ensure network stability and to overcome the disrupts in Nationwide Fiber in a timely manner without affecting the running services Kingdome wide.
-                <br />
+                
                 </p>
                 `,
             },
-            {
-                heading:"Madinah Development Authority",
-                image:"ourSuccess/2.jpg",
-                description:`
-                <p>
-                A Saudi Arabian governmental organization focused on developing the city of Madinah, the second holiest city in the Muslim world, to meet the expectations of its permanent residents and visitors. Cyber Vision was entrusted to build Data Center Structured Cabling System, Campus Network LAN solution, Hyperconverged Infrastructure, and Data Center SDN Solution.
-                </p>
-                `,
-            }, 
-            {
-                heading:"Ministry of Justice",
-                image:"ourSuccess/3.png",
-                description:`
-                <p>
-                The main objective of the project is to facilitate the judicial procedure for all parties by documenting trials sessions and conversation between all parties, ensuring that Trials are executed with the best practices, and in case of any complaint the system should support the Investigation Board efficiently to clear all issues related to the judiciary process
-                </p>
+            // {
+            //     heading:"Madinah Development Authority",
+            //     image:"ourSuccess/2.jpg",
+            //     description:`
+            //     <p>
+            //     A Saudi Arabian governmental organization focused on developing the city of Madinah, the second holiest city in the Muslim world, to meet the expectations of its permanent residents and visitors. Cyber Vision was entrusted to build Data Center Structured Cabling System, Campus Network LAN solution, Hyperconverged Infrastructure, and Data Center SDN Solution.
+            //     </p>
+            //     `,
+            // }, 
+            // {
+            //     heading:"Ministry of Justice",
+            //     image:"ourSuccess/3.png",
+            //     description:`
+            //     <p>
+            //     The main objective of the project is to facilitate the judicial procedure for all parties by documenting trials sessions and conversation between all parties, ensuring that Trials are executed with the best practices, and in case of any complaint the system should support the Investigation Board efficiently to clear all issues related to the judiciary process
+            //     </p>
 
-                `,
-            },  
+            //     `,
+            // },  
                
         ]
     },

@@ -62,15 +62,16 @@ const OurServices = () => {
                 </div>
                 <h3>{t("Success Stories")}</h3>
                 <p>
-                {t("SANG_MDA_MoJ SANG Infrastructure To support the DWDM Network stability ..")}
+                {/* {t("SANG_MDA_MoJ SANG Infrastructure To support the DWDM Network stability ..")} */}
+                {t("Success Stories of some of our valued clients in kingdom ..")}
                 </p>
 
-                {/* <Link href="/services/ourSuccess">
+                { <Link href="/services/ourSuccess">
                   <a className="service-btn">
                   {t("Read More")}
                     <i className="flaticon-right"></i>...
                   </a>
-                </Link> */}
+                </Link> }
               </div>
             </div>
 {/* 
