@@ -332,76 +332,76 @@ const serviceDetails = [
             {
                 heading:"UNIFIED COLLABORATION",
                 image:"collaborations/1.jpeg",
-                description:`
-                <p>
-                Teamwork has always been an essential part of running an effective business. However, in today’s digital environment, the way that people collaborate is changing. Employees situated all over the world still need to be able to connect and work together on important projects.
-                <br />
-                For companies to thrive in the age of the digital workforce, they need more than just a cohesive communication strategy. Collaborative tools are part of the fundamental requirements that all organizations need to maintain exceptional outcomes and employee performance
-                <br />
-                We will analyze your UC requirements and set up the necessary connected devices, endpoints, and software solutions in order to <b>create a powerful collaboration ecosystem on your premises.</b>
-                </p>`,
+                description:`UNIFIEDCOLLABORATION`
+                // <p>
+                // Teamwork has always been an essential part of running an effective business. However, in today’s digital environment, the way that people collaborate is changing. Employees situated all over the world still need to be able to connect and work together on important projects.
+                // <br />
+                // For companies to thrive in the age of the digital workforce, they need more than just a cohesive communication strategy. Collaborative tools are part of the fundamental requirements that all organizations need to maintain exceptional outcomes and employee performance
+                // <br />
+                // We will analyze your UC requirements and set up the necessary connected devices, endpoints, and software solutions in order to <b>create a powerful collaboration ecosystem on your premises.</b>
+                // </p>`,
             }, 
                 {
                     heading:"CALL CONTROL",
                     image:"collaborations/2.png",
-                    description:`
-                    <p>
-                    Scalable and Resilient Call control is centralized at a single location that serves multiple remote sites. Management and administration are centralized from web base interface Virtualization Supported Common telephony features are available across voice and video endpoints
-                    </p>
-                    `
+                    description:`CALLCONTROL`
+                    // <p>
+                    // Scalable and Resilient Call control is centralized at a single location that serves multiple remote sites. Management and administration are centralized from web base interface Virtualization Supported Common telephony features are available across voice and video endpoints
+                    // </p>
+                    // `
                 },
                 {
                     heading:"COLLABORATION ENDPOINTS",
                     image:"collaborations/3.jpg",
-                    description:`
-                    <p>
-                    Collaboration Endpoint products make communicating with your counterparts across town or on the other side of the world easy. Video conferencing, IP phones, and desktop systems unite people and enhance the user experience.
-                    </p>
-                    `
+                    description:`CollaborationEndpoint`
+                    // <p>
+                    // Collaboration Endpoint products make communicating with your counterparts across town or on the other side of the world easy. Video conferencing, IP phones, and desktop systems unite people and enhance the user experience.
+                    // </p>
+                    // `
                 },
                 {
                     heading:"VIDEO CONFERENCING",
                     image:"collaborations/4.png",
-                    description:`
-                    <p>   
-                        Centralized Scalable Call Control: Manage call control centrally from a single location, serving multiple remote sites.
-                        <br/>                      
-                        Streamlined Management: Centralize management and administration through a web-based interface.
-<br/>
-                        Virtualization Ready: Ready for virtualization to optimize resource utilization.
-<br/>
-Unified Telephony Features: Enjoy consistent telephony features across voice and video endpoints.
-                    </p>
-                    `
+                    description:`VIDEOCONFERENCING`
+//                     <p>   
+//                         Centralized Scalable Call Control: Manage call control centrally from a single location, serving multiple remote sites.
+//                         <br/>                      
+//                         Streamlined Management: Centralize management and administration through a web-based interface.
+// <br/>
+//                         Virtualization Ready: Ready for virtualization to optimize resource utilization.
+// <br/>
+// Unified Telephony Features: Enjoy consistent telephony features across voice and video endpoints.
+//                     </p>
+//                     `
                 },
                 {
                     heading:"MOBILITY",
                     image:"collaborations/5.png",
-                    description:`
-                    <p>
-                    Stay seamlessly connected from anywhere. Utilize your office extension to make/receive calls, chat, and more using softphone apps.
-                    </p>
-                    `
+                    description:`MOBILITYDetails`
+                    // <p>
+                    // Stay seamlessly connected from anywhere. Utilize your office extension to make/receive calls, chat, and more using softphone apps.
+                    // </p>
+                    // `
                 },
                 {
                     heading:"PRESENCE & INSTANT MESSAGING",
                     image:"collaborations/6.png",
-                    description:`
-                    <p>
-                       Chat instantly with users via text messages, and seamlessly receive image, audio, video, and various attachments. 
-                       <br/>
-                       Stay informed about your colleagues' availability status before initiating connections.
-                    </p>
-                    `
+                    description:`PRESENCEInstantDetails`
+                    // <p>
+                    //    Chat instantly with users via text messages, and seamlessly receive image, audio, video, and various attachments. 
+                    //    <br/>
+                    //    Stay informed about your colleagues' availability status before initiating connections.
+                    // </p>
+                    // `
                 },
                 {
                     heading:"UNIFIED MESSAGING",
                     image:"collaborations/7.png",
-                    description:`
-                    <p>
-                    UM integrates voice and email messaging into a single mailbox accessible across multiple devices, with the option for added features like Fax support.
-                    </p>
-                    `
+                    description:`UNIFIEDMESSAGINGDetails`
+                    // <p>
+                    // UM integrates voice and email messaging into a single mailbox accessible across multiple devices, with the option for added features like Fax support.
+                    // </p>
+                    // `
                 },
 
         ]

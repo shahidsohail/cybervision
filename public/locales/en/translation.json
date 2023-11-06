@@ -411,7 +411,51 @@
 "Forecasting" : "Forecasting" ,
 "Scheduling" : "Scheduling" ,
 
-"PageWorkforceManagement" : "<ul><li>Contract Employment</li>    <li>Residence Engineering Services</li>    <li>Forecasting</li><li>Scheduling</li> </ul>"
+"PageWorkforceManagement" : "<ul><li>Contract Employment</li>    <li>Residence Engineering Services</li>    <li>Forecasting</li><li>Scheduling</li> </ul>",
+
+
+"UNIFIED COLLABORATION" : "UNIFIED COLLABORATION" ,
+"UNIFIEDCOLLABORATION":"<p>Teamwork has always been an essential part of running an effective business. However, in today’s digital environment, the way that people collaborate is changing. Employees situated all over the world still need to be able to connect and work together on important projects.<br />For companies to thrive in the age of the digital workforce, they need more than just a cohesive communication strategy. Collaborative tools are part of the fundamental requirements that all organizations need to maintain exceptional outcomes and employee performance<br />We will analyze your UC requirements and set up the necessary connected devices, endpoints, and software solutions in order to <b>create a powerful collaboration ecosystem on your premises.</b></p>" ,
+
+"CALL CONTROL" : "CALL CONTROL" ,
+"CALLCONTROL" 
+: "<p>Scalable and Resilient Call control is centralized at a single location that serves multiple remote sites. Management and administration are centralized from web base interface Virtualization Supported Common telephony features are available across voice and video endpoints</p>",
+
+
+"COLLABORATION ENDPOINTS" : "COLLABORATION ENDPOINTS" ,
+"CollaborationEndpoint" 
+: "<p>Collaboration Endpoint products make communicating with your counterparts across town or on the other side of the world easy. Video conferencing, IP phones, and desktop systems unite people and enhance the user experience.</p>" ,
+
+"VIDEO CONFERENCING" : "VIDEO CONFERENCING" ,
+"VIDEOCONFERENCING" : "<p>Centralized Scalable Call Control: Manage call control centrally from a single location, serving multiple remote sites.<br/>Streamlined Management: Centralize management and administration through a web-based interface.<br/>Virtualization Ready: Ready for virtualization to optimize resource utilization.<br/>Unified Telephony Features: Enjoy consistent telephony features across voice and video endpoints.</p>",
+
+
+
+"Centralized Scalable Call Control: Manage call control centrally from a single location, serving multiple remote sites. " : "Centralized Scalable Call Control: Manage call control centrally from a single location, serving multiple remote sites. " ,
+"Streamlined Management: Centralize management and administration through a web-based interface. " : "Streamlined Management: Centralize management and administration through a web-based interface. " ,
+"Virtualization Ready: Ready for virtualization to optimize resource utilization. " : "Virtualization Ready: Ready for virtualization to optimize resource utilization. " ,
+"Unified Telephony Features: Enjoy consistent telephony features across voice and video endpoints." : "Unified Telephony Features: Enjoy consistent telephony features across voice and video endpoints." ,
+
+
+
+"MOBILITY" : "MOBILITY" ,
+"MOBILITYDetails" : "<p>Stay seamlessly connected from anywhere. Utilize your office extension to make/receive calls, chat, and more using softphone apps.</p>" ,
+
+"Stay seamlessly connected from anywhere. Utilize your office extension to make/receive calls, chat, and more using softphone apps." 
+: "Stay seamlessly connected from anywhere. Utilize your office extension to make/receive calls, chat, and more using softphone apps." ,
+
+
+"PRESENCE & INSTANT MESSAGING" : "PRESENCE & INSTANT MESSAGING" ,
+"PRESENCEInstantDetails" : "<p>Chat instantly with users via text messages, and seamlessly receive image, audio, video, and various attachments. <br/>Stay informed about your colleagues' availability status before initiating connections.</p>",
+
+"Chat instantly with users via text messages, and seamlessly receive image, audio, video, and various attachments. " : "Chat instantly with users via text messages, and seamlessly receive image, audio, video, and various attachments. " ,
+"Stay informed about your colleagues' availability status before initiating connections." : "Stay informed about your colleagues' availability status before initiating connections." ,
+
+
+"UNIFIED MESSAGING" : "UNIFIED MESSAGING" ,
+
+"UNIFIEDMESSAGINGDetails" : "UM integrates voice and email messaging into a single mailbox accessible across multiple devices, with the option for added features like Fax support." 
+
 
 
 

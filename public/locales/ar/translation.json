@@ -417,7 +417,70 @@
 "Scheduling" : "الجدولة" ,
 
 
-"PageWorkforceManagement" : "<ul><li>التوظيف التعاقدي</li>    <li>خدمات هندسية للأماكن</li>    <li>التنبؤ</li><li>الجدولة</li> </ul>"
+"PageWorkforceManagement" : "<ul><li>التوظيف التعاقدي</li>    <li>خدمات هندسية للأماكن</li>    <li>التنبؤ</li><li>الجدولة</li> </ul>",
+
+"UNIFIED COLLABORATION" : "التعاون المُوحد" ,
+"UNIFIEDCOLLABORATION":"<p>لطالما كان العمل كفريق جزءاً اساسياً من إدارة الأعمال الفعالة. ولكن، في البيئة الرقمية اليوم، الطريقة التي يتعاون بها الناس تتغير. لا يزال الموظفين في جميع انحاء العالم بحاجة الى ان يكونوا قادرين على التواصل والعمل معاً في المشاريع المُهمة.<br />لكي تقوم الشركات بالإزدهار في عصر القوى العاملة الرقمية، فهي بحاجة الى اكثر من استراتيجية إتصال مُتماسكة. الأدوات التعاونية هي جزء من المتطلبات الأساسية التي تحتاجها جميع المؤسسات والشركات للمحافظة على نتائج إستثنائية والمحافظة على آداء الموظفين.<br />سنقوم بتحيل التعاون المُوحد الخاص بكم وإعداد الأجهزة اللازمة، أجهزة المُستخدمين، وحلول البرامج اجل إنشاء نظام تعاوني قوي في مكان عملك. </b></p>" ,
+
+
+"Teamwork has always been an essential part of running an effective business. However, in today’s digital environment, the way that people collaborate is changing. Employees situated all over the world still need to be able to connect and work together on important projects. " 
+: "لطالما كان العمل كفريق جزءاً اساسياً من إدارة الأعمال الفعالة. ولكن، في البيئة الرقمية اليوم، الطريقة التي يتعاون بها الناس تتغير. لا يزال الموظفين في جميع انحاء العالم بحاجة الى ان يكونوا قادرين على التواصل والعمل معاً في المشاريع المُهمة." ,
+"For companies to thrive in the age of the digital workforce, they need more than just a cohesive communication strategy. Collaborative tools are part of the fundamental requirements that all organizations need to maintain exceptional outcomes and employee performance " 
+: "لكي تقوم الشركات بالإزدهار في عصر القوى العاملة الرقمية، فهي بحاجة الى اكثر من استراتيجية إتصال مُتماسكة. الأدوات التعاونية هي جزء من المتطلبات الأساسية التي تحتاجها جميع المؤسسات والشركات للمحافظة على نتائج إستثنائية والمحافظة على آداء الموظفين." ,
+"We will analyze your UC requirements and set up the necessary connected devices, endpoints, and software solutions in order to create a powerful collaboration ecosystem on your premises." 
+: "سنقوم بتحيل التعاون المُوحد الخاص بكم وإعداد الأجهزة اللازمة، أجهزة المُستخدمين، وحلول البرامج اجل إنشاء نظام تعاوني قوي في مكان عملك. " ,
+
+
+"CALL CONTROL" : "التحكم بالإتصال" ,
+"CALLCONTROL" 
+: "المكالمات القابلة للتطوير والمرنة يتم التحكم بها في مكان واحد وتقوم بخدمة مواقع بعيدة ومتعددة. الإدارة هي مركزية من قاعدة الويب الإفتراضية المدعومة، تتوفر ميزات الإتصال الهاتفي عبر أجهزة الإتصال الصوتية والمرئية.",
+
+
+"COLLABORATION ENDPOINTS" : "نِقاط التعاون" ,
+"CollaborationEndpoint" 
+: "<p>تجعل هذه المنتجات التواصل مع نظرائك في انحاء المدينة او على الجانب الآخر من العالم امراً سهلاً. الإجتماعات المرئية، هواتف الانترنت، وأنظمة سطح المكتب وتعزز تجربة المستخدم.</p>" ,
+
+
+"VIDEO CONFERENCING" : "الإجتماعات المرئية" ,
+
+"VIDEOCONFERENCING" : "<p>التحكم المركزي للإتصالات القابلة للتطوير: إدارة التحكم بالإتصال مركزياً من مكان واحد، وخدمة مواقع بعيدة ومتعددة.<br/>الإدارة المُبسطة: إدارة مركزية من خلال واجهة شبكة الانترنت.<br/>جاهزة للمحاكاة الإفتراضية لتحسين إستخدام الموارد.<br/>مزايا هاتفية مُوحدة: استمتع بمميزات الإتصال الهاتفي عبر أجهزة الإتصال الصوتية والمرئية.</p>",
+
+
+"Centralized Scalable Call Control: Manage call control centrally from a single location, serving multiple remote sites. " 
+: "التحكم المركزي للإتصالات القابلة للتطوير: إدارة التحكم بالإتصال مركزياً من مكان واحد، وخدمة مواقع بعيدة ومتعددة." ,
+"Streamlined Management: Centralize management and administration through a web-based interface. " 
+: "الإدارة المُبسطة: إدارة مركزية من خلال واجهة شبكة الانترنت." ,
+"Virtualization Ready: Ready for virtualization to optimize resource utilization. " 
+: "جاهزة للمحاكاة الإفتراضية لتحسين إستخدام الموارد." ,
+"Unified Telephony Features: Enjoy consistent telephony features across voice and video endpoints." 
+: "مزايا هاتفية مُوحدة: استمتع بمميزات الإتصال الهاتفي عبر أجهزة الإتصال الصوتية والمرئية." ,
+
+
+
+
+"MOBILITY" : "التنقُل" ,
+"MOBILITYDetails" : "ابق على إتصال بسلاسة من اي مكان. قُم بإستخدام مكتبك لإجراء وإستقبال المكالمات، الدردشة، والمزيد بإستخدام التطبيقات الهاتفية." ,
+
+"Stay seamlessly connected from anywhere. Utilize your office extension to make/receive calls, chat, and more using softphone apps." 
+: "ابق على إتصال بسلاسة من اي مكان. قُم بإستخدام مكتبك لإجراء وإستقبال المكالمات، الدردشة، والمزيد بإستخدام التطبيقات الهاتفية." ,
+
+"PRESENCE & INSTANT MESSAGING" : "الدردشات الفورية" ,
+"PRESENCEInstantDetails" : "<p>قُم بالدردشة على الفور مع المستخدمين بإستخدام الرسائل النصية، واستقبل بسلاسة الصور، الملفات الصوتية، الفيديوات، والعديد من المرفقات. <br/ابق على إطلاع بمعرفة حالة التوفر لزملائك قبل إجراء الإتصال.</p>" ,
+
+
+"Chat instantly with users via text messages, and seamlessly receive image, audio, video, and various attachments. " 
+: "قُم بالدردشة على الفور مع المستخدمين بإستخدام الرسائل النصية، واستقبل بسلاسة الصور، الملفات الصوتية، الفيديوات، والعديد من المرفقات." ,
+"Stay informed about your colleagues' availability status before initiating connections." 
+: "ابق على إطلاع بمعرفة حالة التوفر لزملائك قبل إجراء الإتصال." ,
+
+
+"UNIFIED MESSAGING" : "الرسائل المُوحدة" ,
+"UNIFIEDMESSAGINGDetails" : "<p>الرسائل المُوحدة تقوم بدمج الرسائل الصوتية ورسائل البريد الإلكتروني في صندوق بريد واحد يمكن الوصول له من خلال أجهزة عديدة، مع خيار إضافة مميزات آخرى مثل دعم الفاكس.</p>" ,
+
+"UM integrates voice and email messaging into a single mailbox accessible across multiple devices, with the option for added features like Fax support." 
+: "الرسائل المُوحدة تقوم بدمج الرسائل الصوتية ورسائل البريد الإلكتروني في صندوق بريد واحد يمكن الوصول له من خلال أجهزة عديدة، مع خيار إضافة مميزات آخرى مثل دعم الفاكس." 
+
+
 
 
 
