@@ -24,7 +24,8 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Cyber ​​vision</title>
+        <title>Cyber Security Company in Riyadh, Saudi Arabia - Cyber Vision</title>
+        <meta name="description" content="Cyber Vision Cyber Security Company in Riyadh with Expertise in Custom Security Services."></meta>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
 
