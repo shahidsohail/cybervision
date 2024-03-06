@@ -24,9 +24,10 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Cyber Security Company in Riyadh, Saudi Arabia - Cyber Vision | CyberVision</title>
+        <title>Cyber Vision | CyberVision | Cyber Security Company in Riyadh, Saudi Arabia</title>
         <meta name="description" content="CyberVision.com | CyberVision| Cyber Vision | Cyber Security Company in Riyadh with Expertise in Custom Security Services."></meta>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta property="og:url" content="https://cybervision.com.sa/" />
       </Head>
 
       <I18nextProvider i18n={i18n}>
