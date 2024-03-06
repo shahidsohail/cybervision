@@ -206,6 +206,42 @@ const Customers = () => {
             >
               <img src="/images/partner/19.png" alt="image" />
             </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/Splunk.svg" alt="Splunk" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/Bluefinn.png" alt="Bluefinn" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/RSA.png" alt="RSA" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/infoblox.png" alt="infoblox" />
+            </div>
           </div>
         </div>
 
