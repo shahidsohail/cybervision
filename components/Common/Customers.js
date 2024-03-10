@@ -213,7 +213,7 @@ const Customers = () => {
               data-aos-delay="450"
               data-aos-duration="1200"
             >
-              <img src="/images/partner/Splunk.svg" alt="Splunk" />
+              <img src="/images/partner/Splunk.png" alt="Splunk" />
             </div>
 
             <div 
