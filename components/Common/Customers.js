@@ -306,6 +306,35 @@ const Customers = () => {
               <img src="/images/partner/Tenable.png" alt="Tenable" />
             </div>
 
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/RecordedFuture.png" alt="Recorded Future" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/crowdstrike.png" alt="Crowd Strike" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/BlackBerry.png" alt="BlackBerry" />
+            </div>
+
+
+
           </div>
         </div>
 
