@@ -242,6 +242,70 @@ const Customers = () => {
             >
               <img src="/images/partner/infoblox.png" alt="infoblox" />
             </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/Trellix.png" alt="Trellix" />
+            </div>
+            
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/algosec.png" alt="algosec" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/CHeckmarx.png" alt="CHeckmarx" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/Secureworks.png" alt="Secureworks" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/A10.png" alt="A10" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/Attivo.png" alt="Attivo" />
+            </div>
+
+            <div 
+              className="partner-item"
+              data-aos="zoom-in"
+              data-aos-delay="450"
+              data-aos-duration="1200"
+            >
+              <img src="/images/partner/Tenable.png" alt="Tenable" />
+            </div>
+
           </div>
         </div>
 
