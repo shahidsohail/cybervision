@@ -87,6 +87,27 @@ const Testimonial = () => {
               </div>
             </SwiperSlide>
 
+            <SwiperSlide>
+              <div className="testimonial-single-item">
+                <div className="testimonial-image">
+                  <img src="/images/clients/NationalCreativityInvestmentCo.jpg" alt="National Creativity Investment Co" />
+                </div>
+
+                <div className="testimonial-info">
+                  <h3>National Creativity Investment Co.</h3>
+                  <span>National Creativity Investment Co.</span>
+                </div>
+
+                <div className="testimonial-content">
+                  <div className="icon">
+                    <i className="flaticon-quote"></i>
+                  </div>
+                  <p>
+                    <a href="#">{t("National Creativity Investment Co.")}</a>
+                  </p>
+                </div>
+              </div>
+            </SwiperSlide>
 
             
           </Swiper>
