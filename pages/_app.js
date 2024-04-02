@@ -25,7 +25,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>Cyber Vision | CyberVision | Cyber Security Company in Riyadh, Saudi Arabia</title>
-        <meta name="description" content="CyberVision.com | CyberVision| Cyber Vision | Cyber Security Company in Riyadh with Expertise in Custom Security Services."></meta>
+        <meta name="description" content="CyberVision.com | CyberVision| Cyber Vision | Cyber Security Company in Riyadh with Expertise in Custom Security Services. | IT Managed Services | GRC Services | Cloud Computing | CyberSecurity Consulting | Monitoring Optimize Management "></meta>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta property="og:url" content="https://cybervision.com.sa/" />
       </Head>
