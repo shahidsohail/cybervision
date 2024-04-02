@@ -18,9 +18,9 @@ const {t} = useTranslation();
             <div className="col-lg-6">
               <div className="about-content">
                 <span>{t("About Us")}</span>
-                <h2>{t("Focused On Actionable Insights")}</h2>
+                {/* <h2>{t("Focused On Actionable Insights")}</h2> */}
                 <p>
-                {t("Cyber ​​Vision Company is based on providing comprehensive cyber security management services, as it employs the best talents in the field of technology to provide innovative cyber security services by benefiting from leading expertise in the field of comprehensive information security management.")}
+                {t("Cyber Vision is a premier provider of comprehensive cybersecurity solutions in the Kingdom of Saudi Arabia. Our inception was driven by a clear and compelling objective: to cater to the cybersecurity needs of businesses of all scales - small, medium, and large. We are dedicated to safeguarding the interests of our clients by covering world-class consulting services and cutting-edge solutions in the cybersecurity domain. Our founding team comprises seasoned professionals with profound expertise and rich experience in the cybersecurity field, which serves as the bedrock of our service excellence.")}
                 </p>
 
                 <ul className="about-list">
