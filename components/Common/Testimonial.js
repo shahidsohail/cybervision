@@ -109,6 +109,27 @@ const Testimonial = () => {
               </div>
             </SwiperSlide>
 
+            <SwiperSlide>
+              <div className="testimonial-single-item">
+                <div className="testimonial-image">
+                  <img src="/images/clients/SaudiExim.png" alt="Saudi Exim Bank" />
+                </div>
+
+                <div className="testimonial-info">
+                  <h3> Saudi EXIM Bank</h3>
+                  <span> Saudi EXIM Bank</span>
+                </div>
+
+                <div className="testimonial-content">
+                  <div className="icon">
+                    <i className="flaticon-quote"></i>
+                  </div>
+                  <p>
+                    <a href="#">{t(" Saudi EXIM Bank")}</a>
+                  </p>
+                </div>
+              </div>
+            </SwiperSlide>
             
           </Swiper>
         </div>
