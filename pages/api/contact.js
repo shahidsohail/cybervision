@@ -17,7 +17,7 @@ const transporter = {
   // host: 'smtp.google.com', 
   auth: {
     user: 'shahid.sohail@gmail.com',
-    pass: 'subhanall1!'
+    pass: 'your_password_here'
   }, */
 
 };
